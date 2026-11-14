@@ -1,0 +1,904 @@
+{
+  "schemaVersion": 1,
+  "title": "Family Threat Picture — O'Fallon, IL",
+  "location": "O'Fallon, IL (St. Clair County, St. Louis metro)",
+  "updated": "2026-11-14T07:06:31-06:00",
+  "overall": {
+    "level": "Elevated",
+    "localLevel": "Low",
+    "summary": "Overall: Elevated, unchanged. Iran/Hormuz stays the top threat (High, Steady): Iran claims three to four tankers hit mines and caught fire near the strait Saturday; neither the US nor UKMTO has confirmed it, and the US says main routes are cleared. Shipping is still about 65% below pre-war. In Illinois, police found and disabled a bomb at a Peoria ethanol plant Friday night; a 1-mile evacuation continues and no motive has been given. The US has reportedly lost measles-elimination status, and flu keeps rising. At home Low: no NWS alerts, air Good (AQI 19), river 10.6 ft, no quakes, few outages; hard freezes tonight (26) and Sunday night (27).",
+    "topThreat": {
+      "id": "iran",
+      "level": "High",
+      "name": "US–Iran / Hormuz"
+    },
+    "watchItem": "Independent confirmation of the Hormuz mine strikes or any attack on US forces; oil above $100 when markets reopen Monday; Peoria investigation findings; hard freeze tonight (26)."
+  },
+  "whatChanged": [
+    {
+      "date": "Nov 14 AM",
+      "title": "Iran claims tankers hit mines in Hormuz",
+      "detail": "Iran's navy and IRGC say three to four tankers, including a supertanker, struck mines and caught fire Saturday. UKMTO, the US and independent sources have not confirmed this; the US says main routes are cleared. Traffic is about 65% below pre-war (UKMTO). Houthis claim strikes on Saudi targets (unconfirmed). Level High, Steady.",
+      "trend": "Steady"
+    },
+    {
+      "date": "Nov 14 AM",
+      "title": "Bomb disabled at Peoria, IL ethanol plant",
+      "detail": "Police and the FBI found a device they called a credible threat at the BioUrja ethanol plant and made it safe. A 1-mile evacuation stays in place while the site is searched. About 150 miles north of us; no motive or suspect announced. Terrorism stays Guarded, trend Rising.",
+      "trend": "Rising"
+    },
+    {
+      "date": "Nov 13-14",
+      "title": "US reportedly loses measles-elimination status",
+      "detail": "PAHO's commission has revoked US measles elimination (WSJ via Reuters, Washington Post); the official announcement is pending. 5,182 confirmed 2026 cases (CDC).",
+      "trend": "Rising"
+    },
+    {
+      "date": "Nov 13",
+      "title": "Flu still rising (CDC week 44)",
+      "detail": "11.3% lab positivity, flu-like illness 3.2% of visits (above the 2.9% baseline), mostly H1N1; at least 2.6M illnesses, 36,000 hospitalizations, 2,100 deaths so far.",
+      "trend": "Rising"
+    },
+    {
+      "date": "Nov 14",
+      "title": "Taiwan activity eased",
+      "detail": "10 PLA aircraft (4 crossed the median line) and 8 warships, down from 30 aircraft a day earlier. China hosts APEC in Shenzhen next week. Trend Rising to Steady.",
+      "trend": "Steady"
+    },
+    {
+      "date": "Nov 14 AM",
+      "title": "Home: quiet, colder tonight",
+      "detail": "No NWS alerts, AQI 19 (Good), river 10.6 ft, no New Madrid quakes, about 200 Ameren Illinois customers out. Low 26 tonight, 27 Sunday night. Illinois gas down to $4.23.",
+      "trend": "Steady"
+    }
+  ],
+  "topActions": [
+    {
+      "title": "Freeze-proof tonight",
+      "detail": "Low 26 tonight and 27 Sunday night: disconnect hoses, cover outdoor faucets, bring pets in, check furnace and CO alarms."
+    },
+    {
+      "title": "Check MMR and flu shots",
+      "detail": "The US has reportedly lost measles-elimination status and flu keeps rising: confirm two MMR doses for everyone and get flu shots if you haven't."
+    },
+    {
+      "title": "Fuel and supply top-off",
+      "detail": "Gas keeps easing ($4.23 Illinois, $4.03 East St. Louis): fill vehicles, rotate stored fuel, keep 2 weeks of water, food and prescriptions. No panic-buying."
+    }
+  ],
+  "threats": [
+    {
+      "id": "iran",
+      "name": "US–Iran war and Strait of Hormuz",
+      "category": "Global",
+      "level": "High",
+      "trend": "Steady",
+      "summary": "Iran's navy and Revolutionary Guard said Nov 14 that three to four oil tankers, including a supertanker, struck naval mines and caught fire near the Strait of Hormuz after entering restricted waters with tracking switched off (CNA, Investing.com/Reuters). Names, flags and damage are unverified; the US military says it has cleared the main routes, and ISW-CTP has seen no sign Iran has re-mined the strait. UKMTO says Hormuz traffic is still about 65% below pre-war; the UN counts 134 maritime incidents and 25 seafarers killed since February. Nov 13: CENTCOM said two Iranian drones aimed at Bahrain were shot down with no damage. Houthis claim missile strikes on Riyadh airport and a Saudi pipeline (unconfirmed); Qatar and Turkey signed a mutual-defense pact. Trump says he doesn't need a deal and hasn't ruled out new strikes. Level High, Steady.",
+      "date": "Nov 14 morning",
+      "source": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256",
+      "actions": [
+        "Keep 2+ weeks of water, food, prescriptions and fuel on hand; rotate, don't panic-buy.",
+        "A confirmed hit on US forces or a resumed US/Israeli strike campaign would raise this to Severe; watch the weekend news.",
+        "Keep a battery/crank radio and charged power banks; know your NOAA Weather Radio frequency."
+      ],
+      "lat": 26.57,
+      "lng": 56.25,
+      "type": "conflict"
+    },
+    {
+      "id": "nato",
+      "name": "Russia–NATO nuclear rhetoric",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Russia's FSB said Nov 11 (Poland's Independence Day) it arrested two alleged Polish intelligence agents in Kaliningrad; Poland calls it a provocation and disinformation and is verifying (Meduza, Euronews). No reported border violations or troop moves. A diplomatic flashpoint on NATO's eastern flank, not a military escalation so far.",
+      "date": "Nov 11",
+      "source": "https://meduza.io/en/news/2026/11/11/on-poland-s-independence-day-fsb-says-it-detained-two-poles-in-russia-on-espionage-charges",
+      "actions": [
+        "Know your shelter-in-place spot: basement center, away from windows.",
+        "Keep a battery or hand-crank NOAA radio and spare batteries.",
+        "Verify any nuclear alert through two official sources before acting (see fake-alert item)."
+      ],
+      "lat": 54.71,
+      "lng": 20.51,
+      "type": "nuclear"
+    },
+    {
+      "id": "ukr",
+      "name": "Russia–Ukraine war",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Zelenskyy said (embargoed to Nov 14) that US negotiators at this week's Abu Dhabi talks asked for the first time whether Ukraine would withdraw from Donbas in exchange for NATO membership; there is no concrete offer and Kyiv won't withdraw (Al Jazeera, AP). Europe will join the next round; a large prisoner swap is agreed. Fighting continues: Russian attacks killed at least 7 and injured 80 in the past day, with Zaporizhzhia worst hit (Kyiv Independent, Nov 14); a Ukrainian drone killed three in Belgorod; Ukraine hit a Samara oil pipeline station.",
+      "date": "Nov 14 morning",
+      "source": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option",
+      "actions": [
+        "No direct family action; watch the date of the next round of talks."
+      ],
+      "lat": 48.0,
+      "lng": 37.8,
+      "type": "conflict"
+    },
+    {
+      "id": "taiwan",
+      "name": "China–Taiwan pressure",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Taiwan's defense ministry (Nov 14): 10 PLA aircraft sorties, 8 warships and 3 official ships in the 24 hours to 6 a.m. Nov 14 Taiwan time; 4 aircraft crossed the median line. That's down from 30 aircraft the day before, when tracks briefly circled the island. 184 aircraft and 141 ship sorties so far in November (Taiwan News). China hosts the APEC summit in Shenzhen next week; analysts watch whether large unannounced deployments continue afterward (TaiwanPlus). No blockade or live-fire declared.",
+      "date": "Nov 14",
+      "source": "https://www.mnd.gov.tw/en/news/plaact/88212",
+      "actions": [
+        "A Taiwan blockade would hit electronics and medicines first: keep 60–90 days of critical prescriptions where insurance allows.",
+        "Replace aging phones, radios, or chargers you rely on before shortages, not after."
+      ],
+      "lat": 24.0,
+      "lng": 119.5,
+      "type": "conflict"
+    },
+    {
+      "id": "nk",
+      "name": "North Korea",
+      "category": "Global",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "North Korea's last launch was Nov 4 (short-range ballistic missiles from Sondok, under 300 km), its fourth weapons test in a month (Yonhap, AP). No newer launches found in the Nov 14 morning check.",
+      "date": "Nov 4 (rechecked Nov 14 AM)",
+      "source": "https://en.yna.co.kr/view/AEN20261104005551315",
+      "actions": [
+        "Monitor only; no family action needed now."
+      ],
+      "lat": 39.03,
+      "lng": 125.75,
+      "type": "nuclear"
+    },
+    {
+      "id": "fake",
+      "name": "Fake emergency alerts",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "No new incidents found through Nov 9. On Nov 1 hackers took over Ukraine's Air Alert app and Russia's EMERCOM app and sent fake nuclear, radiation and chemical warnings; both were shut down or restored, and official siren, SMS, TV and radio systems were unaffected.",
+      "date": "Nov 1 incident (rechecked Nov 9)",
+      "source": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "actions": [
+        "Agree as a family: confirm any major alert on NOAA radio, weather.gov, or local TV before acting.",
+        "Rely on Wireless Emergency Alerts and NWS for official warnings; treat third-party app alerts as unverified."
+      ],
+      "lat": 50.45,
+      "lng": 30.52,
+      "type": "cyber"
+    },
+    {
+      "id": "terror",
+      "name": "Terrorism (DHS NTAS)",
+      "category": "National",
+      "level": "Guarded",
+      "trend": "Rising",
+      "summary": "DHS NTAS feed shows no current advisories (checked about 7 AM CT Nov 14). In Peoria, Illinois, police and the FBI found a device they called a credible threat (the mayor called it a bomb) at the BioUrja ethanol plant Friday night and made it safe; a 1-mile evacuation continues while the site is searched, and no motive or suspect has been announced (NBC News, Nov 14). Separately, Iran warns that bases used in a new US war would be targets, and G7 ministers voiced concern about Iran-linked plots. No specific threat to the St. Louis area reported.",
+      "date": "Nov 14 morning",
+      "source": "https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287",
+      "actions": [
+        "Normal awareness at crowded events; agree on a family rally point if separated.",
+        "Report suspicious packages near plants, rail yards or pipelines to police (See Something, Say Something)."
+      ],
+      "lat": 39.83,
+      "lng": -98.58,
+      "type": "terrorism"
+    },
+    {
+      "id": "cyber",
+      "name": "Cyber threats to infrastructure",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "No new KEV additions since Nov 13 (catalog 2026.11.13): Check Point multiple products and the UnrealIRCd chat server were added then; both are business/server software. For home: Microsoft Outlook (CVE-2026-124194) and Google Chromium (CVE-2026-125350, affects Chrome, Edge, Opera) from the Nov 10 batch remain actively exploited; update and restart. Recent CISA industrial advisories cover Siemens building and network gear.",
+      "date": "Nov 14 (rechecked)",
+      "source": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "actions": [
+        "Update Chrome/Edge and Microsoft Office/Outlook on every family device tonight (restart the browser).",
+        "Patch routers or home servers running SSH.",
+        "Be wary of unexpected Outlook messages asking you to act."
+      ],
+      "lat": 38.89,
+      "lng": -77.04,
+      "type": "cyber"
+    },
+    {
+      "id": "measles",
+      "name": "Measles (US)",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Rising",
+      "summary": "The Pan American Health Organization's commission has revoked US measles-elimination status after finding 12+ months of continuous spread, ending a 26-year run (WSJ via Reuters, Washington Post, Nov 13); the official announcement is pending. CDC counts 5,182 confirmed 2026 cases from 45 states, NYC and DC, 43 outbreaks, six deaths this year; Illinois and Missouri are among affected jurisdictions. To regain the status the US must go 12 months without continuous spread.",
+      "date": "Nov 13-14",
+      "source": "https://www.investing.com/news/world-news/us-loses-measlesfree-status-after-continued-spread-of-the-disease-wsj-reports-5026857",
+      "actions": [
+        "Confirm everyone in the household has two MMR doses on record (97% effective).",
+        "Check the IDPH page for Metro East exposure sites."
+      ],
+      "lat": 37.3,
+      "lng": -95.6,
+      "type": "disease"
+    },
+    {
+      "id": "flu",
+      "name": "Seasonal flu and H5 bird flu",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Rising",
+      "summary": "CDC FluView week 44 (ending Nov 7): flu rising and above typical for this time of year; 11.3% of lab tests positive; flu-like illness 3.2% of visits, above the 2.9% baseline; A(H1N1) is 98.9% of subtyped flu A. CDC estimates at least 2.6 million illnesses, 36,000 hospitalizations and 2,100 deaths so far this season.",
+      "date": "Week 44 data (Nov 14 check)",
+      "source": "https://www.cdc.gov/fluview/surveillance/2026-week-44.html",
+      "actions": [
+        "Get flu shots for everyone now (CDC recommends now).",
+        "Stock a sick-room kit: thermometer, fever reducer, electrolytes, masks.",
+        "Antivirals work best started early; call the doctor on day one of symptoms."
+      ],
+      "lat": 41.6,
+      "lng": -96.2,
+      "type": "disease"
+    },
+    {
+      "id": "ebola",
+      "name": "Ebola (Bundibugyo), DR Congo",
+      "category": "Global",
+      "level": "Low",
+      "trend": "Rising",
+      "summary": "DR Congo Bundibugyo Ebola outbreak: more than 11,000 confirmed cases and 5,000+ deaths (ECDC: 11,042 cases, 5,387 deaths through Nov 9); UN says armed-group violence is holding back the response. ECDC keeps risk to Europe very low. No US cases.",
+      "date": "Nov 13",
+      "source": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-11",
+      "actions": [
+        "No family action unless traveling to Central Africa."
+      ],
+      "lat": 0.5,
+      "lng": 29.5,
+      "type": "disease"
+    },
+    {
+      "id": "melioid",
+      "name": "Melioidosis (soil bacterium B. pseudomallei) in the U.S. Gulf Coast",
+      "category": "National",
+      "level": "Low",
+      "trend": "Rising",
+      "summary": "UC Davis Health (Nov 6) reports the tropical soil and water bacterium Burkholderia pseudomallei may be slowly establishing in new regions including the U.S.; CDC says it is found on Mississippi's Gulf Coast, Puerto Rico and the U.S. Virgin Islands, and most U.S. cases are in travelers. Rare, treatable with antibiotics, easily mistaken for other illnesses; caught from contaminated soil, dust or water, very rarely person to person. Rechecked Nov 9: no CDC, IDPH or MO DHSS report of the bacterium or a locally acquired case in Illinois or Missouri found; no new UC Davis item. CDC weekly notifiable-disease tables (compiled by ENCLAI) show 4 U.S. cases in 2026 through Oct 25.",
+      "date": "Nov 9",
+      "source": "https://health.ucdavis.edu/news/headlines/potentially-deadly-soil-bacterium-gaining-foothold-in-new-regions-including-us-/2026/11",
+      "actions": [
+        "No action needed in the St. Louis area now; the bacterium has not been reported in Illinois or Missouri.",
+        "When gardening, digging or doing storm cleanup (especially on Gulf Coast trips), wear waterproof boots and gloves, and a well-fitting N95 in dusty soil or after heavy rain or flooding.",
+        "Keep cuts and scrapes clean and covered; avoid soil and standing floodwater with open wounds, diabetes, kidney or liver disease, or heavy alcohol use (CDC risk factors).",
+        "Don't drink untreated water; boil or treat it when traveling or camping.",
+        "After a trip to the Gulf Coast, Puerto Rico, Southeast Asia or northern Australia, tell a doctor about the travel if you get fever, cough, chest or stomach pain, a sore that won't heal, confusion or seizures."
+      ],
+      "lat": 30.4,
+      "lng": -89.07,
+      "type": "disease"
+    },
+    {
+      "id": "econ",
+      "name": "Economy, fuel, supply chain",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Oil closed the week lower for a second straight week: Brent settled $95.84 Nov 13 (+2 cents; down 2.5% on the week and 18.5% over two weeks, its largest two-week drop since 2008 per Dow Jones), WTI $88.56. The IEA said Nov 13 global supply jumped 2.3M barrels a day in October, putting the market in surplus for the first time since the war began (DTN). AAA Nov 13: Illinois regular $4.28 (from $4.56 a week ago), East St. Louis $4.08, Illinois diesel $6.36. Nov 14: AAA Illinois regular $4.23 (week ago $4.56), East St. Louis $4.03; Iran's unconfirmed tanker-mine claims are a risk when markets reopen Monday.",
+      "date": "Nov 14 (markets closed; Friday close)",
+      "source": "https://www.dtnpf.com/agriculture/web/AG/news/world-policy/article/2026/11/13/oil-falls-2nd-week-row-iran",
+      "actions": [
+        "Fill vehicles and stored fuel (with stabilizer) before pump prices follow oil up.",
+        "Buy shelf-stable staples you already eat; avoid panic-buying.",
+        "Avoid new variable-rate debt."
+      ],
+      "lat": 40.4,
+      "lng": -101.5,
+      "type": "economy"
+    },
+    {
+      "id": "space",
+      "name": "Space weather",
+      "category": "National",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "NOAA SWPC 3-day forecast (issued Nov 14, 1230 UTC): highest Kp in the last 24 h was 1; max expected Kp 3.33 (Nov 16), no G1 or greater storms expected. Solar radiation below storm levels. No grid or GPS effect expected here.",
+      "date": "Nov 14",
+      "source": "https://services.swpc.noaa.gov/text/3-day-forecast.txt",
+      "actions": [
+        "No action at G1; G4–G5 would be the point to protect electronics and expect GPS glitches."
+      ],
+      "lat": 40.01,
+      "lng": -105.27,
+      "type": "space"
+    },
+    {
+      "id": "wx",
+      "name": "Weather: hard freezes tonight and Sunday night",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "No active NWS alerts for St. Clair County or the metro (checked about 7 AM CT Nov 14). NWS forecast (updated 6:16 AM): today sunny, high near 51; tonight mostly clear, low around 26; Sunday sunny, high near 54; Sunday night low 27; Monday sunny, high near 58; Monday night low 30. Light winds.",
+      "date": "Nov 14 morning",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=38.5923&lon=-89.9112",
+      "actions": [
+        "Hard freeze tonight (26) and Sunday night (27): protect outdoor faucets and pipes on exterior walls, bring pets in.",
+        "Test furnace, CO and smoke alarms before running heat hard."
+      ],
+      "lat": 38.47,
+      "lng": -89.93,
+      "type": "weather"
+    },
+    {
+      "id": "quake",
+      "name": "New Madrid seismic zone",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "USGS: no quakes M1.0+ within 300 km of New Madrid in the 36 hours to about 7 AM CT Nov 14. Normal background activity.",
+      "date": "Nov 14 morning",
+      "source": "https://earthquake.usgs.gov/earthquakes/map/",
+      "actions": [
+        "Strap the water heater and anchor tall shelves.",
+        "Keep shoes, a flashlight and gloves by each bed.",
+        "Know how to shut off gas and water at the house."
+      ],
+      "lat": 36.59,
+      "lng": -89.59,
+      "type": "earthquake"
+    },
+    {
+      "id": "river",
+      "name": "Mississippi River flooding",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "NOAA gauges (about 6:30 AM CT Nov 14): Mississippi at St. Louis 10.6 ft (flood stage 30 ft), no flooding forecast; Kaskaskia at New Athens 68.6 ft (flood stage 79); Silver Creek near Mascoutah 8.2 ft. No flooding.",
+      "date": "Nov 14 morning",
+      "source": "https://water.noaa.gov/gauges/eadm7",
+      "actions": [
+        "No action; recheck if the forecast climbs toward the 28 ft action stage."
+      ],
+      "lat": 38.63,
+      "lng": -90.18,
+      "type": "flood"
+    },
+    {
+      "id": "grid",
+      "name": "Power grid (Ameren Illinois)",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "Ameren outage data (about 7 AM CT Nov 14): Ameren Illinois 200 customers out (16 outages, 0.02%), Ameren Missouri 42; no St. Clair, Madison or Monroe County outages listed. MISO status Normal.",
+      "date": "Nov 14 morning",
+      "source": "https://outagemap.ameren.com/",
+      "actions": [
+        "Text REG to AMEREN (263736) to get outage alerts.",
+        "Keep phones charged and power banks topped up."
+      ],
+      "lat": 38.67,
+      "lng": -89.98,
+      "type": "power"
+    },
+    {
+      "id": "air",
+      "name": "Air quality",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "AirNow St. Louis: AQI 19 (Good, PM2.5) at 6 AM CST Nov 14; today's forecast Good. No Action Day.",
+      "date": "Nov 14 morning",
+      "source": "https://www.airnow.gov/?city=St.%20Louis&state=MO",
+      "actions": [
+        "No action needed."
+      ],
+      "lat": 38.63,
+      "lng": -90.25,
+      "type": "air"
+    },
+    {
+      "id": "crime",
+      "name": "Local crime and public safety",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "BND (Nov 11): a 24-year-old Florissant, MO man was killed and a toddler injured in a shooting in a car in Cahokia Heights; Illinois State Police are assisting. Earlier: charges in the Nov 1 Madison youth-football shooting; Swansea fatal stabbing Nov 6. No new major local incidents found in the Nov 14 morning check.",
+      "date": "Nov 11 (rechecked Nov 14 AM)",
+      "source": "https://www.bnd.com/news/local/crime/article318034413.html",
+      "actions": [
+        "Lock vehicles and garage overnight; keep exterior lights on.",
+        "Talk with the kids about staying aware and calling you if approached by strangers."
+      ],
+      "lat": 38.65,
+      "lng": -90.33,
+      "type": "crime"
+    },
+    {
+      "id": "road",
+      "name": "Road and student transport safety",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "IDOT plans a full closure of I-255 in both directions between Illinois 3 and Illinois 157 in St. Clair County for about four months starting spring or summer 2027 ($62.2M rehab; dates not set) (BND, IDOT). Now: westbound I-55/I-64 has two mainline lanes closed between Illinois 3 and the Poplar Street Bridge for bridge repairs since Nov 9.",
+      "date": "Nov 11",
+      "source": "https://www.bnd.com/news/local/article318029150.html",
+      "actions": [
+        "If your child rides any school or activity van, ask who operates it and whether drivers hold Illinois school bus permits.",
+        "Keep winter car kits (blanket, water, light, charger) in each vehicle."
+      ],
+      "lat": 38.55,
+      "lng": -90.17,
+      "type": "transport"
+    },
+    {
+      "id": "scott",
+      "name": "Scott AFB (public news)",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "No public security incidents reported (checked Nov 14 morning); public base news is routine (PCS workshops, newcomer orientation, Thanksgiving events). DHS NTAS has no advisories. Iran has threatened US bases used in any new war; no specific threat to the base has been reported.",
+      "date": "Nov 14 morning",
+      "source": "https://www.scott.af.mil/News/",
+      "actions": [
+        "Monitor only."
+      ],
+      "lat": 38.43,
+      "lng": -89.97,
+      "type": "military"
+    },
+    {
+      "id": "gateway",
+      "name": "Granite City hospital on EMS bypass (Gateway Regional)",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Rising",
+      "date": "Nov 14 (rechecked)",
+      "summary": "Gateway Regional Medical Center in Granite City stays open, but its ER remains on ambulance diversion for staffing; IDPH is preparing possible patient transfers and Granite City's fire chief warns of longer ambulance transports (STLPR, RiverBender, rechecked Nov 12).",
+      "source": "https://m.riverbender.com/news/details.cfm?id=98244",
+      "actions": [
+        "Know your two nearest open ERs and urgent cares (Prep > Help nearby lists them).",
+        "Keep a printed med list and insurance card in each go-bag in case you end up at an unfamiliar hospital."
+      ],
+      "lat": 38.7,
+      "lng": -90.15,
+      "type": "other"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Iran reports tankers hit by mines in Hormuz",
+      "site": "channelnewsasia.com",
+      "date": "Nov 14",
+      "url": "https://www.channelnewsasia.com/world/strait-hormuz-oil-tankers-mines-iran-6551256"
+    },
+    {
+      "title": "Iran says four tankers hit mines in Hormuz as shipping crisis deepens",
+      "site": "investing.com",
+      "date": "Nov 14",
+      "url": "https://www.investing.com/news/economy-news/iran-says-four-tankers-hit-mines-in-hormuz-as-shipping-crisis-deepens-5027172"
+    },
+    {
+      "title": "Fact check: Iran's navy says a tanker hit a mine",
+      "site": "ukfactcheck.com",
+      "date": "Nov 14",
+      "url": "https://www.ukfactcheck.com/live/iran-usa-conflict-live-blog-updates/iran-s-navy-says-an-oil-tanker-hit-a-mine-and-caught-fire-ea"
+    },
+    {
+      "title": "Device deemed credible threat triggers evacuation around Peoria ethanol plant",
+      "site": "nbcnews.com",
+      "date": "Nov 14",
+      "url": "https://www.nbcnews.com/news/us-news/evacuation-order-ethanol-plant-peoria-illinois-suspicious-device-rcna609287"
+    },
+    {
+      "title": "US loses measles-free status, WSJ reports",
+      "site": "investing.com (Reuters)",
+      "date": "Nov 13",
+      "url": "https://www.investing.com/news/world-news/us-loses-measlesfree-status-after-continued-spread-of-the-disease-wsj-reports-5026857"
+    },
+    {
+      "title": "U.S. loses measles-elimination status",
+      "site": "washingtonpost.com",
+      "date": "Nov 13",
+      "url": "https://www.washingtonpost.com/health/2026/11/13/us-loses-measles-elimination-status-erasing-landmark-achievement/"
+    },
+    {
+      "title": "FluView week 44",
+      "site": "cdc.gov",
+      "date": "Nov 13",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-44.html"
+    },
+    {
+      "title": "PLA activities around Taiwan (Nov 14)",
+      "site": "mnd.gov.tw",
+      "date": "Nov 14",
+      "url": "https://www.mnd.gov.tw/en/news/plaact/88212"
+    },
+    {
+      "title": "Taiwan tracks 10 Chinese military aircraft and 11 ships",
+      "site": "taiwannews.com.tw",
+      "date": "Nov 14",
+      "url": "https://www.taiwannews.com.tw/news/6476271"
+    },
+    {
+      "title": "Three killed in Russia as Ukraine claims US floated NATO option",
+      "site": "aljazeera.com",
+      "date": "Nov 14",
+      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option"
+    },
+    {
+      "title": "At least 7 killed, 80 injured in Russian attacks across Ukraine",
+      "site": "kyivindependent.com",
+      "date": "Nov 14",
+      "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+    },
+    {
+      "title": "NWS forecast, O'Fallon area",
+      "site": "weather.gov",
+      "date": "Nov 14",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.59&lon=-89.91"
+    },
+    {
+      "title": "SWPC 3-day forecast",
+      "site": "swpc.noaa.gov",
+      "date": "Nov 14",
+      "url": "https://services.swpc.noaa.gov/text/3-day-forecast.txt"
+    },
+    {
+      "title": "US military downs 2 Iranian attack drones as Iran claims a strike on a US radar in Bahrain",
+      "site": "apnews.com",
+      "date": "Nov 13",
+      "url": "https://apnews.com/article/iran-us-bahrain-radar-strait-hormuz-5d73a23b5b8647d2515c35b267b36c08"
+    },
+    {
+      "title": "Bahrain: US said it intercepted Iranian drone attacks",
+      "site": "dw.com",
+      "date": "Nov 13",
+      "url": "https://www.dw.com/en/iran-bahrain-us-radar-attacks/a-79942640"
+    },
+    {
+      "title": "US denies IRGC destroyed American radar in Bahrain",
+      "site": "euronews.com",
+      "date": "Nov 13",
+      "url": "https://www.euronews.com/2026/11/13/irgc-says-it-destroyed-us-radar-in-bahrain-after-attack-on-southern-iran"
+    },
+    {
+      "title": "Centcom denies Israeli reports of possible renewed war on Iran",
+      "site": "middleeasteye.net",
+      "date": "Nov 13",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/report-centcom-denies-israeli-reports-possible-renewed-war-iran"
+    },
+    {
+      "title": "Israeli military prepares three scenarios for renewed Iran war (Channel 13)",
+      "site": "iranintl.com",
+      "date": "Nov 13",
+      "url": "https://www.iranintl.com/en/202611137170"
+    },
+    {
+      "title": "Oil falls 2nd week in row as Iran uncertainty continues",
+      "site": "dtnpf.com",
+      "date": "Nov 13",
+      "url": "https://www.dtnpf.com/agriculture/web/AG/news/world-policy/article/2026/11/13/oil-falls-2nd-week-row-iran"
+    },
+    {
+      "title": "Front-month Brent fell 2.52% this week to $95.84",
+      "site": "morningstar.com",
+      "date": "Nov 13",
+      "url": "https://www.morningstar.com/news/dow-jones/202611139432/front-month-ice-brent-crude-fell-252-this-week-to-settle-at-9584-data-talk"
+    },
+    {
+      "title": "Ukraine launches nearly 1,200 drones at Russia as talks widen",
+      "site": "apnews.com",
+      "date": "Nov 13",
+      "url": "https://apnews.com/article/russia-ukraine-war-putin-trump-zelenskyy-europe-157d168cb7ff9cae318cbf6cecb3988f"
+    },
+    {
+      "title": "Russian attacks kill 9, spark fire at Kyiv hospital",
+      "site": "kyivindependent.com",
+      "date": "Nov 13",
+      "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-61-across-ukraine-over-past-day-spark-fire-at-kyiv-hospital/"
+    },
+    {
+      "title": "CISA Known Exploited Vulnerabilities (2026.11.13)",
+      "site": "cisa.gov",
+      "date": "Nov 13",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "title": "NWS forecast, O'Fallon area",
+      "site": "weather.gov",
+      "date": "Nov 13",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.5923&lon=-89.9112"
+    },
+    {
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "site": "aljazeera.com",
+      "date": "Nov 13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain"
+    },
+    {
+      "title": "Iran war live: IAEA concerned over Isfahan",
+      "site": "aljazeera.com",
+      "date": "Nov 13",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks"
+    },
+    {
+      "title": "Iran says LNG ship hit mine in Strait of Hormuz (AFP)",
+      "site": "malaymail.com",
+      "date": "Nov 13",
+      "url": "https://www.malaymail.com/news/world/2026/11/13/iran-says-lng-ship-hit-mine-in-strait-of-hormuz/243126"
+    },
+    {
+      "title": "Four tankers struck by explosions in Hormuz (Reuters)",
+      "site": "brecorder.com",
+      "date": "Nov 13",
+      "url": "https://www.brecorder.com/news/40448684"
+    },
+    {
+      "title": "Oil set for second weekly decline",
+      "site": "cnbc.com",
+      "date": "Nov 13",
+      "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html"
+    },
+    {
+      "title": "Oil set for second weekly loss",
+      "site": "investing.com",
+      "date": "Nov 13",
+      "url": "https://au.investing.com/news/commodities-news/oil-prices-hold-gains-as-trump-sidelines-vance-from-iran-diplomacy-4767327"
+    },
+    {
+      "title": "Brent edges higher as tensions offset US stock build",
+      "site": "aa.com.tr",
+      "date": "Nov 13",
+      "url": "https://www.aa.com.tr/en/energy/oil/brent-crude-edges-higher-as-middle-east-tensions-offset-us-stock-build/60960"
+    },
+    {
+      "title": "Russia and Ukraine report overnight attacks",
+      "site": "aljazeera.com",
+      "date": "Nov 13",
+      "url": "https://www.aljazeera.com/news/2026/11/13/russia-and-ukraine-report-overnight-attacks-amid-us-diplomatic-push"
+    },
+    {
+      "title": "Ukraine live: Kallas warns of Russia's traps",
+      "site": "france24.com",
+      "date": "Nov 13",
+      "url": "https://www.france24.com/en/europe/20261113-live-zelensky-and-kushner-confirm-that-europe-will-join-next-round-of-russia-ukraine-talks"
+    },
+    {
+      "title": "Ukraine war briefing",
+      "site": "theguardian.com",
+      "date": "Nov 13",
+      "url": "https://www.theguardian.com/world/2026/nov/13/ukraine-war-briefing-europe-to-join-negotiations-says-kushner-as-putin-warns-against-peace-keepers"
+    },
+    {
+      "title": "PLA activities around Taiwan",
+      "site": "mnd.gov.tw",
+      "date": "Nov 13",
+      "url": "https://www.mnd.gov.tw/en/news/plaact/88210"
+    },
+    {
+      "title": "Taiwan tracks 30 Chinese military aircraft, 11 ships",
+      "site": "taiwannews.com.tw",
+      "date": "Nov 13",
+      "url": "https://www.taiwannews.com.tw/news/6475788"
+    },
+    {
+      "title": "ECDC: Bundibugyo Ebola update",
+      "site": "ecdc.europa.eu",
+      "date": "Nov 11",
+      "url": "https://www.ecdc.europa.eu/en/public-health-events/2026-eip-00026/2026-11-11"
+    },
+    {
+      "title": "UN: armed groups hold back DRC Ebola response",
+      "site": "news.un.org",
+      "date": "Nov 2026",
+      "url": "https://news.un.org/en/story/2026/11/1168797"
+    },
+    {
+      "title": "CDC FluView week 43",
+      "site": "cdc.gov",
+      "date": "Nov 2026",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-43.html"
+    },
+    {
+      "title": "Reuters (Investing.com): Four tankers struck in Hormuz, Iran says",
+      "site": "investing.com",
+      "date": "Nov 12",
+      "url": "https://www.investing.com/news/commodities-news/four-tankers-struck-by-explosions-in-strait-of-hormuz-iran-says-5022725"
+    },
+    {
+      "title": "JMIC/UKMTO advisory update 113",
+      "site": "ukmto.org",
+      "date": "Nov 12",
+      "url": "https://www.ukmto.org/-/media/ukmto/products/jmic_advisory_update_113_12-nov.pdf"
+    },
+    {
+      "title": "Anadolu: Sirik hit by 'enemy' strike, state media",
+      "site": "aa.com.tr",
+      "date": "Nov 12",
+      "url": "https://www.aa.com.tr/en/middle-east/southern-irans-sirik-county-near-strait-of-hormuz-hit-by-enemy-strike-state-media/4123383"
+    },
+    {
+      "title": "Arab News (Reuters): Sirik attacked, IRNA says",
+      "site": "arabnews.com",
+      "date": "Nov 12",
+      "url": "https://www.arabnews.com/middle-east/southern-irans-sirik-attacked-irna-cites-official-sources-as-saying-3011512"
+    },
+    {
+      "title": "Washington Post: Trump says no Iran deal needed",
+      "site": "washingtonpost.com",
+      "date": "Nov 12",
+      "url": "https://www.washingtonpost.com/politics/2026/11/12/trump-shuts-down-vance-iran-negotiating-efforts-says-no-deal-needed/"
+    },
+    {
+      "title": "AP: Trump tells Vance to shift focus from Iran",
+      "site": "apnews.com",
+      "date": "Nov 12",
+      "url": "https://apnews.com/article/trump-iran-vance-negotiations-d9671cbf66e3c2e337f4fb3485ad07d0"
+    },
+    {
+      "title": "CNA (Reuters): Oil settles $3 higher on Saudi attacks",
+      "site": "channelnewsasia.com",
+      "date": "Nov 12",
+      "url": "https://www.channelnewsasia.com/business/oil-settles-3-higher-attacks-saudi-energy-sites-strait-hormuz-disruptions-6544501"
+    },
+    {
+      "title": "Dow Jones: Brent settles at $95.82",
+      "site": "morningstar.com",
+      "date": "Nov 12",
+      "url": "https://www.morningstar.com/news/dow-jones/2026111212778/front-month-ice-brent-crude-rose-330-to-settle-at-9582-data-talk"
+    },
+    {
+      "title": "The Hindu: Houthis target Saudi pipeline and Yanbu",
+      "site": "thehindu.com",
+      "date": "Nov 12",
+      "url": "https://www.thehindu.com/news/international/yemens-houthis-say-they-targeted-saudi-east-west-pipeline-port-city-of-yanbu/article71695404.ece"
+    },
+    {
+      "title": "CNA: Putin suggests no Ukraine compromise",
+      "site": "channelnewsasia.com",
+      "date": "Nov 12",
+      "url": "https://www.channelnewsasia.com/world/putin-russia-ukraine-war-deal-us-talks-6547041"
+    },
+    {
+      "title": "LIGA: Witkoff announces new trilateral meeting",
+      "site": "liga.net",
+      "date": "Nov 12",
+      "url": "https://news.liga.net/en/politics/news/after-meeting-with-putin-witkoff-announced-a-new-meeting-between-ukraine-russia-and-the-united-states-it-is-unclear-with-the-europeans"
+    },
+    {
+      "title": "Guardian: CDC reports six measles deaths in 2026",
+      "site": "theguardian.com",
+      "date": "Nov 12",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths"
+    },
+    {
+      "title": "CDC: Measles cases and outbreaks",
+      "site": "cdc.gov",
+      "date": "Nov 12",
+      "url": "https://www.cdc.gov/measles/data-research/index.html"
+    },
+    {
+      "title": "CISA ICS advisory: Siemens building automation and energy",
+      "site": "cisa.gov",
+      "date": "Nov 12",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01"
+    },
+    {
+      "title": "Iran International: IRGC says two supertankers caught fire in Hormuz",
+      "site": "iranintl.com",
+      "date": "Nov 12",
+      "url": "https://www.iranintl.com/en/202611128180"
+    },
+    {
+      "title": "Asharq Al-Awsat (AFP): Guards say 'accident' left two tankers on fire",
+      "site": "aawsat.com",
+      "date": "Nov 12",
+      "url": "https://english.aawsat.com/world/5340366-irans-guards-say-accident-left-two-tankers-fire-hormuz"
+    },
+    {
+      "title": "Seatrade: Four injured on VLCC as multiple tankers hit",
+      "site": "seatrade-maritime.com",
+      "date": "Nov 12",
+      "url": "https://www.seatrade-maritime.com/security/four-injured-on-sinokor-vlcc-as-multiple-tankers-attacked-in-hormuz"
+    },
+    {
+      "title": "Moneycontrol: Iran says Hormuz will 'never return' to pre-war status",
+      "site": "moneycontrol.com",
+      "date": "Nov 12",
+      "url": "https://www.moneycontrol.com/world/strait-of-hormuz-will-never-return-to-pre-war-status-iran-warns-as-it-sets-7-conditions-for-us-talks-article-14077459.html"
+    },
+    {
+      "title": "Taiwan Defence: 29 PLA aircraft, 22 across median line",
+      "site": "taiwandefence.com",
+      "date": "Nov 12",
+      "url": "https://taiwandefence.com/article/china-sends-29-military-aircraft-towards-taiwan-22-of-them-across-the-straits-median-line"
+    },
+    {
+      "title": "Kremlin: Putin meets Witkoff and Kushner",
+      "site": "kremlin.ru",
+      "date": "Nov 12",
+      "url": "http://kremlin.ru/events/president/news/81246"
+    },
+    {
+      "title": "ABC: Witkoff and Kushner arrive in Moscow",
+      "site": "abcnews.com",
+      "date": "Nov 12",
+      "url": "https://abcnews.com/International/witkoff-kushner-arrive-moscow-meet-putin-discuss-ukraine/story?id=138070892"
+    },
+    {
+      "title": "CNBC: Oil edges lower as output offsets risks",
+      "site": "cnbc.com",
+      "date": "Nov 12",
+      "url": "https://www.cnbc.com/2026/11/12/oil-prices-gains-geopolitics.html"
+    },
+    {
+      "title": "Moneycontrol: Brent dips below $92; Goldman sees $105",
+      "site": "moneycontrol.com",
+      "date": "Nov 12",
+      "url": "https://www.moneycontrol.com/news/business/markets/crude-oil-price-slips-on-us-iran-peace-talk-hopes-brent-dips-below-92-wti-under-86-14077827.html"
+    },
+    {
+      "title": "G7 foreign ministers' joint declaration (Paris)",
+      "site": "gov.uk",
+      "date": "Nov 10",
+      "url": "https://www.gov.uk/government/news/joint-declaration-following-the-g7-foreign-ministers-meeting-in-paris"
+    },
+    {
+      "title": "Al Jazeera: Why the US may lose measles-free status",
+      "site": "aljazeera.com",
+      "date": "Nov 12",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status"
+    },
+    {
+      "title": "Xinhua: WHO says Congo Ebola outbreak remains concerning",
+      "site": "news.cn",
+      "date": "Nov 12",
+      "url": "https://english.news.cn/20261112/52624daccd804142b2fb2355a4c0034f/c.html"
+    },
+    {
+      "title": "KSDK: St. Clair County drone first-responder program",
+      "site": "ksdk.com",
+      "date": "Nov 10",
+      "url": "https://www.ksdk.com/video/news/latest-news-ott/st-clair-county-announces-drone-as-a-first-responder-program-full-press-conference/63-44ec412e-0d60-4343-ab2b-fc42fd68a04c"
+    },
+    {
+      "title": "DHS NTAS",
+      "site": "dhs.gov",
+      "date": "Nov 12",
+      "url": "https://www.dhs.gov/ntas/1.1/feed.xml"
+    },
+    {
+      "title": "AAA Illinois gas prices",
+      "site": "aaa.com",
+      "date": "Nov 12",
+      "url": "https://gasprices.aaa.com/?state=IL"
+    },
+    {
+      "title": "CBS live: Trump says Iran war will end 'when we want'",
+      "site": "cbsnews.com",
+      "date": "Nov 11",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/"
+    },
+    {
+      "title": "Guardian: Iranian officials expect new US strikes or tighter sanctions",
+      "site": "theguardian.com",
+      "date": "Nov 11",
+      "url": "https://www.theguardian.com/world/2026/nov/11/trump-planning-military-assault-or-tighter-sanctions-iranian-officials"
+    },
+    {
+      "title": "Tasnim: Iran reports tanker explosions in Hormuz",
+      "site": "tasnimnews.ir",
+      "date": "Nov 11",
+      "url": "https://www.tasnimnews.ir/en/news/2026/11/11/3745916/iran-reports-tanker-explosions-in-strait-of-hormuz"
+    },
+    {
+      "title": "Rigzone (Bloomberg): Oil rebounds amid mixed Iran signals",
+      "site": "rigzone.com",
+      "date": "Nov 11",
+      "url": "https://www.rigzone.com/news/oil_rebounds_amid_mixed_iran_war_signals-11-nov-2026-185062-article/"
+    },
+    {
+      "title": "Dow Jones: Brent settles at $92.76",
+      "site": "morningstar.com",
+      "date": "Nov 11",
+      "url": "https://www.morningstar.com/news/dow-jones/202611117186/front-month-ice-brent-crude-rose-139-to-settle-at-9276-data-talk"
+    }
+  ]
+}

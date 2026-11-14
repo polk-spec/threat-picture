@@ -1,0 +1,7130 @@
+{
+ "generated": "2026-11-14T07:03:19-06:00",
+ "errors": {},
+ "cisaKev": {
+  "catalogVersion": "2026.11.13",
+  "count": 1781,
+  "windowDays": 14,
+  "items": [
+   {
+    "cve": "CVE-2026-114713",
+    "vendor": "UnrealIRCd",
+    "product": "UnrealIRCd",
+    "name": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
+    "dateAdded": "2026-11-13",
+    "dueDate": "2026-11-16",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-114713"
+   },
+   {
+    "cve": "CVE-2026-123039",
+    "vendor": "Check Point",
+    "product": "Multiple Products",
+    "name": "Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability",
+    "dateAdded": "2026-11-13",
+    "dueDate": "2026-11-16",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123039"
+   },
+   {
+    "cve": "CVE-2026-124194",
+    "vendor": "Microsoft",
+    "product": "Office",
+    "name": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-24",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194"
+   },
+   {
+    "cve": "CVE-2026-111793",
+    "vendor": "Openwave Messaging Limited",
+    "product": "Webtop Media Transcoder",
+    "name": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-24",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793"
+   },
+   {
+    "cve": "CVE-2026-20320",
+    "vendor": "Cisco",
+    "product": "BroadWorks",
+    "name": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-24",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320"
+   },
+   {
+    "cve": "CVE-2026-111560",
+    "vendor": "Barracuda Networks",
+    "product": "Multiple Products",
+    "name": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-13",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560"
+   },
+   {
+    "cve": "CVE-2026-116606",
+    "vendor": "Barracuda Networks",
+    "product": "Barracuda Email Security Gateway (ESG)",
+    "name": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-13",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606"
+   },
+   {
+    "cve": "CVE-2026-125350",
+    "vendor": "Google",
+    "product": "Chromium",
+    "name": "Google Chromium Use-After-Free Vulnerability",
+    "dateAdded": "2026-11-10",
+    "dueDate": "2026-11-24",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350"
+   },
+   {
+    "cve": "CVE-2026-102895",
+    "vendor": "GPUStack",
+    "product": "GPUStack",
+    "name": "GPUStack Improper Authentication Vulnerability",
+    "dateAdded": "2026-11-09",
+    "dueDate": "2026-11-12",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895"
+   },
+   {
+    "cve": "CVE-2026-123158",
+    "vendor": "OpenBSD",
+    "product": "OpenSSH",
+    "name": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
+    "dateAdded": "2026-11-09",
+    "dueDate": "2026-11-12",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158"
+   },
+   {
+    "cve": "CVE-2026-116779",
+    "vendor": "SignalWire",
+    "product": "FreeSwitch",
+    "name": "SignalWire FreeSwitch Code Injection Vulnerability",
+    "dateAdded": "2026-11-09",
+    "dueDate": "2026-11-12",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779"
+   },
+   {
+    "cve": "CVE-2026-123218",
+    "vendor": "IBM",
+    "product": "Aspera Faspex",
+    "name": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
+    "dateAdded": "2026-11-09",
+    "dueDate": "2026-11-12",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218"
+   },
+   {
+    "cve": "CVE-2026-19868",
+    "vendor": "SonicWall",
+    "product": "SonicOS SSLVPN",
+    "name": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+    "dateAdded": "2026-11-06",
+    "dueDate": "2026-11-20",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868"
+   },
+   {
+    "cve": "CVE-2024-27834",
+    "vendor": "Apple",
+    "product": "Multiple Products",
+    "name": "Apple Multiple Products Improper Authentication Vulnerability",
+    "dateAdded": "2026-11-04",
+    "dueDate": "2026-11-18",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834"
+   },
+   {
+    "cve": "CVE-2026-119977",
+    "vendor": "WordPress",
+    "product": "WordPress Core",
+    "name": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+    "dateAdded": "2026-11-03",
+    "dueDate": "2026-11-06",
+    "ransomware": false,
+    "url": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977"
+   }
+  ]
+ },
+ "cisaAdvisories": [
+  {
+   "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+   "date": "Fri, 13 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "Siemens Desigo, Gridscale",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+   "date": "Thu, 12 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "Siemens RUGGEDCOM APE1808",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+   "date": "Thu, 12 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "Siemens RUGGEDCOM APE1808",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04",
+   "date": "Thu, 12 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "Siemens Building Automation and Energy Products",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+   "date": "Thu, 12 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "Siemens Industrial Edge Management",
+   "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+   "date": "Thu, 12 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+   "date": "Tue, 10 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/09/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+   "date": "Mon, 09 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+   "url": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+   "date": "Fri, 06 Nov 26 12:00:00 +0000"
+  },
+  {
+   "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+   "url": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+   "date": "Thu, 05 Nov 26 12:00:00 +0000"
+  }
+ ],
+ "ipaws": {
+  "feedUpdated": "2026-11-14T03:02:01.312Z",
+  "items": [
+   {
+    "event": "EVI",
+    "eventName": "Evacuation Immediate",
+    "state": "IL",
+    "updated": "2026-11-14T01:18:58.000Z",
+    "url": "https://apps.fema.gov/IPAWSOPEN_EAS_SERVICE/rest/eas/300134279802"
+   }
+  ]
+ },
+ "cameras": {
+  "cameras": {
+   "IDOT-8039-S": {
+    "key": "IDOT-8039-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-5I-55/70 at Milepost 19.7",
+    "direction": "S",
+    "lat": 38.75685,
+    "lon": -89.905546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-270_3875685_-8990555_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8039&direction=S",
+    "stale": false
+   },
+   "IDOT-8018-E": {
+    "key": "IDOT-8018-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 8.0",
+    "direction": "E",
+    "lat": 38.663791,
+    "lon": -90.061337,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_US-40_3866379_-9006134_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8018&direction=E",
+    "stale": false
+   },
+   "IDOT-8038-N": {
+    "key": "IDOT-8038-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 @ MP 19.2",
+    "direction": "N",
+    "lat": 38.7479267199877,
+    "lon": -89.90861224449752,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_I-55_3874793_-8990861_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8038&direction=N",
+    "stale": false
+   },
+   "IDOT-8059-S": {
+    "key": "IDOT-8059-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 159 (Troy Rd.) at Junction Dr.",
+    "direction": "S",
+    "lat": 38.776903,
+    "lon": -89.95546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_IL-159_3877690_-8995546_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8059&direction=S",
+    "stale": false
+   },
+   "IDOT-8078-W": {
+    "key": "IDOT-8078-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Mile Post 16.1",
+    "direction": "W",
+    "lat": 38.755182,
+    "lon": -89.878222,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-70_3875518_-8987822_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8078&direction=W",
+    "stale": false
+   },
+   "IDOT-8032-W": {
+    "key": "IDOT-8032-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 4.2 (JB Bridge)",
+    "direction": "W",
+    "lat": 38.48399,
+    "lon": -90.2665,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Monroe_WB_I-255_3848399_-9026650_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8032&direction=W",
+    "stale": false
+   },
+   "IDOT-8052-E": {
+    "key": "IDOT-8052-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "Troy Rd. at Lavelle Dr.",
+    "direction": "E",
+    "lat": 38.785417,
+    "lon": -89.951163,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_Troy_3878542_-8995116_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8052&direction=E",
+    "stale": false
+   },
+   "IDOT-8012-E": {
+    "key": "IDOT-8012-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Milepost 2.4 (#3rd St)",
+    "direction": "E",
+    "lat": 38.630505,
+    "lon": -90.153459,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NEB_I-55_3863051_-9015346_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8012&direction=E",
+    "stale": false
+   },
+   "IDOT-8049-S": {
+    "key": "IDOT-8049-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 27.6",
+    "direction": "S",
+    "lat": 38.714423,
+    "lon": -90.024802,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-255_3871442_-9002480_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8049&direction=S",
+    "stale": false
+   },
+   "IDOT-8071-W": {
+    "key": "IDOT-8071-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 12",
+    "direction": "W",
+    "lat": 38.755498,
+    "lon": -89.956763,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875550_-8995676_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8071&direction=W",
+    "stale": false
+   },
+   "IDOT-8056-W": {
+    "key": "IDOT-8056-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 157 (Bluff Rd.) at Eastport Plaza Dr.",
+    "direction": "W",
+    "lat": 38.684059,
+    "lon": -90.010764,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_IL-157_3868406_-9001076_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8056&direction=W",
+    "stale": false
+   },
+   "IDOT-8077-E": {
+    "key": "IDOT-8077-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Milepost 15.4",
+    "direction": "E",
+    "lat": 38.753706,
+    "lon": -89.892646,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_WB_I-70_3875371_-8989265_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8077&direction=E",
+    "stale": false
+   },
+   "IDOT-8016-W": {
+    "key": "IDOT-8016-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at MIlepost 3.9 (15th St)",
+    "direction": "W",
+    "lat": 38.626432,
+    "lon": -90.137414,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-64_3862643_-9013741_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8016&direction=W",
+    "stale": false
+   },
+   "IDOT-8022-E": {
+    "key": "IDOT-8022-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 8.8 (Fairmont Ln.)",
+    "direction": "E",
+    "lat": 38.669287,
+    "lon": -90.042477,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_WB_US-40_3866929_-9004248_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8022&direction=E",
+    "stale": false
+   },
+   "IDOT-8037-N": {
+    "key": "IDOT-8037-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 17.6",
+    "direction": "N",
+    "lat": 38.726517,
+    "lon": -89.913932,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-55_3872652_-8991393_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8037&direction=N",
+    "stale": false
+   },
+   "IDOT-8052-W": {
+    "key": "IDOT-8052-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "Troy Rd. at Lavelle Dr.",
+    "direction": "W",
+    "lat": 38.785417,
+    "lon": -89.951163,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_Troy_3878542_-8995116_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8052&direction=W",
+    "stale": false
+   },
+   "IDOT-8080-N": {
+    "key": "IDOT-8080-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 4 at Airport Blvd.",
+    "direction": "N",
+    "lat": 38.543663,
+    "lon": -89.805254,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_IL-4_3854366_-8980525_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8080&direction=N",
+    "stale": false
+   },
+   "IDOT-8028-S": {
+    "key": "IDOT-8028-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 Bridge at IL 3",
+    "direction": "S",
+    "lat": 38.641236,
+    "lon": -90.154488,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-70_3864124_-9015449_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8028&direction=S",
+    "stale": false
+   },
+   "IDOT-8030-S": {
+    "key": "IDOT-8030-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 12.7",
+    "direction": "S",
+    "lat": 38.700311,
+    "lon": -89.990658,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SWB_I-70_3870031_-8999066_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8030&direction=S",
+    "stale": false
+   },
+   "IDOT-8005-S": {
+    "key": "IDOT-8005-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Milepost 2.6 (Merge)",
+    "direction": "S",
+    "lat": 38.633564,
+    "lon": -90.145434,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-70_3863356_-9014543_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8005&direction=S",
+    "stale": false
+   },
+   "IDOT-8069-E": {
+    "key": "IDOT-8069-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 9.9",
+    "direction": "E",
+    "lat": 38.756427,
+    "lon": -89.990935,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875643_-8999093_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8069&direction=E",
+    "stale": false
+   },
+   "IDOT-8054-E": {
+    "key": "IDOT-8054-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "US-67 at Clark Bridge South",
+    "direction": "E",
+    "lat": 38.88218,
+    "lon": -90.178674,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_US-67_3888218_-9017867_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8054&direction=E",
+    "stale": false
+   },
+   "IDOT-8017-E": {
+    "key": "IDOT-8017-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Industrial Dr.",
+    "direction": "E",
+    "lat": 38.648092,
+    "lon": -90.16113,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-70_3864809_-9016113_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8017&direction=E",
+    "stale": false
+   },
+   "IDOT-8073-S": {
+    "key": "IDOT-8073-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 19.0",
+    "direction": "S",
+    "lat": 38.602769,
+    "lon": -90.085151,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NEB_US-50_3860277_-9008515_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8073&direction=S",
+    "stale": false
+   },
+   "IDOT-8077-W": {
+    "key": "IDOT-8077-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Milepost 15.4",
+    "direction": "W",
+    "lat": 38.753706,
+    "lon": -89.892646,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_WB_I-70_3875371_-8989265_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8077&direction=W",
+    "stale": false
+   },
+   "IDOT-8026-E": {
+    "key": "IDOT-8026-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at Milepost 4.5 (25th St.)",
+    "direction": "E",
+    "lat": 38.621202,
+    "lon": -90.119909,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-64_3862120_-9011991_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8026&direction=E",
+    "stale": false
+   },
+   "IDOT-8031-E": {
+    "key": "IDOT-8031-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 4.4 (East of JB Bridge)",
+    "direction": "E",
+    "lat": 38.482419,
+    "lon": -90.261233,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Monroe_EB_I-255_3848242_-9026123_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8031&direction=E",
+    "stale": false
+   },
+   "IDOT-8080-S": {
+    "key": "IDOT-8080-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 4 at Airport Blvd.",
+    "direction": "S",
+    "lat": 38.543663,
+    "lon": -89.805254,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_IL-4_3854366_-8980525_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8080&direction=S",
+    "stale": false
+   },
+   "IDOT-8081-W": {
+    "key": "IDOT-8081-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at MP 4.2",
+    "direction": "W",
+    "lat": 38.621822,
+    "lon": -90.123923,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-64_3862182_-9012392_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8081&direction=W",
+    "stale": false
+   },
+   "IDOT-8028-W": {
+    "key": "IDOT-8028-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 Bridge at IL 3",
+    "direction": "W",
+    "lat": 38.641236,
+    "lon": -90.154488,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-70_3864124_-9015449_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8028&direction=W",
+    "stale": false
+   },
+   "IDOT-8020-N": {
+    "key": "IDOT-8020-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 255 at Mile Post 1.0",
+    "direction": "N",
+    "lat": 38.77276,
+    "lon": -90.044179,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_IL-255_3877276_-9004418_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8020&direction=N",
+    "stale": false
+   },
+   "IDOT-8048-N": {
+    "key": "IDOT-8048-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 26.6",
+    "direction": "N",
+    "lat": 38.70083,
+    "lon": -90.031122,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_I-255_3870083_-9003112_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8048&direction=N",
+    "stale": false
+   },
+   "IDOT-8001-W": {
+    "key": "IDOT-8001-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Poplar St Bridge",
+    "direction": "W",
+    "lat": 38.616405,
+    "lon": -90.1772,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-64_3861641_-9017720_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8001&direction=W",
+    "stale": false
+   },
+   "IDOT-8007-N": {
+    "key": "IDOT-8007-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 3 at 8th Street",
+    "direction": "N",
+    "lat": 38.613548,
+    "lon": -90.171222,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NB_I-64_3861355_-9017122_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8007&direction=N",
+    "stale": false
+   },
+   "IDOT-8056-N": {
+    "key": "IDOT-8056-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 157 (Bluff Rd.) at Eastport Plaza Dr.",
+    "direction": "N",
+    "lat": 38.684059,
+    "lon": -90.010764,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_IL-157_3868406_-9001076_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8056&direction=N",
+    "stale": false
+   },
+   "IDOT-8044-S": {
+    "key": "IDOT-8044-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 22.0",
+    "direction": "S",
+    "lat": 38.640612,
+    "lon": -90.051443,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NEB_I-255_3864061_-9005144_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8044&direction=S",
+    "stale": false
+   },
+   "IDOT-8038-S": {
+    "key": "IDOT-8038-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 @ MP 19.2",
+    "direction": "S",
+    "lat": 38.7479267199877,
+    "lon": -89.90861224449752,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_I-55_3874793_-8990861_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8038&direction=S",
+    "stale": false
+   },
+   "IDOT-8076-E": {
+    "key": "IDOT-8076-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Mile Post 15.0",
+    "direction": "E",
+    "lat": 38.751994,
+    "lon": -89.907978,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-55_3875199_-8990798_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8076&direction=E",
+    "stale": false
+   },
+   "IDOT-8036-N": {
+    "key": "IDOT-8036-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 17.0",
+    "direction": "N",
+    "lat": 38.718442,
+    "lon": -89.917402,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_I-70_3871844_-8991740_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8036&direction=N",
+    "stale": false
+   },
+   "IDOT-8079-E": {
+    "key": "IDOT-8079-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Mile Post 16.8",
+    "direction": "E",
+    "lat": 38.755312,
+    "lon": -89.866582,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-70_3875531_-8986658_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8079&direction=E",
+    "stale": false
+   },
+   "IDOT-8027-S": {
+    "key": "IDOT-8027-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55 at I-255",
+    "direction": "S",
+    "lat": 38.673422,
+    "lon": -90.029313,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-255_3867342_-9002931_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8027&direction=S",
+    "stale": false
+   },
+   "IDOT-8003-S": {
+    "key": "IDOT-8003-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Tudor Ave",
+    "direction": "S",
+    "lat": 38.617368,
+    "lon": -90.16759,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SWB_I-64_3861737_-9016759_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8003&direction=S",
+    "stale": false
+   },
+   "IDOT-8052-N": {
+    "key": "IDOT-8052-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "Troy Rd. at Lavelle Dr.",
+    "direction": "N",
+    "lat": 38.785417,
+    "lon": -89.951163,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_Troy_3878542_-8995116_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8052&direction=N",
+    "stale": false
+   },
+   "IDOT-8012-W": {
+    "key": "IDOT-8012-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Milepost 2.4 (#3rd St)",
+    "direction": "W",
+    "lat": 38.630505,
+    "lon": -90.153459,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NEB_I-55_3863051_-9015346_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8012&direction=W",
+    "stale": false
+   },
+   "IDOT-8051-E": {
+    "key": "IDOT-8051-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 29.3",
+    "direction": "E",
+    "lat": 38.73393,
+    "lon": -90.03933,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_I-255_3873393_-9003933_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8051&direction=E",
+    "stale": false
+   },
+   "IDOT-8058-E": {
+    "key": "IDOT-8058-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "McKinley Bridge East (IL Side)",
+    "direction": "E",
+    "lat": 38.66533,
+    "lon": -90.18065,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_McKinley_3866533_-9018065_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8058&direction=E",
+    "stale": false
+   },
+   "IDOT-8024-E": {
+    "key": "IDOT-8024-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 7.0 (E of IL 111)",
+    "direction": "E",
+    "lat": 38.662503,
+    "lon": -90.08092,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_US-40_3866250_-9008092_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8024&direction=E",
+    "stale": false
+   },
+   "IDOT-8045-N": {
+    "key": "IDOT-8045-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 23.5 (Collinsville Rd.)",
+    "direction": "N",
+    "lat": 38.65544,
+    "lon": -90.032066,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NB_I-255_3865544_-9003207_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8045&direction=N",
+    "stale": false
+   },
+   "IDOT-8037-S": {
+    "key": "IDOT-8037-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 17.6",
+    "direction": "S",
+    "lat": 38.726517,
+    "lon": -89.913932,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-55_3872652_-8991393_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8037&direction=S",
+    "stale": false
+   },
+   "IDOT-8076-W": {
+    "key": "IDOT-8076-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Mile Post 15.0",
+    "direction": "W",
+    "lat": 38.751994,
+    "lon": -89.907978,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-55_3875199_-8990798_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8076&direction=W",
+    "stale": false
+   },
+   "IDOT-8079-W": {
+    "key": "IDOT-8079-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Mile Post 16.8",
+    "direction": "W",
+    "lat": 38.755312,
+    "lon": -89.866582,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-70_3875531_-8986658_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8079&direction=W",
+    "stale": false
+   },
+   "IDOT-8028-N": {
+    "key": "IDOT-8028-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 Bridge at IL 3",
+    "direction": "N",
+    "lat": 38.641236,
+    "lon": -90.154488,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-70_3864124_-9015449_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8028&direction=N",
+    "stale": false
+   },
+   "IDOT-8059-E": {
+    "key": "IDOT-8059-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 159 (Troy Rd.) at Junction Dr.",
+    "direction": "E",
+    "lat": 38.776903,
+    "lon": -89.95546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_IL-159_3877690_-8995546_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8059&direction=E",
+    "stale": false
+   },
+   "IDOT-8030-N": {
+    "key": "IDOT-8030-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 12.7",
+    "direction": "N",
+    "lat": 38.700311,
+    "lon": -89.990658,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SWB_I-70_3870031_-8999066_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8030&direction=N",
+    "stale": false
+   },
+   "IDOT-8005-N": {
+    "key": "IDOT-8005-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Milepost 2.6 (Merge)",
+    "direction": "N",
+    "lat": 38.633564,
+    "lon": -90.145434,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-70_3863356_-9014543_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8005&direction=N",
+    "stale": false
+   },
+   "IDOT-8069-W": {
+    "key": "IDOT-8069-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 9.9",
+    "direction": "W",
+    "lat": 38.756427,
+    "lon": -89.990935,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875643_-8999093_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8069&direction=W",
+    "stale": false
+   },
+   "IDOT-8053-E": {
+    "key": "IDOT-8053-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "US-67 at Clark Bridge North",
+    "direction": "E",
+    "lat": 38.883396,
+    "lon": -90.176355,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_US-67_3888340_-9017635_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8053&direction=E",
+    "stale": false
+   },
+   "IDOT-8019-E": {
+    "key": "IDOT-8019-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at MP 16.8 (IL 15)",
+    "direction": "E",
+    "lat": 38.58228,
+    "lon": -90.10852,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SWB_I-255_3858228_-9010852_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8019&direction=E",
+    "stale": false
+   },
+   "IDOT-8075-E": {
+    "key": "IDOT-8075-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Mile Post 13.3",
+    "direction": "E",
+    "lat": 38.752171,
+    "lon": -89.930999,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875217_-8993100_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8075&direction=E",
+    "stale": false
+   },
+   "IDOT-8043-E": {
+    "key": "IDOT-8043-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at Milepost 6.3 (IL 111)",
+    "direction": "E",
+    "lat": 38.620691,
+    "lon": -90.081412,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_WB_I-64_3862069_-9008141_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8043&direction=E",
+    "stale": false
+   },
+   "IDOT-8026-W": {
+    "key": "IDOT-8026-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at Milepost 4.5 (25th St.)",
+    "direction": "W",
+    "lat": 38.621202,
+    "lon": -90.119909,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-64_3862120_-9011991_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8026&direction=W",
+    "stale": false
+   },
+   "IDOT-8078-E": {
+    "key": "IDOT-8078-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Mile Post 16.1",
+    "direction": "E",
+    "lat": 38.755182,
+    "lon": -89.878222,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-70_3875518_-8987822_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8078&direction=E",
+    "stale": false
+   },
+   "IDOT-8059-W": {
+    "key": "IDOT-8059-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 159 (Troy Rd.) at Junction Dr.",
+    "direction": "W",
+    "lat": 38.776903,
+    "lon": -89.95546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_IL-159_3877690_-8995546_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8059&direction=W",
+    "stale": false
+   },
+   "IDOT-8072-E": {
+    "key": "IDOT-8072-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 12.6",
+    "direction": "E",
+    "lat": 38.753041,
+    "lon": -89.942596,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875304_-8994260_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8072&direction=E",
+    "stale": false
+   },
+   "IDOT-8007-S": {
+    "key": "IDOT-8007-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 3 at 8th Street",
+    "direction": "S",
+    "lat": 38.613548,
+    "lon": -90.171222,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NB_I-64_3861355_-9017122_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8007&direction=S",
+    "stale": false
+   },
+   "IDOT-8049-N": {
+    "key": "IDOT-8049-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 27.6",
+    "direction": "N",
+    "lat": 38.714423,
+    "lon": -90.024802,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-255_3871442_-9002480_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8049&direction=N",
+    "stale": false
+   },
+   "IDOT-8002-E": {
+    "key": "IDOT-8002-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Milepost 0.4",
+    "direction": "E",
+    "lat": 38.61618,
+    "lon": -90.1767,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_EB_I-64_3861618_-9017670_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8002&direction=E",
+    "stale": false
+   },
+   "IDOT-8043-W": {
+    "key": "IDOT-8043-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at Milepost 6.3 (IL 111)",
+    "direction": "W",
+    "lat": 38.620691,
+    "lon": -90.081412,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_WB_I-64_3862069_-9008141_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8043&direction=W",
+    "stale": false
+   },
+   "IDOT-8019-W": {
+    "key": "IDOT-8019-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at MP 16.8 (IL 15)",
+    "direction": "W",
+    "lat": 38.58228,
+    "lon": -90.10852,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SWB_I-255_3858228_-9010852_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8019&direction=W",
+    "stale": false
+   },
+   "IDOT-8075-W": {
+    "key": "IDOT-8075-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Mile Post 13.3",
+    "direction": "W",
+    "lat": 38.752171,
+    "lon": -89.930999,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875217_-8993100_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8075&direction=W",
+    "stale": false
+   },
+   "IDOT-8036-S": {
+    "key": "IDOT-8036-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 17.0",
+    "direction": "S",
+    "lat": 38.718442,
+    "lon": -89.917402,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_I-70_3871844_-8991740_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8036&direction=S",
+    "stale": false
+   },
+   "IDOT-8027-N": {
+    "key": "IDOT-8027-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55 at I-255",
+    "direction": "N",
+    "lat": 38.673422,
+    "lon": -90.029313,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-255_3867342_-9002931_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8027&direction=N",
+    "stale": false
+   },
+   "IDOT-8052-S": {
+    "key": "IDOT-8052-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "Troy Rd. at Lavelle Dr.",
+    "direction": "S",
+    "lat": 38.785417,
+    "lon": -89.951163,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_Troy_3878542_-8995116_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8052&direction=S",
+    "stale": false
+   },
+   "IDOT-8016-E": {
+    "key": "IDOT-8016-E",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-64 at MIlepost 3.9 (15th St)",
+    "direction": "E",
+    "lat": 38.626432,
+    "lon": -90.137414,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-64_3862643_-9013741_1_E.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8016&direction=E",
+    "stale": false
+   },
+   "IDOT-8058-W": {
+    "key": "IDOT-8058-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "McKinley Bridge East (IL Side)",
+    "direction": "W",
+    "lat": 38.66533,
+    "lon": -90.18065,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_McKinley_3866533_-9018065_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8058&direction=W",
+    "stale": false
+   },
+   "IDOT-8003-N": {
+    "key": "IDOT-8003-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/64 at Tudor Ave",
+    "direction": "N",
+    "lat": 38.617368,
+    "lon": -90.16759,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SWB_I-64_3861737_-9016759_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8003&direction=N",
+    "stale": false
+   },
+   "IDOT-8045-S": {
+    "key": "IDOT-8045-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 23.5 (Collinsville Rd.)",
+    "direction": "S",
+    "lat": 38.65544,
+    "lon": -90.032066,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_NB_I-255_3865544_-9003207_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8045&direction=S",
+    "stale": false
+   },
+   "IDOT-8039-N": {
+    "key": "IDOT-8039-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-5I-55/70 at Milepost 19.7",
+    "direction": "N",
+    "lat": 38.75685,
+    "lon": -89.905546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NB_I-270_3875685_-8990555_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8039&direction=N",
+    "stale": false
+   },
+   "IDOT-8072-W": {
+    "key": "IDOT-8072-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 12.6",
+    "direction": "W",
+    "lat": 38.753041,
+    "lon": -89.942596,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875304_-8994260_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8072&direction=W",
+    "stale": false
+   },
+   "IDOT-8017-W": {
+    "key": "IDOT-8017-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-70 at Industrial Dr.",
+    "direction": "W",
+    "lat": 38.648092,
+    "lon": -90.16113,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_I-70_3864809_-9016113_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8017&direction=W",
+    "stale": false
+   },
+   "IDOT-8024-W": {
+    "key": "IDOT-8024-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-55/70 at Milepost 7.0 (E of IL 111)",
+    "direction": "W",
+    "lat": 38.662503,
+    "lon": -90.08092,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_US-40_3866250_-9008092_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8024&direction=W",
+    "stale": false
+   },
+   "IDOT-8031-W": {
+    "key": "IDOT-8031-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-255 at Milepost 4.4 (East of JB Bridge)",
+    "direction": "W",
+    "lat": 38.482419,
+    "lon": -90.261233,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Monroe_EB_I-255_3848242_-9026123_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8031&direction=W",
+    "stale": false
+   },
+   "IDOT-8059-N": {
+    "key": "IDOT-8059-N",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 159 (Troy Rd.) at Junction Dr.",
+    "direction": "N",
+    "lat": 38.776903,
+    "lon": -89.95546,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_NEB_IL-159_3877690_-8995546_1_N.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8059&direction=N",
+    "stale": false
+   },
+   "IDOT-8080-W": {
+    "key": "IDOT-8080-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 4 at Airport Blvd.",
+    "direction": "W",
+    "lat": 38.543663,
+    "lon": -89.805254,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_St-Clair_SEB_IL-4_3854366_-8980525_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8080&direction=W",
+    "stale": false
+   },
+   "IDOT-8020-S": {
+    "key": "IDOT-8020-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 255 at Mile Post 1.0",
+    "direction": "S",
+    "lat": 38.77276,
+    "lon": -90.044179,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_IL-255_3877276_-9004418_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8020&direction=S",
+    "stale": false
+   },
+   "IDOT-8070-W": {
+    "key": "IDOT-8070-W",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "I-270 at Milepost 11",
+    "direction": "W",
+    "lat": 38.756705,
+    "lon": -89.97381,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_EB_I-270_3875670_-8997381_1_W.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8070&direction=W",
+    "stale": false
+   },
+   "IDOT-8056-S": {
+    "key": "IDOT-8056-S",
+    "agency": "IDOT",
+    "state": "IL",
+    "name": "IL 157 (Bluff Rd.) at Eastport Plaza Dr.",
+    "direction": "S",
+    "lat": 38.684059,
+    "lon": -90.010764,
+    "snapshot": "https://cctv.travelmidwest.com/snapshots/IL-IDOTD4_8_Madison_SB_IL-157_3868406_-9001076_1_S.jpg",
+    "viewer": "https://travelmidwest.com/showCamera?id=IL-IDOTD4-8056&direction=S",
+    "stale": false
+   },
+   "MODOT-1333": {
+    "key": "MODOT-1333",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT SHREWSBURY, MM 282.9",
+    "direction": "",
+    "lat": 38.59464,
+    "lon": -90.32648,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_240/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1108": {
+    "key": "MODOT-1108",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O SHREWSBURY, MM 283.2",
+    "direction": "",
+    "lat": 38.5951,
+    "lon": -90.322896,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_015/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1147": {
+    "key": "MODOT-1147",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT ARSENAL, MM 207.4",
+    "direction": "",
+    "lat": 38.5966,
+    "lon": -90.2166,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_054/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1109": {
+    "key": "MODOT-1109",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O JAMIESON, MM 284",
+    "direction": "",
+    "lat": 38.6006,
+    "lon": -90.3132,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_016/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1331": {
+    "key": "MODOT-1331",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT JAMIESON, MM 284.3",
+    "direction": "",
+    "lat": 38.60542,
+    "lon": -90.30746,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_238/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1340": {
+    "key": "MODOT-1340",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT GRAVOIS, MM 208.2",
+    "direction": "",
+    "lat": 38.606489,
+    "lon": -90.21375,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_247/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1110": {
+    "key": "MODOT-1110",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT ARSENAL, MM 284.7",
+    "direction": "",
+    "lat": 38.6086,
+    "lon": -90.303904,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_017/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1112": {
+    "key": "MODOT-1112",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT 55, MM 290.1",
+    "direction": "",
+    "lat": 38.611,
+    "lon": -90.212304,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_019/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1341": {
+    "key": "MODOT-1341",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT LAFAYETTE",
+    "direction": "",
+    "lat": 38.611397,
+    "lon": -90.203875,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_248/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1329": {
+    "key": "MODOT-1329",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT 55 HM, MM 290.1",
+    "direction": "",
+    "lat": 38.61248,
+    "lon": -90.21191,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_236/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3060": {
+    "key": "MODOT-3060",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT JEFFERSON, MM 289.6",
+    "direction": "",
+    "lat": 38.6135,
+    "lon": -90.2216,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_018/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1134": {
+    "key": "MODOT-1134",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44-55 AT PARK, MM 290.7",
+    "direction": "",
+    "lat": 38.613889,
+    "lon": -90.19778,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_041/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1123": {
+    "key": "MODOT-1123",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT GRAND, MM 288.6",
+    "direction": "",
+    "lat": 38.617,
+    "lon": -90.239504,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_030/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1122": {
+    "key": "MODOT-1122",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT KINGSHIGHWAY, MM 287.1",
+    "direction": "",
+    "lat": 38.6186,
+    "lon": -90.266096,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_029/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1121": {
+    "key": "MODOT-1121",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT HAMPTON, MM 285.9",
+    "direction": "",
+    "lat": 38.6188,
+    "lon": -90.288696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_028/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1369": {
+    "key": "MODOT-1369",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT VANDEVENTER, MM 287.5",
+    "direction": "",
+    "lat": 38.61917,
+    "lon": -90.25908,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_276/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1240": {
+    "key": "MODOT-1240",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT 64-55, MM 290.1",
+    "direction": "",
+    "lat": 38.6203,
+    "lon": -90.1886,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_147/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1194": {
+    "key": "MODOT-1194",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 55, MM 40.3",
+    "direction": "",
+    "lat": 38.6207,
+    "lon": -90.190696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_101/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1174": {
+    "key": "MODOT-1174",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O 7TH, MM 39.2",
+    "direction": "",
+    "lat": 38.6224,
+    "lon": -90.1956,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_081/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1172": {
+    "key": "MODOT-1172",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 14TH, MM 38.6",
+    "direction": "",
+    "lat": 38.6241,
+    "lon": -90.2044,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_079/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1171": {
+    "key": "MODOT-1171",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 15TH, MM 38.7",
+    "direction": "",
+    "lat": 38.6245,
+    "lon": -90.205496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_078/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1215": {
+    "key": "MODOT-1215",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "MEMORIAL AT PINE",
+    "direction": "",
+    "lat": 38.6256,
+    "lon": -90.1872,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_122/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1173": {
+    "key": "MODOT-1173",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 20TH, MM 39.1",
+    "direction": "",
+    "lat": 38.626,
+    "lon": -90.2118,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_080/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1193": {
+    "key": "MODOT-1193",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT JEFFERSON, MM 38",
+    "direction": "",
+    "lat": 38.6276,
+    "lon": -90.217696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_100/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1166": {
+    "key": "MODOT-1166",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT BELLEVUE, MM 33.4",
+    "direction": "",
+    "lat": 38.6284,
+    "lon": -90.3112,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_073/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1214": {
+    "key": "MODOT-1214",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT WASHINGTON, MM 292.2",
+    "direction": "",
+    "lat": 38.6294,
+    "lon": -90.186304,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_121/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1168": {
+    "key": "MODOT-1168",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O KINGSHIGHWAY, MM 35.8",
+    "direction": "",
+    "lat": 38.6295,
+    "lon": -90.270104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_075/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1188": {
+    "key": "MODOT-1188",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT BIG BEND, MM 33",
+    "direction": "",
+    "lat": 38.6293,
+    "lon": -90.319904,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_095/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1165": {
+    "key": "MODOT-1165",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O HANLEY, MM 32.2",
+    "direction": "",
+    "lat": 38.6292,
+    "lon": -90.334704,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_072/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1164": {
+    "key": "MODOT-1164",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O BRENTWOOD, MM 31.6",
+    "direction": "",
+    "lat": 38.6297,
+    "lon": -90.3456,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_071/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1169": {
+    "key": "MODOT-1169",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT TOWER GROVE, MM 36.7",
+    "direction": "",
+    "lat": 38.6307,
+    "lon": -90.254504,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_076/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1187": {
+    "key": "MODOT-1187",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 170, MM 31.8",
+    "direction": "",
+    "lat": 38.6302,
+    "lon": -90.342496,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_094/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1167": {
+    "key": "MODOT-1167",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT HAMPTON, MM 34.9",
+    "direction": "",
+    "lat": 38.6312,
+    "lon": -90.287,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_074/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1190": {
+    "key": "MODOT-1190",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT KINGSHIGHWAY, MM 36.1",
+    "direction": "",
+    "lat": 38.6319,
+    "lon": -90.2652,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_097/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1192": {
+    "key": "MODOT-1192",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT GRAND, MM 36.9",
+    "direction": "",
+    "lat": 38.6321,
+    "lon": -90.2364,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_099/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1191": {
+    "key": "MODOT-1191",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT VANDEVENTER, MM 36.5",
+    "direction": "",
+    "lat": 38.6321,
+    "lon": -90.243696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_098/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1170": {
+    "key": "MODOT-1170",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT GRAND, MM 36.9",
+    "direction": "",
+    "lat": 38.6322,
+    "lon": -90.236704,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_077/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1189": {
+    "key": "MODOT-1189",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT OAKLAND, MM 34.1",
+    "direction": "",
+    "lat": 38.6325,
+    "lon": -90.301696,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_096/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1241": {
+    "key": "MODOT-1241",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT GALLERIA PKWY, MM 0.6",
+    "direction": "",
+    "lat": 38.6354,
+    "lon": -90.343496,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_148/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1239": {
+    "key": "MODOT-1239",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT BROADWAY-CASS, MM 292.7",
+    "direction": "",
+    "lat": 38.6388,
+    "lon": -90.1864,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_146/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1347": {
+    "key": "MODOT-1347",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 W/O MISSISSIPPI RIVER HM, MM 249.6",
+    "direction": "",
+    "lat": 38.642158,
+    "lon": -90.185849,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_254/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1244": {
+    "key": "MODOT-1244",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 S/O MIDLAND, MM 5.1",
+    "direction": "",
+    "lat": 38.6949,
+    "lon": -90.346904,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_151/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1230": {
+    "key": "MODOT-1230",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT MCDONNELL, MM 238.2",
+    "direction": "",
+    "lat": 38.7331,
+    "lon": -90.343904,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_137/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1336": {
+    "key": "MODOT-1336",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 170 HM, MM 26.3",
+    "direction": "",
+    "lat": 38.775316,
+    "lon": -90.340486,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_243/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1245": {
+    "key": "MODOT-1245",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT ST CHARLES ROCK RD, MM 6",
+    "direction": "",
+    "lat": 38.7053,
+    "lon": -90.339104,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_152/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1247": {
+    "key": "MODOT-1247",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT FROST, MM 10.1",
+    "direction": "",
+    "lat": 38.7624,
+    "lon": -90.338504,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_154/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1248": {
+    "key": "MODOT-1248",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT NYFLOT, MM 10.6",
+    "direction": "",
+    "lat": 38.77,
+    "lon": -90.3384,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_155/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1246": {
+    "key": "MODOT-1246",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT AIRPORT RD, MM 9.1",
+    "direction": "",
+    "lat": 38.7492,
+    "lon": -90.337504,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_153/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1252": {
+    "key": "MODOT-1252",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT SCUDDER, MM 8.7",
+    "direction": "",
+    "lat": 38.7424,
+    "lon": -90.336896,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_159/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1328": {
+    "key": "MODOT-1328",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT HANLEY-GRAHAM, MM 26.9",
+    "direction": "",
+    "lat": 38.776262,
+    "lon": -90.335401,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_235/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1209": {
+    "key": "MODOT-1209",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 170, MM 238.8",
+    "direction": "",
+    "lat": 38.7299,
+    "lon": -90.3344,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_116/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1251": {
+    "key": "MODOT-1251",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT NATURAL BRIDGE, MM 7.1",
+    "direction": "",
+    "lat": 38.7197,
+    "lon": -90.332496,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_158/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1338": {
+    "key": "MODOT-1338",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT 70 HM, MM 7.9",
+    "direction": "",
+    "lat": 38.731422,
+    "lon": -90.330799,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_245/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3160": {
+    "key": "MODOT-3160",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT PED BRIDGE",
+    "direction": "",
+    "lat": 38.77541,
+    "lon": -90.328332,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_806/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1210": {
+    "key": "MODOT-1210",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT HANLEY, MM 239.8",
+    "direction": "",
+    "lat": 38.7204,
+    "lon": -90.316904,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_117/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3280": {
+    "key": "MODOT-3280",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 SOR-PERSHALL AT N -JEAN",
+    "direction": "",
+    "lat": 38.77339,
+    "lon": -90.31638,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_811/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1261": {
+    "key": "MODOT-1261",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 NOR-DUNN AT WASHINGTON",
+    "direction": "",
+    "lat": 38.7721836497,
+    "lon": -90.307410956,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_168/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1231": {
+    "key": "MODOT-1231",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT FLORISSANT, MM 240.6",
+    "direction": "",
+    "lat": 38.7219,
+    "lon": -90.305496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_138/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1232": {
+    "key": "MODOT-1232",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 E/O BERMUDA, MM 241.4",
+    "direction": "",
+    "lat": 38.716583,
+    "lon": -90.294917,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_139/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3182": {
+    "key": "MODOT-3182",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 w/o W Florissant",
+    "direction": "",
+    "lat": 38.771733,
+    "lon": -90.291016,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_809/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1211": {
+    "key": "MODOT-1211",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT LUCAS AND HUNT, MM 241.9",
+    "direction": "",
+    "lat": 38.7109,
+    "lon": -90.285696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_118/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1262": {
+    "key": "MODOT-1262",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT W FLORISSANT, MM 29.5",
+    "direction": "",
+    "lat": 38.7712,
+    "lon": -90.28,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_169/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1212": {
+    "key": "MODOT-1212",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT JENNINGS STA, MM 243",
+    "direction": "",
+    "lat": 38.703,
+    "lon": -90.2696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_119/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1233": {
+    "key": "MODOT-1233",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT RIVERVIEW, MM 243.6",
+    "direction": "",
+    "lat": 38.6979,
+    "lon": -90.260696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_140/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3183": {
+    "key": "MODOT-3183",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "Old Halls Ferry @ 270",
+    "direction": "",
+    "lat": 38.771423,
+    "lon": -90.260955,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_810/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1234": {
+    "key": "MODOT-1234",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT UNION, MM 244.4",
+    "direction": "",
+    "lat": 38.6885,
+    "lon": -90.2504,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_141/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1213": {
+    "key": "MODOT-1213",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT SHREVE, MM 245.2",
+    "direction": "",
+    "lat": 38.6828,
+    "lon": -90.239,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_120/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1285": {
+    "key": "MODOT-1285",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 367, MM 31.6",
+    "direction": "",
+    "lat": 38.7709,
+    "lon": -90.239096,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_192/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1371": {
+    "key": "MODOT-1371",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "367 AT DUNN, MM 2.8",
+    "direction": "",
+    "lat": 38.7791,
+    "lon": -90.2372,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_278/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1374": {
+    "key": "MODOT-1374",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "367 AT LINDBERGH, MM 0",
+    "direction": "",
+    "lat": 38.8184,
+    "lon": -90.2312,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_281/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1372": {
+    "key": "MODOT-1372",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "367 AT PARKER, MM 1.6",
+    "direction": "",
+    "lat": 38.7953,
+    "lon": -90.2302,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_279/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1373": {
+    "key": "MODOT-1373",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "367 S/O NEW JAMESTOWN, MM 1",
+    "direction": "",
+    "lat": 38.8047,
+    "lon": -90.227696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_280/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3140": {
+    "key": "MODOT-3140",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "67 at 94",
+    "direction": "",
+    "lat": 38.8616,
+    "lon": -90.223704,
+    "hls": "https://sfs07-traveler.modot.mo.gov/rtplive/MODOT_CAM_805/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3300": {
+    "key": "MODOT-3300",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 NOR-DUNN AT BELLEFONTAINE",
+    "direction": "",
+    "lat": 38.7701231,
+    "lon": -90.220778,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_812/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1235": {
+    "key": "MODOT-1235",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT CARRIE, MM 246.3",
+    "direction": "",
+    "lat": 38.684,
+    "lon": -90.218696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_142/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1263": {
+    "key": "MODOT-1263",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 WO LILAC, MM 33.4",
+    "direction": "",
+    "lat": 38.767283,
+    "lon": -90.2071,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_170/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1236": {
+    "key": "MODOT-1236",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT GRAND, MM 247.1",
+    "direction": "",
+    "lat": 38.6759,
+    "lon": -90.2064,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_143/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1237": {
+    "key": "MODOT-1237",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT MCKINLEY, MM 248.2",
+    "direction": "",
+    "lat": 38.6621,
+    "lon": -90.197504,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_144/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1238": {
+    "key": "MODOT-1238",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 W/O MADISON, MM 249.2",
+    "direction": "",
+    "lat": 38.647753,
+    "lon": -90.191062,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_145/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-6260": {
+    "key": "MODOT-6260",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 W/O RIVERVIEW",
+    "direction": "",
+    "lat": 38.767133,
+    "lon": -90.18198,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_193/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1348": {
+    "key": "MODOT-1348",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT MISSISSIPPI RIVER, MM 249.6",
+    "direction": "",
+    "lat": 38.64646,
+    "lon": -90.17591,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_255/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1137": {
+    "key": "MODOT-1137",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT RICHARDSON, MM 190.7",
+    "direction": "",
+    "lat": 38.4157,
+    "lon": -90.389096,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_044/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1304": {
+    "key": "MODOT-1304",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT OLD LEMAY FERRY, MM 30",
+    "direction": "",
+    "lat": 38.4389,
+    "lon": -90.387904,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_211/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1138": {
+    "key": "MODOT-1138",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT 141, MM 192.6",
+    "direction": "",
+    "lat": 38.4422,
+    "lon": -90.3804,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_045/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1303": {
+    "key": "MODOT-1303",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT ASTRA WAY, MM 28.9",
+    "direction": "",
+    "lat": 38.4438,
+    "lon": -90.4046,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_210/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1291": {
+    "key": "MODOT-1291",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 N/O HARPER, MM 27.9",
+    "direction": "",
+    "lat": 38.458,
+    "lon": -90.416496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_198/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1302": {
+    "key": "MODOT-1302",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT 21, MM 27.1",
+    "direction": "",
+    "lat": 38.4623,
+    "lon": -90.424496,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_209/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1139": {
+    "key": "MODOT-1139",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 N/O MERAMEC BOTTOM, MM 194.3",
+    "direction": "",
+    "lat": 38.4658,
+    "lon": -90.372104,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_046/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1301": {
+    "key": "MODOT-1301",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT FIEDLER, MM 25.9",
+    "direction": "",
+    "lat": 38.4778,
+    "lon": -90.4398,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_208/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1129": {
+    "key": "MODOT-1129",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT BUTLER HILL, MM 195.2",
+    "direction": "",
+    "lat": 38.4861,
+    "lon": -90.3556,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_036/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1326": {
+    "key": "MODOT-1326",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "255 AT KOCH, MM 3.1",
+    "direction": "",
+    "lat": 38.48882,
+    "lon": -90.28358,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_233/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1256": {
+    "key": "MODOT-1256",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "255 AT TELEGRAPH, MM 2.1",
+    "direction": "",
+    "lat": 38.4945,
+    "lon": -90.3018,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_163/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1300": {
+    "key": "MODOT-1300",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 S/O HIGHVIEW, MM 24.8",
+    "direction": "",
+    "lat": 38.4952,
+    "lon": -90.444504,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_207/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1257": {
+    "key": "MODOT-1257",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "255 AT LINDBERGH, MM 1.1",
+    "direction": "",
+    "lat": 38.5018,
+    "lon": -90.318,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_164/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1255": {
+    "key": "MODOT-1255",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "255 AT 55, MM 0",
+    "direction": "",
+    "lat": 38.5032,
+    "lon": -90.338304,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_162/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1097": {
+    "key": "MODOT-1097",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O LEWIS, MM 266",
+    "direction": "",
+    "lat": 38.5024,
+    "lon": -90.5988,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_004/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2579": {
+    "key": "MODOT-2579",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "I-270 @ Theiss",
+    "direction": "",
+    "lat": 38.506228,
+    "lon": -90.352078,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_733/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1098": {
+    "key": "MODOT-1098",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT LEWIS, MM 266.9",
+    "direction": "",
+    "lat": 38.5048,
+    "lon": -90.584504,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_005/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1266": {
+    "key": "MODOT-1266",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT MANCHESTER, MM 10",
+    "direction": "",
+    "lat": 38.6025,
+    "lon": -90.450304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_173/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1287": {
+    "key": "MODOT-1287",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT CLAYWORTH, MM 14.6",
+    "direction": "",
+    "lat": 38.6096,
+    "lon": -90.511,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_194/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1294": {
+    "key": "MODOT-1294",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 N/O MILLDALE, MM 14.1",
+    "direction": "",
+    "lat": 38.6175,
+    "lon": -90.511496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_201/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1293": {
+    "key": "MODOT-1293",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT CLAYTON, MM 13.4",
+    "direction": "",
+    "lat": 38.6249,
+    "lon": -90.5136,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_200/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1274": {
+    "key": "MODOT-1274",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 S/O CLAYTON, MM 11",
+    "direction": "",
+    "lat": 38.6264,
+    "lon": -90.451104,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_181/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1163": {
+    "key": "MODOT-1163",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT MCKNIGHT, MM 30.5",
+    "direction": "",
+    "lat": 38.6299,
+    "lon": -90.362504,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_070/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1292": {
+    "key": "MODOT-1292",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 N/O CLAYTON, MM 13.2",
+    "direction": "",
+    "lat": 38.6287,
+    "lon": -90.5148,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_199/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1162": {
+    "key": "MODOT-1162",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O CLAYTON, MM 29.8",
+    "direction": "",
+    "lat": 38.6315,
+    "lon": -90.3804,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_069/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1161": {
+    "key": "MODOT-1161",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT LINDBERGH, MM 28.2",
+    "direction": "",
+    "lat": 38.6354,
+    "lon": -90.405296,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_068/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1160": {
+    "key": "MODOT-1160",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT SPOEDE, MM 27.6",
+    "direction": "",
+    "lat": 38.6354,
+    "lon": -90.4182,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_067/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1185": {
+    "key": "MODOT-1185",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT CLAYTON, MM 28.9",
+    "direction": "",
+    "lat": 38.6365,
+    "lon": -90.393696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_092/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1275": {
+    "key": "MODOT-1275",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 64, MM 12.4",
+    "direction": "",
+    "lat": 38.6361,
+    "lon": -90.450104,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_182/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2578": {
+    "key": "MODOT-2578",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "EB I-64 E/O Ballas Rd",
+    "direction": "",
+    "lat": 38.637151,
+    "lon": -90.43167,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_775/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3020": {
+    "key": "MODOT-3020",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O 270",
+    "direction": "",
+    "lat": 38.638368,
+    "lon": -90.459381,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_801/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1184": {
+    "key": "MODOT-1184",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT BALLAS, MM 28.9",
+    "direction": "",
+    "lat": 38.6388,
+    "lon": -90.4448,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_091/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1159": {
+    "key": "MODOT-1159",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT MASON, MM 24.2",
+    "direction": "",
+    "lat": 38.6386,
+    "lon": -90.480696,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_066/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1183": {
+    "key": "MODOT-1183",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT MARYVILLE CENTER, MM 26.2",
+    "direction": "",
+    "lat": 38.6397,
+    "lon": -90.4982,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_090/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1158": {
+    "key": "MODOT-1158",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 141, MM 21.9",
+    "direction": "",
+    "lat": 38.6399,
+    "lon": -90.511104,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_065/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1182": {
+    "key": "MODOT-1182",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O 141, MM 21.9",
+    "direction": "",
+    "lat": 38.643852,
+    "lon": -90.515107,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_089/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1242": {
+    "key": "MODOT-1242",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT FOREST PARK PKWY, MM 1.3",
+    "direction": "",
+    "lat": 38.6466,
+    "lon": -90.3486,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_149/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1157": {
+    "key": "MODOT-1157",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT TIMBERLAKE MANOR, MM 20",
+    "direction": "",
+    "lat": 38.6478,
+    "lon": -90.5366,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_064/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1254": {
+    "key": "MODOT-1254",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT LADUE, MM 9.4",
+    "direction": "",
+    "lat": 38.6534,
+    "lon": -90.3538,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_161/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1156": {
+    "key": "MODOT-1156",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT CLARKSON-OLIVE, MM 18.8",
+    "direction": "",
+    "lat": 38.6531,
+    "lon": -90.559,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_063/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1267": {
+    "key": "MODOT-1267",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT LADUE, MM 13.6",
+    "direction": "",
+    "lat": 38.6555,
+    "lon": -90.448096,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_174/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1253": {
+    "key": "MODOT-1253",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT DELMAR, MM 8.8",
+    "direction": "",
+    "lat": 38.6608,
+    "lon": -90.3574,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_160/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1325": {
+    "key": "MODOT-1325",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT LADUE, MM 10.9",
+    "direction": "",
+    "lat": 38.66061,
+    "lon": -90.50325,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_232/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1249": {
+    "key": "MODOT-1249",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT OLD BONHOMME, MM 2.9",
+    "direction": "",
+    "lat": 38.6676,
+    "lon": -90.3614,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_156/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1181": {
+    "key": "MODOT-1181",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O BOONES CROSSING, MM 17.1",
+    "direction": "",
+    "lat": 38.6685,
+    "lon": -90.577696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_088/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1324": {
+    "key": "MODOT-1324",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 N/O LADUE, MM 10.1",
+    "direction": "",
+    "lat": 38.6714,
+    "lon": -90.4941,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_231/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1268": {
+    "key": "MODOT-1268",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT OLIVE, MM 14.8",
+    "direction": "",
+    "lat": 38.6721,
+    "lon": -90.449096,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_175/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1180": {
+    "key": "MODOT-1180",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT BOONES CROSSING, MM 16.1",
+    "direction": "",
+    "lat": 38.6707,
+    "lon": -90.600096,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_087/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1250": {
+    "key": "MODOT-1250",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT OLIVE, MM 3.3",
+    "direction": "",
+    "lat": 38.674,
+    "lon": -90.3626,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_157/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1179": {
+    "key": "MODOT-1179",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT LONG, MM 15.2",
+    "direction": "",
+    "lat": 38.6721,
+    "lon": -90.616696,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_086/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1323": {
+    "key": "MODOT-1323",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT OLIVE, MM 9.3",
+    "direction": "",
+    "lat": 38.68115,
+    "lon": -90.49261,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_230/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1243": {
+    "key": "MODOT-1243",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "170 AT PAGE, MM 4.4",
+    "direction": "",
+    "lat": 38.686,
+    "lon": -90.353696,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_150/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2577": {
+    "key": "MODOT-2577",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "SB I-270 S/O D",
+    "direction": "",
+    "lat": 38.686491,
+    "lon": -90.450503,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_796/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1309": {
+    "key": "MODOT-1309",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT BENNINGTON, MM 19.9",
+    "direction": "",
+    "lat": 38.6959,
+    "lon": -90.466496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_216/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1276": {
+    "key": "MODOT-1276",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 364, MM 16.6",
+    "direction": "",
+    "lat": 38.698,
+    "lon": -90.450896,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_183/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1368": {
+    "key": "MODOT-1368",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 S/O 364, MM 8.1",
+    "direction": "",
+    "lat": 38.697754,
+    "lon": -90.503239,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_275/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1311": {
+    "key": "MODOT-1311",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT AMIOT, MM 19",
+    "direction": "",
+    "lat": 38.7055,
+    "lon": -90.4752,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_218/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1308": {
+    "key": "MODOT-1308",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT 141, MM 17.6",
+    "direction": "",
+    "lat": 38.7074,
+    "lon": -90.502,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_215/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1269": {
+    "key": "MODOT-1269",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT DORSETT, MM 17.9",
+    "direction": "",
+    "lat": 38.7144,
+    "lon": -90.4442,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_176/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1277": {
+    "key": "MODOT-1277",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "DORSETT AT 270, MM 17.9",
+    "direction": "",
+    "lat": 38.7144,
+    "lon": -90.449096,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_184/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1278": {
+    "key": "MODOT-1278",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 N/O DORSETT, MM 18.1",
+    "direction": "",
+    "lat": 38.7208,
+    "lon": -90.446296,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_185/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1367": {
+    "key": "MODOT-1367",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 N/O CREVE COEUR AIRPORT, MM 5.9",
+    "direction": "",
+    "lat": 38.727471,
+    "lon": -90.497977,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_274/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1307": {
+    "key": "MODOT-1307",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 E/O MISSOURI RIVER, MM 15.9",
+    "direction": "",
+    "lat": 38.7309,
+    "lon": -90.518,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_214/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1327": {
+    "key": "MODOT-1327",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 S/O MCKELVEY, MM 18.8",
+    "direction": "",
+    "lat": 38.73183,
+    "lon": -90.44314,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_234/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1366": {
+    "key": "MODOT-1366",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT CREVE COEUR MILL N, MM 4.9",
+    "direction": "",
+    "lat": 38.731695,
+    "lon": -90.481748,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_273/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1208": {
+    "key": "MODOT-1208",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 E/O AIRFLIGHT, MM 237.2",
+    "direction": "",
+    "lat": 38.7383,
+    "lon": -90.361704,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_115/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1207": {
+    "key": "MODOT-1207",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT AIRFLIGHT, MM 236.7",
+    "direction": "",
+    "lat": 38.7393,
+    "lon": -90.3676,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_114/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2570": {
+    "key": "MODOT-2570",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT MID RIVERS MALL DR",
+    "direction": "",
+    "lat": 38.7379,
+    "lon": -90.634304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_334/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1322": {
+    "key": "MODOT-1322",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT KISKER, MM 9.5",
+    "direction": "",
+    "lat": 38.74009,
+    "lon": -90.61793,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_229/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1229": {
+    "key": "MODOT-1229",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 E/O CYPRESS, MM 236.1",
+    "direction": "",
+    "lat": 38.7436,
+    "lon": -90.380304,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_136/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1228": {
+    "key": "MODOT-1228",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT FEE FEE, MM 235",
+    "direction": "",
+    "lat": 38.744,
+    "lon": -90.399904,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_135/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1206": {
+    "key": "MODOT-1206",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 W/O ST CHARLES ROCK RD, MM 233.8",
+    "direction": "",
+    "lat": 38.7439,
+    "lon": -90.4214,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_113/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1335": {
+    "key": "MODOT-1335",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT CENTRAL SCHOOL, MM 10",
+    "direction": "",
+    "lat": 38.741843,
+    "lon": -90.607709,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_242/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1365": {
+    "key": "MODOT-1365",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 S/O RIVERPORT SOUTH, MM 3.8",
+    "direction": "",
+    "lat": 38.744515,
+    "lon": -90.467519,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_272/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1310": {
+    "key": "MODOT-1310",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT UPPER BOTTOM, MM 15.1",
+    "direction": "",
+    "lat": 38.7442,
+    "lon": -90.5298,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_217/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1227": {
+    "key": "MODOT-1227",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 270, MM 232.7",
+    "direction": "",
+    "lat": 38.7482,
+    "lon": -90.4384,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_134/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1334": {
+    "key": "MODOT-1334",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT JUNGERMANN, MM 11",
+    "direction": "",
+    "lat": 38.746614,
+    "lon": -90.590921,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_241/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1279": {
+    "key": "MODOT-1279",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 70, MM 232.7",
+    "direction": "",
+    "lat": 38.7485,
+    "lon": -90.44,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_186/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1306": {
+    "key": "MODOT-1306",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 AT HARVESTER, MM 11.7",
+    "direction": "",
+    "lat": 38.7485,
+    "lon": -90.578104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_213/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1226": {
+    "key": "MODOT-1226",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 141, MM 231.6",
+    "direction": "",
+    "lat": 38.7556,
+    "lon": -90.458296,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_133/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2563": {
+    "key": "MODOT-2563",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ 364",
+    "direction": "",
+    "lat": 38.754922,
+    "lon": -90.545678,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_390/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1364": {
+    "key": "MODOT-1364",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT 70, MM 231.6",
+    "direction": "",
+    "lat": 38.755928,
+    "lon": -90.457367,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_271/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1280": {
+    "key": "MODOT-1280",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT ST CHARLES ROCK RD, MM 20.8",
+    "direction": "",
+    "lat": 38.7577,
+    "lon": -90.433504,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_187/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1205": {
+    "key": "MODOT-1205",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 E/O MISSOURI RIVER, MM 230.7",
+    "direction": "",
+    "lat": 38.7605,
+    "lon": -90.473,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_112/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2557": {
+    "key": "MODOT-2557",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ Pralle Ln",
+    "direction": "",
+    "lat": 38.761006,
+    "lon": -90.529617,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_384/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1363": {
+    "key": "MODOT-1363",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT RIDER TRAIL SOUTH, MM 2.4",
+    "direction": "",
+    "lat": 38.762605,
+    "lon": -90.455115,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_270/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1362": {
+    "key": "MODOT-1362",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT LAKEFRONT, MM 2.1",
+    "direction": "",
+    "lat": 38.765487,
+    "lon": -90.460183,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_269/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1281": {
+    "key": "MODOT-1281",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 370, MM 22.3",
+    "direction": "",
+    "lat": 38.7699,
+    "lon": -90.406704,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_188/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1225": {
+    "key": "MODOT-1225",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 W/O MISSOURI RIVER, MM 229.5",
+    "direction": "",
+    "lat": 38.7691,
+    "lon": -90.4948,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_132/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2555": {
+    "key": "MODOT-2555",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ Zumbehl-Friendens ",
+    "direction": "",
+    "lat": 38.769167,
+    "lon": -90.523806,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_382/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1282": {
+    "key": "MODOT-1282",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT MISSOURI BOTTOM, MM 22.9",
+    "direction": "",
+    "lat": 38.7726,
+    "lon": -90.400104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_189/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1360": {
+    "key": "MODOT-1360",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 SB AT SHORELINE, MM 1.7",
+    "direction": "",
+    "lat": 38.772083,
+    "lon": -90.461813,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_267/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1361": {
+    "key": "MODOT-1361",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 NB AT SHORELINE, MM 1.7",
+    "direction": "",
+    "lat": 38.772635,
+    "lon": -90.459131,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_268/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3181": {
+    "key": "MODOT-3181",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "NB 67 @ 270",
+    "direction": "",
+    "lat": 38.77739,
+    "lon": -90.358897,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_808/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1204": {
+    "key": "MODOT-1204",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 94, MM 228.4",
+    "direction": "",
+    "lat": 38.7763,
+    "lon": -90.511496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_111/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3180": {
+    "key": "MODOT-3180",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "SB 67 @ 270",
+    "direction": "",
+    "lat": 38.779255,
+    "lon": -90.360895,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_807/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1359": {
+    "key": "MODOT-1359",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT ST CHARLES ROCK RD, MM 1.2",
+    "direction": "",
+    "lat": 38.77981,
+    "lon": -90.460703,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_266/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1314": {
+    "key": "MODOT-1314",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT ST LOUIS MILLS, MM 11.6",
+    "direction": "",
+    "lat": 38.7815,
+    "lon": -90.4176,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_221/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1283": {
+    "key": "MODOT-1283",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 E/O MCDONNELL, MM 24",
+    "direction": "",
+    "lat": 38.782455,
+    "lon": -90.37698,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_190/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2556": {
+    "key": "MODOT-2556",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ West Clay",
+    "direction": "",
+    "lat": 38.782567,
+    "lon": -90.505453,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_383/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1358": {
+    "key": "MODOT-1358",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT CORPORATE WOODS N, MM 0.5",
+    "direction": "",
+    "lat": 38.788283,
+    "lon": -90.458487,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_265/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1224": {
+    "key": "MODOT-1224",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT ZUMBEHL, MM 227",
+    "direction": "",
+    "lat": 38.7877,
+    "lon": -90.537104,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_131/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1321": {
+    "key": "MODOT-1321",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 W/O ST LOUIS MILLS, MM 10.7",
+    "direction": "",
+    "lat": 38.7903,
+    "lon": -90.4288,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_228/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1313": {
+    "key": "MODOT-1313",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT 141, MM 9.4",
+    "direction": "",
+    "lat": 38.7918,
+    "lon": -90.453,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_220/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1203": {
+    "key": "MODOT-1203",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 E/O CAVE SPRINGS, MM 226.1",
+    "direction": "",
+    "lat": 38.7917,
+    "lon": -90.559896,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_110/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1312": {
+    "key": "MODOT-1312",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 E/O MISSOURI RIVER, MM 15.9",
+    "direction": "",
+    "lat": 38.7949,
+    "lon": -90.461896,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_219/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1223": {
+    "key": "MODOT-1223",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 W/O CAVE SPRINGS, MM 224.8",
+    "direction": "",
+    "lat": 38.7951,
+    "lon": -90.569096,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_130/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1221": {
+    "key": "MODOT-1221",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT MID RIVERS MALL DR, MM 222.2",
+    "direction": "",
+    "lat": 38.8,
+    "lon": -90.6198,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_128/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1222": {
+    "key": "MODOT-1222",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 370, MM 223.7",
+    "direction": "",
+    "lat": 38.8014,
+    "lon": -90.5928,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_129/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1320": {
+    "key": "MODOT-1320",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT 94, MM 7.9",
+    "direction": "",
+    "lat": 38.8036,
+    "lon": -90.4756,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_227/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1319": {
+    "key": "MODOT-1319",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 W/O 94, MM 7",
+    "direction": "",
+    "lat": 38.8117,
+    "lon": -90.488096,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_226/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1315": {
+    "key": "MODOT-1315",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT SPENCER, MM 1.2",
+    "direction": "",
+    "lat": 38.8111,
+    "lon": -90.5866,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_222/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1316": {
+    "key": "MODOT-1316",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT HARRY TRUMAN, MM 2.6",
+    "direction": "",
+    "lat": 38.8177,
+    "lon": -90.561696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_223/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1317": {
+    "key": "MODOT-1317",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 W/O ELM, MM 4.2",
+    "direction": "",
+    "lat": 38.8242,
+    "lon": -90.534,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_224/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1318": {
+    "key": "MODOT-1318",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "370 AT ELM, MM 5.1",
+    "direction": "",
+    "lat": 38.8246,
+    "lon": -90.5184,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_225/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1116": {
+    "key": "MODOT-1116",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O 109, MM 264.1",
+    "direction": "",
+    "lat": 38.506,
+    "lon": -90.634304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_023/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1099": {
+    "key": "MODOT-1099",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O LEWIS, MM 268",
+    "direction": "",
+    "lat": 38.507,
+    "lon": -90.563104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_006/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1096": {
+    "key": "MODOT-1096",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT 109, MM 264.7",
+    "direction": "",
+    "lat": 38.5064,
+    "lon": -90.623904,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_003/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1140": {
+    "key": "MODOT-1140",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT LINDBERGH SWQ, MM 198",
+    "direction": "",
+    "lat": 38.5115,
+    "lon": -90.336304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_047/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1258": {
+    "key": "MODOT-1258",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT TESSON FERRY, MM 1.8",
+    "direction": "",
+    "lat": 38.5135,
+    "lon": -90.373704,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_165/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1290": {
+    "key": "MODOT-1290",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT 30, MM 23.2",
+    "direction": "",
+    "lat": 38.515,
+    "lon": -90.446704,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_197/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1100": {
+    "key": "MODOT-1100",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT ANTIRE, MM 269",
+    "direction": "",
+    "lat": 38.5151,
+    "lon": -90.5492,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_007/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3040": {
+    "key": "MODOT-3040",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 N/O Lindbergh",
+    "direction": "",
+    "lat": 38.518779,
+    "lon": -90.332794,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_765/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1259": {
+    "key": "MODOT-1259",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 S/O GRAVOIS, MM 2.9",
+    "direction": "",
+    "lat": 38.5211,
+    "lon": -90.3936,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_166/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1130": {
+    "key": "MODOT-1130",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 S/O REAVIS BARRACKS",
+    "direction": "",
+    "lat": 38.5224,
+    "lon": -90.322,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_037/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1270": {
+    "key": "MODOT-1270",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT GRAVOIS, MM 3.6",
+    "direction": "",
+    "lat": 38.5254,
+    "lon": -90.399104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_177/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1299": {
+    "key": "MODOT-1299",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT HAWKINS-GLADIATOR, MM 20.8",
+    "direction": "",
+    "lat": 38.5253,
+    "lon": -90.487,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_206/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1289": {
+    "key": "MODOT-1289",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT BOWLES, MM 21.6",
+    "direction": "",
+    "lat": 38.5257,
+    "lon": -90.473704,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_196/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1117": {
+    "key": "MODOT-1117",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O ANTIRE, MM 270",
+    "direction": "",
+    "lat": 38.5272,
+    "lon": -90.542096,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_024/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1101": {
+    "key": "MODOT-1101",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O 141, MM 270.5",
+    "direction": "",
+    "lat": 38.5285,
+    "lon": -90.5326,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_008/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1131": {
+    "key": "MODOT-1131",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT REAVIS BARRACKS, MM 200.1",
+    "direction": "",
+    "lat": 38.5331,
+    "lon": -90.3112,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_038/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1298": {
+    "key": "MODOT-1298",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT MERAMEC STA, MM 20",
+    "direction": "",
+    "lat": 38.5345,
+    "lon": -90.4962,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_205/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1271": {
+    "key": "MODOT-1271",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 N/O GRAVOIS, MM 4.7",
+    "direction": "",
+    "lat": 38.5371,
+    "lon": -90.414496,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_178/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2522": {
+    "key": "MODOT-2522",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O 141",
+    "direction": "",
+    "lat": 38.5368,
+    "lon": -90.510315,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_774/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1102": {
+    "key": "MODOT-1102",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT 141, MM 272.6",
+    "direction": "",
+    "lat": 38.5387,
+    "lon": -90.495904,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_009/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1141": {
+    "key": "MODOT-1141",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT UNION, MM 200.8",
+    "direction": "",
+    "lat": 38.5411,
+    "lon": -90.303,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_048/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2523": {
+    "key": "MODOT-2523",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT Maritz",
+    "direction": "",
+    "lat": 38.539781,
+    "lon": -90.483396,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_735/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1104": {
+    "key": "MODOT-1104",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT MERAMEC RIVER, MM 275.8",
+    "direction": "",
+    "lat": 38.5426,
+    "lon": -90.4366,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_011/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1103": {
+    "key": "MODOT-1103",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT BOWLES, MM 274",
+    "direction": "",
+    "lat": 38.5424,
+    "lon": -90.4696,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_010/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1142": {
+    "key": "MODOT-1142",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT BAYLESS, MM 201.5",
+    "direction": "",
+    "lat": 38.547,
+    "lon": -90.290704,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_049/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1264": {
+    "key": "MODOT-1264",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT 44, MM 5.7",
+    "direction": "",
+    "lat": 38.5488,
+    "lon": -90.426904,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_171/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1297": {
+    "key": "MODOT-1297",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT MARSHALL, MM 19.1",
+    "direction": "",
+    "lat": 38.5487,
+    "lon": -90.4942,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_204/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1339": {
+    "key": "MODOT-1339",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT WEBER, MM 201.8",
+    "direction": "",
+    "lat": 38.552195,
+    "lon": -90.280383,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_246/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1143": {
+    "key": "MODOT-1143",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT CARONDELET, MM 202.7",
+    "direction": "",
+    "lat": 38.55304,
+    "lon": -90.273528,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_050/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1118": {
+    "key": "MODOT-1118",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT WATSON, MM 277",
+    "direction": "",
+    "lat": 38.5537,
+    "lon": -90.420096,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_025/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1144": {
+    "key": "MODOT-1144",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT LOUGHBOROUGH, MM 203.5",
+    "direction": "",
+    "lat": 38.557,
+    "lon": -90.259496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_051/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1119": {
+    "key": "MODOT-1119",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT LINDBERGH, MM 277.5",
+    "direction": "",
+    "lat": 38.5589,
+    "lon": -90.409304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_026/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1105": {
+    "key": "MODOT-1105",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O LINDBERGH, MM 278.2",
+    "direction": "",
+    "lat": 38.5602,
+    "lon": -90.400496,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_012/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1132": {
+    "key": "MODOT-1132",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT BATES, MM 204.4",
+    "direction": "",
+    "lat": 38.5634,
+    "lon": -90.244104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_039/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1272": {
+    "key": "MODOT-1272",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT MARSHALL, MM 7",
+    "direction": "",
+    "lat": 38.5625,
+    "lon": -90.439304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_179/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1332": {
+    "key": "MODOT-1332",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT BIG BEND, MM 278.7",
+    "direction": "",
+    "lat": 38.56744,
+    "lon": -90.39445,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_239/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1296": {
+    "key": "MODOT-1296",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT BIG BEND, MM 17.5",
+    "direction": "",
+    "lat": 38.567,
+    "lon": -90.500296,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_203/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1145": {
+    "key": "MODOT-1145",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 S/O BROADWAY, MM 205.1",
+    "direction": "",
+    "lat": 38.5717,
+    "lon": -90.237704,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_052/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1265": {
+    "key": "MODOT-1265",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "I-270 N/O Big Bend",
+    "direction": "",
+    "lat": 38.5705,
+    "lon": -90.4402,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_172/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1370": {
+    "key": "MODOT-1370",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT BERRY, MM 279.8",
+    "direction": "",
+    "lat": 38.57626,
+    "lon": -90.3774,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_277/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1106": {
+    "key": "MODOT-1106",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O BERRY, MM 280.1",
+    "direction": "",
+    "lat": 38.5768,
+    "lon": -90.373296,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_013/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1146": {
+    "key": "MODOT-1146",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 S/O GASCONADE, MM 205.8",
+    "direction": "",
+    "lat": 38.5786,
+    "lon": -90.229104,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_053/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1330": {
+    "key": "MODOT-1330",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT ELM, MM 280.9",
+    "direction": "",
+    "lat": 38.580007,
+    "lon": -90.360327,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_237/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1288": {
+    "key": "MODOT-1288",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT CARMAN, MM 16.7",
+    "direction": "",
+    "lat": 38.5803,
+    "lon": -90.5016,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_195/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1273": {
+    "key": "MODOT-1273",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "270 AT DOUGHERTY FERRY, MM 8.5",
+    "direction": "",
+    "lat": 38.5816,
+    "lon": -90.4482,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_180/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1107": {
+    "key": "MODOT-1107",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O ELM, MM 281.5",
+    "direction": "",
+    "lat": 38.5839,
+    "lon": -90.349504,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_014/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1133": {
+    "key": "MODOT-1133",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "55 AT POTOMAC, MM 206.7",
+    "direction": "",
+    "lat": 38.5864,
+    "lon": -90.2156,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_040/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1120": {
+    "key": "MODOT-1120",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT LACLEDE STATION, MM 282.6",
+    "direction": "",
+    "lat": 38.593,
+    "lon": -90.3342,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_027/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1295": {
+    "key": "MODOT-1295",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "141 AT MANCHESTER, MM 15.7",
+    "direction": "",
+    "lat": 38.5927,
+    "lon": -90.5086,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_202/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2573": {
+    "key": "MODOT-2573",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 @ Bryan Rd",
+    "direction": "",
+    "lat": 38.769046,
+    "lon": -90.742787,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_649/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1151": {
+    "key": "MODOT-1151",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O WINGHAVEN, MM 7.7",
+    "direction": "",
+    "lat": 38.7305,
+    "lon": -90.736296,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_058/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1113": {
+    "key": "MODOT-1113",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O PACIFIC, MM 257.5",
+    "direction": "",
+    "lat": 38.4949,
+    "lon": -90.730304,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_020/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1201": {
+    "key": "MODOT-1201",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT BRYAN, MM 216.1",
+    "direction": "",
+    "lat": 38.8031,
+    "lon": -90.733104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_108/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1152": {
+    "key": "MODOT-1152",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O K, MM 8.9",
+    "direction": "",
+    "lat": 38.7189,
+    "lon": -90.719,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_059/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2559": {
+    "key": "MODOT-2559",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ Francis Howell HS",
+    "direction": "",
+    "lat": 38.701247,
+    "lon": -90.717042,
+    "hls": "https://sfs04-traveler.modot.mo.gov/rtplive/MODOT_CAM_386/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2560": {
+    "key": "MODOT-2560",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ D",
+    "direction": "",
+    "lat": 38.703206,
+    "lon": -90.710003,
+    "hls": "https://sfs04-traveler.modot.mo.gov/rtplive/MODOT_CAM_387/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1153": {
+    "key": "MODOT-1153",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT K, MM 10.2",
+    "direction": "",
+    "lat": 38.7139,
+    "lon": -90.704104,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_060/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2572": {
+    "key": "MODOT-2572",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 @ K",
+    "direction": "",
+    "lat": 38.754805,
+    "lon": -90.700613,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_647/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1114": {
+    "key": "MODOT-1114",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 W/O SIX FLAGS, MM 259.2",
+    "direction": "",
+    "lat": 38.5032,
+    "lon": -90.698,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_021/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1202": {
+    "key": "MODOT-1202",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT K-M, MM 217.9",
+    "direction": "",
+    "lat": 38.8023,
+    "lon": -90.700104,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_109/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1176": {
+    "key": "MODOT-1176",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT 94, MM 11",
+    "direction": "",
+    "lat": 38.7119,
+    "lon": -90.6904,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_083/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1115": {
+    "key": "MODOT-1115",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 AT SIX FLAGS, MM 261.3",
+    "direction": "",
+    "lat": 38.505796,
+    "lon": -90.677669,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_022/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1219": {
+    "key": "MODOT-1219",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT TR HUGHES, MM 219",
+    "direction": "",
+    "lat": 38.8032,
+    "lon": -90.679704,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_126/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2561": {
+    "key": "MODOT-2561",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 @ Cedar Glen",
+    "direction": "",
+    "lat": 38.713661,
+    "lon": -90.678325,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_388/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1177": {
+    "key": "MODOT-1177",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O 94, MM 11.6",
+    "direction": "",
+    "lat": 38.709,
+    "lon": -90.6774,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_084/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2571": {
+    "key": "MODOT-2571",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 WO Gutermuth",
+    "direction": "",
+    "lat": 38.736264,
+    "lon": -90.667579,
+    "hls": "https://sfs03-traveler.modot.mo.gov/rtplive/MODOT_CAM_667/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1178": {
+    "key": "MODOT-1178",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 W/O MISSOURI RIVER, MM 12.7",
+    "direction": "",
+    "lat": 38.6977,
+    "lon": -90.6664,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_085/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2554": {
+    "key": "MODOT-2554",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 WO South Breeze",
+    "direction": "",
+    "lat": 38.722483,
+    "lon": -90.665717,
+    "hls": "https://sfs04-traveler.modot.mo.gov/rtplive/MODOT_CAM_381/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1154": {
+    "key": "MODOT-1154",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 E/O MISSOURI RIVER, MM 14.8",
+    "direction": "",
+    "lat": 38.6778,
+    "lon": -90.659304,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_061/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1095": {
+    "key": "MODOT-1095",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "44 E/O SIX FLAGS, MM 263.3",
+    "direction": "",
+    "lat": 38.5038,
+    "lon": -90.652496,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_002/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1220": {
+    "key": "MODOT-1220",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "70 AT 79, MM 220.5",
+    "direction": "",
+    "lat": 38.8018,
+    "lon": -90.651496,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_127/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-1155": {
+    "key": "MODOT-1155",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "64 AT SPIRIT OF STL BLVD, MM 13.6",
+    "direction": "",
+    "lat": 38.6745,
+    "lon": -90.6456,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_062/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-2553": {
+    "key": "MODOT-2553",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "94 WO Wolfrum",
+    "direction": "",
+    "lat": 38.726764,
+    "lon": -90.645458,
+    "hls": "https://sfs02-traveler.modot.mo.gov/rtplive/MODOT_CAM_380/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   },
+   "MODOT-3080": {
+    "key": "MODOT-3080",
+    "agency": "MoDOT",
+    "state": "MO",
+    "name": "364 W/O MID RIVERS MALL DR",
+    "direction": "",
+    "lat": 38.734289,
+    "lon": -90.644768,
+    "hls": "https://sfs01-traveler.modot.mo.gov/rtplive/MODOT_CAM_648/playlist.m3u8",
+    "snapshot": null,
+    "viewer": "https://traveler.modot.org/map/",
+    "stale": true
+   }
+  },
+  "groups": [
+   {
+    "id": "scott",
+    "title": "Scott AFB cameras",
+    "family": true,
+    "note": "IDOT's public camera at IL 4 / Airport Blvd, the closest public camera to Scott AFB. IDOT and MoDOT publish no other cameras near the base.",
+    "keys": [
+     "IDOT-8080-N",
+     "IDOT-8080-S",
+     "IDOT-8080-W"
+    ]
+   },
+   {
+    "id": "bridges",
+    "title": "River bridges (Poplar St, Stan Musial, McKinley)",
+    "keys": [
+     "IDOT-8001-W",
+     "IDOT-8058-E",
+     "IDOT-8002-E",
+     "IDOT-8058-W",
+     "MODOT-1240",
+     "MODOT-1194",
+     "MODOT-1347",
+     "MODOT-1348"
+    ]
+   },
+   {
+    "id": "il",
+    "title": "Illinois – Metro East (IDOT)",
+    "keys": [
+     "IDOT-8019-E",
+     "IDOT-8019-W",
+     "IDOT-8073-S",
+     "IDOT-8044-S",
+     "IDOT-8045-N",
+     "IDOT-8045-S",
+     "IDOT-8048-N",
+     "IDOT-8049-S",
+     "IDOT-8049-N",
+     "IDOT-8051-E",
+     "IDOT-8032-W",
+     "IDOT-8031-E",
+     "IDOT-8031-W",
+     "IDOT-8075-E",
+     "IDOT-8075-W",
+     "IDOT-8076-E",
+     "IDOT-8076-W",
+     "IDOT-8070-W",
+     "IDOT-8071-W",
+     "IDOT-8072-E",
+     "IDOT-8072-W",
+     "IDOT-8069-E",
+     "IDOT-8069-W",
+     "IDOT-8027-S",
+     "IDOT-8027-N",
+     "IDOT-8002-E",
+     "IDOT-8012-E",
+     "IDOT-8012-W",
+     "IDOT-8005-S",
+     "IDOT-8005-N",
+     "IDOT-8001-W",
+     "IDOT-8003-S",
+     "IDOT-8003-N",
+     "IDOT-8038-N",
+     "IDOT-8038-S",
+     "IDOT-8030-S",
+     "IDOT-8030-N",
+     "IDOT-8036-N",
+     "IDOT-8036-S",
+     "IDOT-8037-N",
+     "IDOT-8037-S",
+     "IDOT-8024-E",
+     "IDOT-8024-W",
+     "IDOT-8018-E",
+     "IDOT-8022-E",
+     "IDOT-8039-S",
+     "IDOT-8039-N",
+     "IDOT-8016-W",
+     "IDOT-8016-E",
+     "IDOT-8081-W",
+     "IDOT-8026-E",
+     "IDOT-8026-W",
+     "IDOT-8043-E",
+     "IDOT-8043-W",
+     "IDOT-8028-S",
+     "IDOT-8028-W",
+     "IDOT-8028-N",
+     "IDOT-8017-E",
+     "IDOT-8017-W",
+     "IDOT-8078-W",
+     "IDOT-8078-E",
+     "IDOT-8079-E",
+     "IDOT-8079-W",
+     "IDOT-8077-E",
+     "IDOT-8077-W",
+     "IDOT-8056-W",
+     "IDOT-8056-N",
+     "IDOT-8056-S",
+     "IDOT-8059-S",
+     "IDOT-8059-E",
+     "IDOT-8059-W",
+     "IDOT-8059-N",
+     "IDOT-8020-N",
+     "IDOT-8020-S",
+     "IDOT-8007-N",
+     "IDOT-8007-S",
+     "IDOT-8080-N",
+     "IDOT-8080-S",
+     "IDOT-8080-W",
+     "IDOT-8058-E",
+     "IDOT-8058-W",
+     "IDOT-8052-E",
+     "IDOT-8052-W",
+     "IDOT-8052-N",
+     "IDOT-8052-S",
+     "IDOT-8053-E",
+     "IDOT-8054-E"
+    ]
+   },
+   {
+    "id": "i64",
+    "title": "I-64 / Hwy 40 (MoDOT)",
+    "keys": [
+     "MODOT-1158",
+     "MODOT-1172",
+     "MODOT-1171",
+     "MODOT-1187",
+     "MODOT-1173",
+     "MODOT-1194",
+     "MODOT-1176",
+     "MODOT-1184",
+     "MODOT-1166",
+     "MODOT-1188",
+     "MODOT-1180",
+     "MODOT-1156",
+     "MODOT-1185",
+     "MODOT-1192",
+     "MODOT-1170",
+     "MODOT-1167",
+     "MODOT-1193",
+     "MODOT-1153",
+     "MODOT-1190",
+     "MODOT-1161",
+     "MODOT-1179",
+     "MODOT-1183",
+     "MODOT-1159",
+     "MODOT-1163",
+     "MODOT-1189",
+     "MODOT-1155",
+     "MODOT-1160",
+     "MODOT-1157",
+     "MODOT-1169",
+     "MODOT-1191",
+     "MODOT-1177",
+     "MODOT-1181",
+     "MODOT-1164",
+     "MODOT-1162",
+     "MODOT-1165",
+     "MODOT-1154",
+     "MODOT-1151",
+     "MODOT-1182",
+     "MODOT-3020",
+     "MODOT-1174",
+     "MODOT-1152",
+     "MODOT-1168",
+     "MODOT-1178"
+    ]
+   },
+   {
+    "id": "i55",
+    "title": "I-55 and I-44/55 downtown (MoDOT)",
+    "keys": [
+     "MODOT-1329",
+     "MODOT-1112",
+     "MODOT-1240",
+     "MODOT-1134",
+     "MODOT-1138",
+     "MODOT-1147",
+     "MODOT-1132",
+     "MODOT-1142",
+     "MODOT-1129",
+     "MODOT-1143",
+     "MODOT-1340",
+     "MODOT-1341",
+     "MODOT-1140",
+     "MODOT-1144",
+     "MODOT-1133",
+     "MODOT-1131",
+     "MODOT-1137",
+     "MODOT-1141",
+     "MODOT-1339",
+     "MODOT-3040",
+     "MODOT-1139",
+     "MODOT-1145",
+     "MODOT-1146",
+     "MODOT-1130"
+    ]
+   },
+   {
+    "id": "i70",
+    "title": "I-70 incl. Stan Musial Bridge approach (MoDOT)",
+    "keys": [
+     "MODOT-1226",
+     "MODOT-1209",
+     "MODOT-1227",
+     "MODOT-1222",
+     "MODOT-1220",
+     "MODOT-1204",
+     "MODOT-1207",
+     "MODOT-1201",
+     "MODOT-1235",
+     "MODOT-1228",
+     "MODOT-1231",
+     "MODOT-1236",
+     "MODOT-1210",
+     "MODOT-1212",
+     "MODOT-1202",
+     "MODOT-1211",
+     "MODOT-1230",
+     "MODOT-1237",
+     "MODOT-1221",
+     "MODOT-1348",
+     "MODOT-1233",
+     "MODOT-1213",
+     "MODOT-1219",
+     "MODOT-1234",
+     "MODOT-1224",
+     "MODOT-1208",
+     "MODOT-1232",
+     "MODOT-1203",
+     "MODOT-1229",
+     "MODOT-1205",
+     "MODOT-1223",
+     "MODOT-1238",
+     "MODOT-1347",
+     "MODOT-1225",
+     "MODOT-1206"
+    ]
+   },
+   {
+    "id": "i270",
+    "title": "I-270 / I-255 (MoDOT)",
+    "keys": [
+     "MODOT-1255",
+     "MODOT-1326",
+     "MODOT-1257",
+     "MODOT-1256",
+     "MODOT-1336",
+     "MODOT-1276",
+     "MODOT-1285",
+     "MODOT-1281",
+     "MODOT-1264",
+     "MODOT-1275",
+     "MODOT-1279",
+     "MODOT-1269",
+     "MODOT-1273",
+     "MODOT-1270",
+     "MODOT-1328",
+     "MODOT-1267",
+     "MODOT-1266",
+     "MODOT-1272",
+     "MODOT-1282",
+     "MODOT-1268",
+     "MODOT-3160",
+     "MODOT-1280",
+     "MODOT-1258",
+     "MODOT-1262",
+     "MODOT-1283",
+     "MODOT-1278",
+     "MODOT-1271",
+     "MODOT-3300",
+     "MODOT-1261",
+     "MODOT-1274",
+     "MODOT-1259",
+     "MODOT-1327",
+     "MODOT-3280",
+     "MODOT-6260",
+     "MODOT-1263",
+     "MODOT-3182"
+    ]
+   },
+   {
+    "id": "i44",
+    "title": "I-44 (MoDOT)",
+    "keys": [
+     "MODOT-1096",
+     "MODOT-1102",
+     "MODOT-1100",
+     "MODOT-1110",
+     "MODOT-1370",
+     "MODOT-1332",
+     "MODOT-1103",
+     "MODOT-1239",
+     "MODOT-1330",
+     "MODOT-1123",
+     "MODOT-1121",
+     "MODOT-1331",
+     "MODOT-3060",
+     "MODOT-1122",
+     "MODOT-1120",
+     "MODOT-1098",
+     "MODOT-1119",
+     "MODOT-1104",
+     "MODOT-2523",
+     "MODOT-1333",
+     "MODOT-1115",
+     "MODOT-1369",
+     "MODOT-1214",
+     "MODOT-1118",
+     "MODOT-1117",
+     "MODOT-1106",
+     "MODOT-1107",
+     "MODOT-1099",
+     "MODOT-1105",
+     "MODOT-1113",
+     "MODOT-1108",
+     "MODOT-1095",
+     "MODOT-1116",
+     "MODOT-2522",
+     "MODOT-1101",
+     "MODOT-1109",
+     "MODOT-1097",
+     "MODOT-1114"
+    ]
+   },
+   {
+    "id": "i170",
+    "title": "I-170 (MoDOT)",
+    "keys": [
+     "MODOT-1338",
+     "MODOT-1246",
+     "MODOT-1253",
+     "MODOT-1242",
+     "MODOT-1247",
+     "MODOT-1241",
+     "MODOT-1254",
+     "MODOT-1251",
+     "MODOT-1248",
+     "MODOT-1249",
+     "MODOT-1250",
+     "MODOT-1243",
+     "MODOT-1252",
+     "MODOT-1245",
+     "MODOT-1244"
+    ]
+   },
+   {
+    "id": "mo-other",
+    "title": "Other St. Louis routes (MoDOT)",
+    "keys": [
+     "MODOT-1302",
+     "MODOT-1290",
+     "MODOT-1364",
+     "MODOT-1303",
+     "MODOT-1296",
+     "MODOT-1289",
+     "MODOT-1288",
+     "MODOT-1293",
+     "MODOT-1287",
+     "MODOT-1358",
+     "MODOT-1366",
+     "MODOT-1301",
+     "MODOT-1299",
+     "MODOT-1325",
+     "MODOT-1362",
+     "MODOT-1295",
+     "MODOT-1297",
+     "MODOT-1298",
+     "MODOT-1304",
+     "MODOT-1323",
+     "MODOT-1363",
+     "MODOT-1359",
+     "MODOT-1292",
+     "MODOT-1367",
+     "MODOT-1291",
+     "MODOT-1324",
+     "MODOT-1294",
+     "MODOT-1361",
+     "MODOT-1368",
+     "MODOT-1300",
+     "MODOT-1365",
+     "MODOT-1360",
+     "MODOT-2573",
+     "MODOT-2572",
+     "MODOT-1308",
+     "MODOT-1311",
+     "MODOT-1309",
+     "MODOT-1335",
+     "MODOT-1306",
+     "MODOT-1334",
+     "MODOT-1322",
+     "MODOT-2570",
+     "MODOT-1310",
+     "MODOT-1307",
+     "MODOT-3080",
+     "MODOT-2571",
+     "MODOT-1371",
+     "MODOT-1374",
+     "MODOT-1372",
+     "MODOT-1373",
+     "MODOT-1313",
+     "MODOT-1320",
+     "MODOT-1318",
+     "MODOT-1316",
+     "MODOT-1315",
+     "MODOT-1314",
+     "MODOT-1312",
+     "MODOT-1319",
+     "MODOT-1317",
+     "MODOT-1321",
+     "MODOT-3140",
+     "MODOT-2563",
+     "MODOT-2561",
+     "MODOT-2560",
+     "MODOT-2559",
+     "MODOT-2557",
+     "MODOT-2556",
+     "MODOT-2555",
+     "MODOT-2554",
+     "MODOT-2553",
+     "MODOT-1277",
+     "MODOT-2578",
+     "MODOT-2579",
+     "MODOT-1265",
+     "MODOT-1215",
+     "MODOT-3181",
+     "MODOT-3183",
+     "MODOT-3180",
+     "MODOT-2577"
+    ]
+   }
+  ]
+ },
+ "fuel": {
+  "source": "AAA Gas Prices",
+  "checkedAt": "2026-11-14T07:03:20-06:00",
+  "items": [
+   {
+    "area": "IL statewide",
+    "asOf": "11/14/26",
+    "url": "https://gasprices.aaa.com/?state=IL",
+    "current": {
+     "regular": 4.2317,
+     "mid": 4.8739,
+     "premium": 5.4405,
+     "diesel": 6.3195
+    },
+    "weekAgo": {
+     "regular": 4.5194,
+     "mid": 5.1455,
+     "premium": 5.7054,
+     "diesel": 6.5341
+    },
+    "monthAgo": {
+     "regular": 4.6648,
+     "mid": 5.2917,
+     "premium": 5.8369,
+     "diesel": 6.5712
+    },
+    "yearAgo": {
+     "regular": 3.2588,
+     "mid": 3.8575,
+     "premium": 4.3197,
+     "diesel": 3.8919
+    }
+   },
+   {
+    "area": "East Saint Louis",
+    "asOf": "11/14/26",
+    "url": "https://gasprices.aaa.com/?state=IL",
+    "current": {
+     "regular": 4.0349,
+     "mid": 4.5265,
+     "premium": 4.959,
+     "diesel": 6.2582
+    },
+    "weekAgo": {
+     "regular": 4.2736,
+     "mid": 4.7526,
+     "premium": 5.1986,
+     "diesel": 6.4606
+    },
+    "monthAgo": {
+     "regular": 4.5447,
+     "mid": 5.0577,
+     "premium": 5.4514,
+     "diesel": 6.5768
+    },
+    "yearAgo": {
+     "regular": 3.1653,
+     "mid": 3.6636,
+     "premium": 4.0239,
+     "diesel": 3.8349
+    }
+   },
+   {
+    "area": "MO statewide",
+    "asOf": "11/14/26",
+    "url": "https://gasprices.aaa.com/?state=MO",
+    "current": {
+     "regular": 3.5429,
+     "mid": 3.9472,
+     "premium": 4.3041,
+     "diesel": 5.7614
+    },
+    "weekAgo": {
+     "regular": 3.716,
+     "mid": 4.1002,
+     "premium": 4.4683,
+     "diesel": 5.9458
+    },
+    "monthAgo": {
+     "regular": 3.9749,
+     "mid": 4.3407,
+     "premium": 4.7072,
+     "diesel": 5.9878
+    },
+    "yearAgo": {
+     "regular": 2.7135,
+     "mid": 3.0733,
+     "premium": 3.4038,
+     "diesel": 3.4323
+    }
+   },
+   {
+    "area": "St. Louis (MO)",
+    "asOf": "11/14/26",
+    "url": "https://gasprices.aaa.com/?state=MO",
+    "current": {
+     "regular": 3.487,
+     "mid": 3.9161,
+     "premium": 4.2537,
+     "diesel": 5.853
+    },
+    "weekAgo": {
+     "regular": 3.6309,
+     "mid": 4.0537,
+     "premium": 4.4046,
+     "diesel": 6.0111
+    },
+    "monthAgo": {
+     "regular": 3.8936,
+     "mid": 4.2962,
+     "premium": 4.6309,
+     "diesel": 5.9836
+    },
+    "yearAgo": {
+     "regular": 2.7345,
+     "mid": 3.0892,
+     "premium": 3.4038,
+     "diesel": 3.3946
+    }
+   }
+  ]
+ },
+ "grocery": {
+  "source": "U.S. Bureau of Labor Statistics, average retail prices (U.S. city average)",
+  "items": [
+   {
+    "item": "Eggs, grade A large, dozen",
+    "price": 2.32,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000708111"
+   },
+   {
+    "item": "Milk, whole, gallon",
+    "price": 4.101,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000709112"
+   },
+   {
+    "item": "White bread, lb",
+    "price": 1.861,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000702111"
+   },
+   {
+    "item": "Ground beef, 100% beef, lb",
+    "price": 6.755,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000703112"
+   },
+   {
+    "item": "Chicken, whole, lb",
+    "price": 2.026,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000706111"
+   },
+   {
+    "item": "Bananas, lb",
+    "price": 0.655,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000711211"
+   },
+   {
+    "item": "Coffee, ground, lb",
+    "price": 9.249,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000717311"
+   },
+   {
+    "item": "Chicken breast, boneless, lb",
+    "price": 4.099,
+    "period": "October 2026",
+    "yearAgo": null,
+    "url": "https://data.bls.gov/timeseries/APU0000FF1101"
+   }
+  ]
+ },
+ "ameren": {
+  "generated": "2026-11-14T13:01:46.728926083Z",
+  "mode": "BLUESKY",
+  "items": [
+   {
+    "utility": "Ameren Illinois",
+    "customersOut": 200,
+    "customersServed": 1219596,
+    "outages": 16,
+    "percentOut": 0.02
+   },
+   {
+    "utility": "Ameren Missouri",
+    "customersOut": 42,
+    "customersServed": 1257775,
+    "outages": 9,
+    "percentOut": 0.01
+   }
+  ],
+  "url": "https://outagemap.ameren.com/",
+  "metroCounties": [
+   {
+    "county": "St. Louis County",
+    "state": "MO",
+    "customersOut": 42,
+    "customersServed": 476219,
+    "percentOut": 0.01,
+    "outages": 9,
+    "etr": "2026-11-14T17:00:00Z"
+   }
+  ],
+  "metroWatched": [
+   "Jefferson (MO)",
+   "Madison (IL)",
+   "Monroe (IL)",
+   "St. Charles (MO)",
+   "St. Clair (IL)",
+   "St. Louis (MO)",
+   "St. Louis city (MO)"
+  ]
+ },
+ "miso": {
+  "status": "Normal",
+  "basis": "Alerts, warnings or emergency declarations in the last 72 hours",
+  "items": [
+   {
+    "subject": "Load Pocket Advisory Declaration Termination",
+    "time": "2026-11-13T16:16:50-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "MISO is terminating the Load Pocket Advisory Declaration as of 11/13/2026 17:16 EST. Affected Region(s): South Region - EES This public notification is for awareness only. Impacted entities receive detailed instructions and information via the Operator Interface.",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2419"
+   },
+   {
+    "subject": "Load Pocket Advisory Declaration",
+    "time": "2026-11-13T08:52:20-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "MISO has issued a Load Pocket Advisory Declaration for Western due to: Load Pocket Advisory Reason: 5+ hours of N-1/G-1 insufficiency in the 24 hour operating day with any magnitude deficit Start: 11/13/2026 10:00 EST End: 11/13/2026 19:00 EST Affected Region(s): South Region - E",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2418"
+   },
+   {
+    "subject": "Day-Ahead Market Results Posted",
+    "time": "2026-11-09T13:19:54-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market results for Operating Day 11/10/2026 are now posted and available. The re-bid period for consideration in the reliability assessment process will close at 15:20 EPT on 11/09/2026. Thank you for your patience in this matter. If you have any questions, please c",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2417"
+   },
+   {
+    "subject": "Day-Ahead Market Results Delayed",
+    "time": "2026-11-09T12:22:26-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The posting of the Day-Ahead Market results for Operating Day 11/10/2026 has been delayed due to unanticipated events. The results are expected to be available at 15:00 EPT on 11/09/2026. You will receive additional information as necessary. Thank you for your patience in this ma",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2416"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T11:55:58-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2415"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T11:27:46-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2414"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T10:58:01-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2413"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T10:27:29-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2412"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T09:58:21-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2411"
+   },
+   {
+    "subject": "Day-Ahead Market Close Extended",
+    "time": "2026-11-09T09:29:23-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market will be extended due to unanticipated events such as: technical difficulties impacting MISO market operations preventing the submission of Bids, Offers and Interchange Schedules for the Day-Ahead Market; Bid, Offer or Interchange Schedule data that is plainly",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2410"
+   },
+   {
+    "subject": "Day-Ahead Market is Closed",
+    "time": "2026-11-06T11:00:09-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The technical difficulties that were impacting MISO market operations have been resolved. The MISO market close extension was ended at 12:00 EPT on 11/06/2026, and the market is now closed for Operating Day 11/07/2026. We apologize for the inconvenience and appreciate your patien",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2409"
+   },
+   {
+    "subject": "Re: Re: Day-Ahead Market Re-opened",
+    "time": "2026-11-06T10:24:09-06:00",
+    "level": "info",
+    "central": false,
+    "summary": "The Day-Ahead Market for Operating Day 11/07/2026 will remain open until 12:00 EPT on 11/06/2026. 11/06/2026 at 11:11:09 EST The Day-Ahead Market for Operating Day 11/07/2026 will remain open until 11:30 EPT on 11/06/2026. 11/06/2026 at 10:11:29 EST The Day-Ahead Market will be r",
+    "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/real-time-notification/?id=2408"
+   }
+  ],
+  "url": "https://www.misoenergy.org/markets-and-operations/notifications/real-time-operations-notifications/"
+ },
+ "gauges": {
+  "items": [
+   {
+    "lid": "EADM7",
+    "name": "Mississippi River at St. Louis",
+    "usgs": "07010000",
+    "flood": {
+     "major": 40,
+     "moderate": 35,
+     "minor": 30,
+     "action": 28
+    },
+    "observed": [
+     [
+      "2026-11-12T13:00:00Z",
+      11.35
+     ],
+     [
+      "2026-11-12T13:30:00Z",
+      11.38
+     ],
+     [
+      "2026-11-12T14:00:00Z",
+      11.38
+     ],
+     [
+      "2026-11-12T14:30:00Z",
+      11.35
+     ],
+     [
+      "2026-11-12T15:00:00Z",
+      11.35
+     ],
+     [
+      "2026-11-12T15:30:00Z",
+      11.24
+     ],
+     [
+      "2026-11-12T16:00:00Z",
+      11.39
+     ],
+     [
+      "2026-11-12T16:30:00Z",
+      11.28
+     ],
+     [
+      "2026-11-12T17:00:00Z",
+      11.27
+     ],
+     [
+      "2026-11-12T17:30:00Z",
+      11.34
+     ],
+     [
+      "2026-11-12T18:00:00Z",
+      11.25
+     ],
+     [
+      "2026-11-12T18:30:00Z",
+      11.24
+     ],
+     [
+      "2026-11-12T19:00:00Z",
+      11.22
+     ],
+     [
+      "2026-11-12T19:30:00Z",
+      11.19
+     ],
+     [
+      "2026-11-12T20:00:00Z",
+      11.12
+     ],
+     [
+      "2026-11-12T20:30:00Z",
+      11.12
+     ],
+     [
+      "2026-11-12T21:00:00Z",
+      11.07
+     ],
+     [
+      "2026-11-12T21:30:00Z",
+      11.02
+     ],
+     [
+      "2026-11-12T22:00:00Z",
+      11.03
+     ],
+     [
+      "2026-11-12T22:30:00Z",
+      10.99
+     ],
+     [
+      "2026-11-12T23:00:00Z",
+      10.96
+     ],
+     [
+      "2026-11-12T23:30:00Z",
+      10.91
+     ],
+     [
+      "2026-11-13T00:00:00Z",
+      10.91
+     ],
+     [
+      "2026-11-13T00:30:00Z",
+      10.91
+     ],
+     [
+      "2026-11-13T01:00:00Z",
+      10.86
+     ],
+     [
+      "2026-11-13T01:30:00Z",
+      10.87
+     ],
+     [
+      "2026-11-13T02:00:00Z",
+      10.85
+     ],
+     [
+      "2026-11-13T02:30:00Z",
+      10.82
+     ],
+     [
+      "2026-11-13T03:00:00Z",
+      10.79
+     ],
+     [
+      "2026-11-13T03:30:00Z",
+      10.82
+     ],
+     [
+      "2026-11-13T04:00:00Z",
+      10.73
+     ],
+     [
+      "2026-11-13T04:30:00Z",
+      10.77
+     ],
+     [
+      "2026-11-13T05:00:00Z",
+      10.73
+     ],
+     [
+      "2026-11-13T05:30:00Z",
+      10.71
+     ],
+     [
+      "2026-11-13T06:00:00Z",
+      10.66
+     ],
+     [
+      "2026-11-13T06:30:00Z",
+      10.69
+     ],
+     [
+      "2026-11-13T07:00:00Z",
+      10.7
+     ],
+     [
+      "2026-11-13T07:30:00Z",
+      10.67
+     ],
+     [
+      "2026-11-13T08:00:00Z",
+      10.69
+     ],
+     [
+      "2026-11-13T08:30:00Z",
+      10.76
+     ],
+     [
+      "2026-11-13T09:00:00Z",
+      10.65
+     ],
+     [
+      "2026-11-13T09:30:00Z",
+      10.67
+     ],
+     [
+      "2026-11-13T10:00:00Z",
+      10.64
+     ],
+     [
+      "2026-11-13T10:30:00Z",
+      10.62
+     ],
+     [
+      "2026-11-13T11:00:00Z",
+      10.61
+     ],
+     [
+      "2026-11-13T11:30:00Z",
+      10.71
+     ],
+     [
+      "2026-11-13T12:00:00Z",
+      10.59
+     ],
+     [
+      "2026-11-13T12:30:00Z",
+      10.61
+     ],
+     [
+      "2026-11-13T13:00:00Z",
+      10.55
+     ],
+     [
+      "2026-11-13T13:30:00Z",
+      10.69
+     ],
+     [
+      "2026-11-13T14:00:00Z",
+      10.57
+     ],
+     [
+      "2026-11-13T14:30:00Z",
+      10.58
+     ],
+     [
+      "2026-11-13T15:00:00Z",
+      10.57
+     ],
+     [
+      "2026-11-13T15:30:00Z",
+      10.55
+     ],
+     [
+      "2026-11-13T16:00:00Z",
+      10.58
+     ],
+     [
+      "2026-11-13T16:30:00Z",
+      10.56
+     ],
+     [
+      "2026-11-13T17:00:00Z",
+      10.54
+     ],
+     [
+      "2026-11-13T17:30:00Z",
+      10.56
+     ],
+     [
+      "2026-11-13T18:00:00Z",
+      10.52
+     ],
+     [
+      "2026-11-13T18:30:00Z",
+      10.57
+     ],
+     [
+      "2026-11-13T19:00:00Z",
+      10.59
+     ],
+     [
+      "2026-11-13T19:30:00Z",
+      10.54
+     ],
+     [
+      "2026-11-13T20:00:00Z",
+      10.58
+     ],
+     [
+      "2026-11-13T20:30:00Z",
+      10.56
+     ],
+     [
+      "2026-11-13T21:00:00Z",
+      10.58
+     ],
+     [
+      "2026-11-13T21:30:00Z",
+      10.58
+     ],
+     [
+      "2026-11-13T22:00:00Z",
+      10.56
+     ],
+     [
+      "2026-11-13T22:30:00Z",
+      10.6
+     ],
+     [
+      "2026-11-13T23:00:00Z",
+      10.59
+     ],
+     [
+      "2026-11-13T23:30:00Z",
+      10.57
+     ],
+     [
+      "2026-11-14T00:00:00Z",
+      10.62
+     ],
+     [
+      "2026-11-14T00:30:00Z",
+      10.65
+     ],
+     [
+      "2026-11-14T01:00:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T01:30:00Z",
+      10.71
+     ],
+     [
+      "2026-11-14T02:00:00Z",
+      10.6
+     ],
+     [
+      "2026-11-14T02:30:00Z",
+      10.65
+     ],
+     [
+      "2026-11-14T03:00:00Z",
+      10.59
+     ],
+     [
+      "2026-11-14T03:30:00Z",
+      10.63
+     ],
+     [
+      "2026-11-14T04:00:00Z",
+      10.65
+     ],
+     [
+      "2026-11-14T04:30:00Z",
+      10.62
+     ],
+     [
+      "2026-11-14T05:00:00Z",
+      10.68
+     ],
+     [
+      "2026-11-14T05:30:00Z",
+      10.61
+     ],
+     [
+      "2026-11-14T06:00:00Z",
+      10.63
+     ],
+     [
+      "2026-11-14T06:30:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T07:00:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T07:30:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T08:00:00Z",
+      10.62
+     ],
+     [
+      "2026-11-14T08:30:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T09:00:00Z",
+      10.63
+     ],
+     [
+      "2026-11-14T09:30:00Z",
+      10.66
+     ],
+     [
+      "2026-11-14T10:00:00Z",
+      10.57
+     ],
+     [
+      "2026-11-14T10:30:00Z",
+      10.62
+     ],
+     [
+      "2026-11-14T11:00:00Z",
+      10.64
+     ],
+     [
+      "2026-11-14T11:30:00Z",
+      10.62
+     ],
+     [
+      "2026-11-14T12:00:00Z",
+      10.61
+     ],
+     [
+      "2026-11-14T12:30:00Z",
+      10.64
+     ]
+    ],
+    "forecast": [
+     [
+      "2026-11-14T06:00:00Z",
+      10.6
+     ],
+     [
+      "2026-11-14T12:00:00Z",
+      10.6
+     ],
+     [
+      "2026-11-14T18:00:00Z",
+      10.5
+     ],
+     [
+      "2026-11-15T00:00:00Z",
+      10.5
+     ],
+     [
+      "2026-11-15T06:00:00Z",
+      10.4
+     ],
+     [
+      "2026-11-15T12:00:00Z",
+      10.3
+     ],
+     [
+      "2026-11-15T18:00:00Z",
+      10.2
+     ],
+     [
+      "2026-11-16T00:00:00Z",
+      10.1
+     ],
+     [
+      "2026-11-16T06:00:00Z",
+      10
+     ],
+     [
+      "2026-11-16T12:00:00Z",
+      9.8
+     ],
+     [
+      "2026-11-16T18:00:00Z",
+      9.7
+     ],
+     [
+      "2026-11-17T00:00:00Z",
+      9.6
+     ],
+     [
+      "2026-11-17T06:00:00Z",
+      9.4
+     ],
+     [
+      "2026-11-17T12:00:00Z",
+      9.3
+     ],
+     [
+      "2026-11-17T18:00:00Z",
+      9.1
+     ],
+     [
+      "2026-11-18T00:00:00Z",
+      8.9
+     ],
+     [
+      "2026-11-18T06:00:00Z",
+      8.7
+     ],
+     [
+      "2026-11-18T12:00:00Z",
+      8.5
+     ],
+     [
+      "2026-11-18T18:00:00Z",
+      8.3
+     ],
+     [
+      "2026-11-19T00:00:00Z",
+      8.1
+     ],
+     [
+      "2026-11-19T06:00:00Z",
+      7.9
+     ],
+     [
+      "2026-11-19T12:00:00Z",
+      7.6
+     ],
+     [
+      "2026-11-19T18:00:00Z",
+      7.4
+     ],
+     [
+      "2026-11-20T00:00:00Z",
+      7.2
+     ],
+     [
+      "2026-11-20T06:00:00Z",
+      7
+     ],
+     [
+      "2026-11-20T12:00:00Z",
+      6.8
+     ],
+     [
+      "2026-11-20T18:00:00Z",
+      6.6
+     ],
+     [
+      "2026-11-21T00:00:00Z",
+      6.4
+     ],
+     [
+      "2026-11-21T06:00:00Z",
+      6.2
+     ],
+     [
+      "2026-11-21T12:00:00Z",
+      6
+     ],
+     [
+      "2026-11-21T18:00:00Z",
+      5.8
+     ],
+     [
+      "2026-11-22T00:00:00Z",
+      5.6
+     ],
+     [
+      "2026-11-22T06:00:00Z",
+      5.5
+     ],
+     [
+      "2026-11-22T12:00:00Z",
+      5.3
+     ],
+     [
+      "2026-11-22T18:00:00Z",
+      5.1
+     ],
+     [
+      "2026-11-23T00:00:00Z",
+      4.9
+     ],
+     [
+      "2026-11-23T06:00:00Z",
+      4.7
+     ],
+     [
+      "2026-11-23T12:00:00Z",
+      4.5
+     ],
+     [
+      "2026-11-23T18:00:00Z",
+      4.3
+     ],
+     [
+      "2026-11-24T00:00:00Z",
+      4.2
+     ],
+     [
+      "2026-11-24T06:00:00Z",
+      4
+     ],
+     [
+      "2026-11-24T12:00:00Z",
+      3.8
+     ],
+     [
+      "2026-11-24T18:00:00Z",
+      3.7
+     ],
+     [
+      "2026-11-25T00:00:00Z",
+      3.6
+     ],
+     [
+      "2026-11-25T06:00:00Z",
+      3.4
+     ],
+     [
+      "2026-11-25T12:00:00Z",
+      3.3
+     ],
+     [
+      "2026-11-25T18:00:00Z",
+      3.1
+     ],
+     [
+      "2026-11-26T00:00:00Z",
+      3
+     ],
+     [
+      "2026-11-26T06:00:00Z",
+      2.9
+     ],
+     [
+      "2026-11-26T12:00:00Z",
+      2.8
+     ],
+     [
+      "2026-11-26T18:00:00Z",
+      2.6
+     ],
+     [
+      "2026-11-27T00:00:00Z",
+      2.5
+     ],
+     [
+      "2026-11-27T06:00:00Z",
+      2.4
+     ],
+     [
+      "2026-11-27T12:00:00Z",
+      2.3
+     ],
+     [
+      "2026-11-27T18:00:00Z",
+      2.2
+     ],
+     [
+      "2026-11-28T00:00:00Z",
+      2.1
+     ]
+    ],
+    "now": 10.64,
+    "nowAt": "2026-11-14T12:30:00Z",
+    "category": "no_flooding",
+    "fcCategory": "no_flooding",
+    "url": "https://water.noaa.gov/gauges/eadm7"
+   },
+   {
+    "lid": "NASI2",
+    "name": "Kaskaskia River at New Athens",
+    "usgs": "05595000",
+    "flood": {
+     "major": 85,
+     "moderate": 82,
+     "minor": 79,
+     "action": 77
+    },
+    "observed": [
+     [
+      "2026-11-13T12:15:00Z",
+      68.56
+     ],
+     [
+      "2026-11-13T12:30:00Z",
+      68.57
+     ],
+     [
+      "2026-11-13T12:45:00Z",
+      68.57
+     ],
+     [
+      "2026-11-13T13:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T13:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T13:30:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T13:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T14:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T14:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T14:30:00Z",
+      68.57
+     ],
+     [
+      "2026-11-13T14:45:00Z",
+      68.55
+     ],
+     [
+      "2026-11-13T15:00:00Z",
+      68.55
+     ],
+     [
+      "2026-11-13T15:15:00Z",
+      68.54
+     ],
+     [
+      "2026-11-13T15:30:00Z",
+      68.52
+     ],
+     [
+      "2026-11-13T15:45:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T16:00:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T16:15:00Z",
+      68.5
+     ],
+     [
+      "2026-11-13T16:30:00Z",
+      68.52
+     ],
+     [
+      "2026-11-13T16:45:00Z",
+      68.49
+     ],
+     [
+      "2026-11-13T17:00:00Z",
+      68.5
+     ],
+     [
+      "2026-11-13T17:15:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T17:30:00Z",
+      68.5
+     ],
+     [
+      "2026-11-13T17:45:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T18:00:00Z",
+      68.5
+     ],
+     [
+      "2026-11-13T18:15:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T18:30:00Z",
+      68.48
+     ],
+     [
+      "2026-11-13T18:45:00Z",
+      68.51
+     ],
+     [
+      "2026-11-13T19:00:00Z",
+      68.53
+     ],
+     [
+      "2026-11-13T19:15:00Z",
+      68.53
+     ],
+     [
+      "2026-11-13T19:30:00Z",
+      68.54
+     ],
+     [
+      "2026-11-13T19:45:00Z",
+      68.55
+     ],
+     [
+      "2026-11-13T20:00:00Z",
+      68.55
+     ],
+     [
+      "2026-11-13T20:15:00Z",
+      68.56
+     ],
+     [
+      "2026-11-13T20:30:00Z",
+      68.56
+     ],
+     [
+      "2026-11-13T20:45:00Z",
+      68.56
+     ],
+     [
+      "2026-11-13T21:00:00Z",
+      68.57
+     ],
+     [
+      "2026-11-13T21:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T21:30:00Z",
+      68.59
+     ],
+     [
+      "2026-11-13T21:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T22:00:00Z",
+      68.59
+     ],
+     [
+      "2026-11-13T22:15:00Z",
+      68.59
+     ],
+     [
+      "2026-11-13T22:30:00Z",
+      68.59
+     ],
+     [
+      "2026-11-13T22:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T23:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-13T23:15:00Z",
+      68.59
+     ],
+     [
+      "2026-11-13T23:30:00Z",
+      68.57
+     ],
+     [
+      "2026-11-13T23:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T00:00:00Z",
+      68.56
+     ],
+     [
+      "2026-11-14T00:15:00Z",
+      68.57
+     ],
+     [
+      "2026-11-14T00:30:00Z",
+      68.56
+     ],
+     [
+      "2026-11-14T00:45:00Z",
+      68.56
+     ],
+     [
+      "2026-11-14T01:00:00Z",
+      68.56
+     ],
+     [
+      "2026-11-14T01:15:00Z",
+      68.57
+     ],
+     [
+      "2026-11-14T01:30:00Z",
+      68.57
+     ],
+     [
+      "2026-11-14T01:45:00Z",
+      68.57
+     ],
+     [
+      "2026-11-14T02:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T02:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T02:30:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T02:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T03:00:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T03:15:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T03:30:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T03:45:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T04:00:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T04:15:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T04:30:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T04:45:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T05:00:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T05:15:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T05:30:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T05:45:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T06:00:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T06:15:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T06:30:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T06:45:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T07:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T07:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T07:30:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T07:45:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T08:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T08:15:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T08:30:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T08:45:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T09:00:00Z",
+      68.58
+     ],
+     [
+      "2026-11-14T09:15:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T09:30:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T09:45:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T10:00:00Z",
+      68.59
+     ],
+     [
+      "2026-11-14T10:15:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T10:30:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T10:45:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T11:00:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T11:15:00Z",
+      68.61
+     ],
+     [
+      "2026-11-14T11:30:00Z",
+      68.61
+     ],
+     [
+      "2026-11-14T11:45:00Z",
+      68.6
+     ],
+     [
+      "2026-11-14T12:00:00Z",
+      68.6
+     ]
+    ],
+    "forecast": [],
+    "now": 68.6,
+    "nowAt": "2026-11-14T12:00:00Z",
+    "category": "no_flooding",
+    "fcCategory": "fcst_not_current",
+    "url": "https://water.noaa.gov/gauges/nasi2"
+   },
+   {
+    "lid": "MTHI2",
+    "name": "Silver Creek near Mascoutah",
+    "usgs": "05594600",
+    "flood": {},
+    "observed": [
+     [
+      "2026-11-13T12:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T12:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T12:30:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T12:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T13:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T13:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T13:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T13:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T14:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T14:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T14:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T14:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T15:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T15:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T15:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T15:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T16:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T16:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-13T16:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T16:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T17:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T17:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T17:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T17:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T18:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T18:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T18:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T18:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T19:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T19:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-13T19:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T19:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T20:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T20:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T20:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T20:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T21:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T21:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T21:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T21:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T22:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T22:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T22:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T22:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T23:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T23:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T23:30:00Z",
+      8.22
+     ],
+     [
+      "2026-11-13T23:45:00Z",
+      8.22
+     ],
+     [
+      "2026-11-14T00:00:00Z",
+      8.22
+     ],
+     [
+      "2026-11-14T00:15:00Z",
+      8.22
+     ],
+     [
+      "2026-11-14T00:30:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T00:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T01:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T01:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T01:30:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T01:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T02:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T02:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T02:30:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T02:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T03:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T03:15:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T03:30:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T03:45:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T04:00:00Z",
+      8.21
+     ],
+     [
+      "2026-11-14T04:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T04:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T04:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T05:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T05:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T05:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T05:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T06:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T06:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T06:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T06:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T07:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T07:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T07:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T07:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T08:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T08:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T08:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T08:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T09:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T09:15:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T09:30:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T09:45:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T10:00:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T10:15:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T10:30:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T10:45:00Z",
+      8.2
+     ],
+     [
+      "2026-11-14T11:00:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T11:15:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T11:30:00Z",
+      8.19
+     ],
+     [
+      "2026-11-14T11:45:00Z",
+      8.19
+     ]
+    ],
+    "forecast": [],
+    "now": 8.19,
+    "nowAt": "2026-11-14T11:45:00Z",
+    "category": "not_defined",
+    "fcCategory": "fcst_not_current",
+    "url": "https://water.noaa.gov/gauges/mthi2"
+   }
+  ],
+  "source": "NOAA National Water Prediction Service",
+  "url": "https://water.noaa.gov/"
+ },
+ "shelters": {
+  "items": [],
+  "source": "FEMA National Shelter System – open shelters",
+  "url": "https://gis.fema.gov/arcgis/rest/services/NSS/OpenShelters/FeatureServer/0"
+ },
+ "healthNews": {
+  "source": "UC Davis Health News",
+  "feed": "https://health.ucdavis.edu/health-news/rss/newsroom",
+  "items": [
+   {
+    "title": "Potentially deadly soil bacterium gaining foothold in new regions, including U.S.",
+    "url": "https://health.ucdavis.edu/news/headlines/potentially-deadly-soil-bacterium-gaining-foothold-in-new-regions-including-us-/2026/11",
+    "date": "Fri, 06 Nov 2026 08:00:00 GMT",
+    "summary": "New study in Lancet Microbe finds antibody response in humans can persist for years, which can help track melioidosis.",
+    "matched": [
+     "bacteri",
+     "melioid"
+    ]
+   },
+   {
+    "title": "UC Davis podcast, Unfold, wins two national Signal Awards",
+    "url": "https://health.ucdavis.edu/news/headlines/uc-davis-podcast-unfold-wins-two-national-signal-awards/2026/10",
+    "date": "Fri, 30 Oct 2026 07:00:00 GMT",
+    "summary": "An episode of the UC Davis podcast Unfold that focused on patients with valley fever has won two Signal Awards.",
+    "matched": [
+     "valley fever"
+    ]
+   },
+   {
+    "title": "Your guide to flu and COVID-19 vaccines at UC Davis Health",
+    "url": "https://health.ucdavis.edu/news/headlines/your-guide-to-flu-and-covid-19-vaccines-at-uc-davis-health/2026/10",
+    "date": "Fri, 09 Oct 2026 07:00:00 GMT",
+    "summary": "UC Davis Health is offering 2026–27 flu and COVID-19 vaccines. This guide explains who should get them and how to schedule appointments.",
+    "matched": [
+     "flu",
+     "covid",
+     "vaccin"
+    ]
+   }
+  ]
+ },
+ "camsAll": {
+  "generated": "2026-11-14T07:03:43-06:00",
+  "mo": 875,
+  "il": 1455,
+  "ilViews": 3859,
+  "file": "cams-all.json"
+ },
+ "airnow": {
+  "area": "St. Louis Metropolitan Area",
+  "file": "https://files.airnowtech.org/airnow/today/reportingarea.dat",
+  "url": "https://www.airnow.gov/?city=St.%20Louis&state=MO&country=USA",
+  "current": {
+   "validDate": "11/14/26",
+   "issueDate": "11/14/26",
+   "validTime": "6:00",
+   "tz": "CST",
+   "type": "observed",
+   "primary": true,
+   "parameter": "PM2.5",
+   "aqi": 19,
+   "category": "Good",
+   "actionDay": false,
+   "discussion": "",
+   "source": "St. Louis Metropolitan Area (American Lung Association)"
+  },
+  "rows": [
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/13/26",
+    "validTime": "",
+    "tz": "CST",
+    "type": "yesterday",
+    "primary": true,
+    "parameter": "PM10",
+    "aqi": 34,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   },
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/13/26",
+    "validTime": "",
+    "tz": "CST",
+    "type": "yesterday",
+    "primary": false,
+    "parameter": "OZONE",
+    "aqi": 31,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   },
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/13/26",
+    "validTime": "",
+    "tz": "CST",
+    "type": "yesterday",
+    "primary": false,
+    "parameter": "PM2.5",
+    "aqi": 9,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   },
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/14/26",
+    "validTime": "6:00",
+    "tz": "CST",
+    "type": "observed",
+    "primary": true,
+    "parameter": "PM2.5",
+    "aqi": 19,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   },
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/14/26",
+    "validTime": "6:00",
+    "tz": "CST",
+    "type": "observed",
+    "primary": false,
+    "parameter": "OZONE",
+    "aqi": 15,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   },
+   {
+    "validDate": "11/14/26",
+    "issueDate": "11/14/26",
+    "validTime": "6:00",
+    "tz": "CST",
+    "type": "observed",
+    "primary": false,
+    "parameter": "PM10",
+    "aqi": 18,
+    "category": "Good",
+    "actionDay": false,
+    "discussion": "",
+    "source": "St. Louis Metropolitan Area (American Lung Association)"
+   }
+  ]
+ }
+}
