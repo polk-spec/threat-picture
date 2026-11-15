@@ -1,0 +1,41 @@
+# Closed-app critical weather alerts (free: GitHub Actions on a public repo + ntfy).
+# Polls the National Weather Service for public St. Louis area zones and pushes new critical alerts to a private
+# ntfy topic stored ONLY as the NTFY_TOPIC Actions secret. Sends nothing unless the repo variable NTFY_ENABLED = true.
+# GitHub runs schedules on a best-effort basis (often a few minutes late; can be skipped under load), so this is a
+# backup to Wireless Emergency Alerts and NOAA Weather Radio, not a replacement.
+name: NWS critical alerts
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: nws-alerts
+  cancel-in-progress: false
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: alerts
+      - name: Poll NWS and notify
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_ENABLED: ${{ vars.NTFY_ENABLED }}
+        run: python3 .github/scripts/nws_alerts.py
+      - name: Remember sent alerts
+        run: |
+          if ! git diff --quiet -- .github/alerts-state.json || [ -n "$(git status --porcelain .github/alerts-state.json)" ]; then
+            # only commit when the set of seen alerts changed (lastRun alone is not worth a commit)
+            if git show HEAD:.github/alerts-state.json >/dev/null 2>&1 && python3 -c "import json,sys,subprocess; a=json.load(open('.github/alerts-state.json')); b=json.loads(subprocess.check_output(['git','show','HEAD:.github/alerts-state.json'])); sys.exit(0 if a['seen']==b['seen'] and a.get('init')==b.get('init') else 1)"; then
+              echo "no new alerts"; exit 0
+            fi
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add .github/alerts-state.json
+            git commit -q -m "alerts: record sent NWS alert ids"
+            git push -q origin HEAD:alerts
+          fi
