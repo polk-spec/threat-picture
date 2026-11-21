@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#070b10">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https:; connect-src 'self' https:; media-src 'self' blob: https:; frame-src https:; worker-src 'self' blob:; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'none'; manifest-src 'self'">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Threat Picture">
+<title>Family Threat Picture</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+<link rel="stylesheet" href="app.css?v=23">
+<link rel="stylesheet" href="v2.css?v=23">
+<link rel="stylesheet" href="v22.css?v=23">
+</head>
+<body>
+<header class="topbar">
+  <img src="icons/icon-192.png" alt="" class="logo" width="28" height="28">
+  <div class="tb-text">
+    <div class="tb-title">Family Threat Picture</div>
+    <div class="tb-sub" id="loc">St. Louis Metro East</div>
+  </div>
+  <button id="em-open" class="em-btn" type="button" aria-haspopup="dialog" title="Emergency Mode: big controls that work offline">EMERGENCY</button>
+  <button id="refresh" class="icon-btn" aria-label="Refresh" title="Refresh all feeds"><span class="ico" aria-hidden="true">&#x21bb;</span></button>
+</header>
+<div class="eoc-strip" id="eoc-strip" aria-label="System status">
+  <span class="es-i"><span class="es-k">CT</span> <time id="es-clock">--:--</time></span>
+  <span class="es-i" id="es-net"><span class="es-dot"></span> <span>Online</span></span>
+  <button type="button" class="es-i es-btn" id="es-health" data-tab-go="sources" title="Open Source health"><span class="es-dot"></span> <span>Sources</span></button>
+  <button type="button" class="es-i" id="es-lvl" data-tab-go="brief" title="Overall threat level: open Overview" hidden></button>
+  <span class="es-i" id="es-risk" hidden></span>
+  <span class="es-i es-loc" id="es-locshare" hidden title="Location sharing is ON for this device (kept on this device only)">📍 Location sharing ON</span>
+</div>
+
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<div id="offline" class="notice" hidden>Offline: showing the last saved brief.</div>
+<div id="stale" class="notice warn" hidden></div>
+
+<main id="app">
+  <section id="banner" class="banner" role="button" tabindex="0" data-jump="brief" aria-label="Overall threat level. Open the brief: what changed and top actions">
+    <div class="banner-label">Overall threat level</div>
+    <div class="banner-level" id="overall-level">Loading…</div>
+    <div class="banner-updated">Brief issued <time id="updated">—</time> · <time id="checked">Checking for updates…</time></div>
+    <div class="tap-hint" aria-hidden="true">Tap for details ›</div>
+  </section>
+
+  <section class="metrics" id="metrics"></section>
+  <p class="summary" id="overall-summary"></p>
+  <div class="callout" id="watch" hidden></div>
+
+  <nav class="tabs" role="tablist" id="tabs" aria-label="Sections">
+    <button role="tab" data-tab="brief" data-ico="◉" aria-selected="true">Overview</button>
+    <button role="tab" data-tab="board" data-ico="▤" aria-selected="false">Threats</button>
+    <button role="tab" data-tab="alerts" data-ico="⚠" aria-selected="false">Alerts</button>
+    <button role="tab" data-tab="risk" data-ico="⌂" aria-selected="false">Household risk</button>
+    <button role="tab" data-tab="map" data-ico="⌖" aria-selected="false">Map</button>
+    <button role="tab" data-tab="cams" data-ico="▶" aria-selected="false">Cameras</button>
+    <button role="tab" data-tab="family" data-ico="♥" aria-selected="false">Family safety</button>
+    <button role="tab" data-tab="evac" data-ico="➜" aria-selected="false">Evacuation</button>
+    <button role="tab" data-tab="prep" data-ico="▦" aria-selected="false">Supplies &amp; prep</button>
+    <button role="tab" data-tab="comms" data-ico="📻" aria-selected="false">Comms</button>
+    <button role="tab" data-tab="sources" data-ico="⚙" aria-selected="false">Sources &amp; settings</button>
+  </nav>
+
+  <div data-panel="brief">
+    <div id="cmd-root"></div>
+    <div class="v2-tiles" aria-label="All sections">
+      <button type="button" class="v2-tile" data-tab-go="board"><b>Threats</b><span>Every tracked threat, labeled</span></button>
+      <button type="button" class="v2-tile" data-tab-go="alerts"><b>Alerts</b><span>Official NWS, USGS, FEMA</span></button>
+      <button type="button" class="v2-tile" data-tab-go="risk"><b>Household risk</b><span>Score for each place you watch</span></button>
+      <button type="button" class="v2-tile" data-tab-go="family"><b>Family safety</b><span>Check-ins, rally points, medical</span></button>
+      <button type="button" class="v2-tile" data-tab-go="evac"><b>Evacuation</b><span>Saved plans and routes</span></button>
+      <button type="button" class="v2-tile" data-tab-go="prep"><b>Supplies &amp; prep</b><span>Inventory and readiness</span></button>
+      <button type="button" class="v2-tile" data-tab-go="comms"><b>Comms</b><span>Radio plan and card</span></button>
+      <button type="button" class="v2-tile" data-tab-go="sources"><b>Sources &amp; settings</b><span>Source health, notifications</span></button>
+    </div>
+    <div class="row-btns family-bar" id="family-bar"><a class="btn-link" href="https://www.google.com/maps/" target="_blank" rel="noopener">📍 Family locations</a></div>
+    <p class="d family-locations-note">Opens Google Maps location sharing (sign in with your Google account). If the sharing list does not open automatically, tap your profile picture → Location sharing.</p>
+    <p class="hint personal-note" id="personal-note" hidden></p>
+    <h2>Top actions this week</h2>
+    <ol class="actions" id="top-actions"></ol>
+    <h2>What changed</h2>
+    <ul class="changes" id="changes"></ul>
+  </div>
+
+  <div data-panel="board" hidden>
+    <div class="filters">
+      <div class="seg" id="cat-filter" role="group" aria-label="Category"></div>
+      <label class="sel">Level
+        <select id="lvl-filter">
+          <option>Any</option><option>Severe</option><option>High</option><option>Elevated</option><option>Guarded</option><option>Low</option>
+        </select>
+      </label>
+    </div>
+    <div class="dist" id="dist"></div>
+    <div id="threats"></div>
+  </div>
+
+  <div data-panel="map" hidden>
+    <div class="map-bar">
+      <button type="button" class="small-btn" id="map-local">Local</button>
+      <button type="button" class="small-btn" id="map-world">World</button>
+      <button type="button" class="small-btn" id="map-layers-btn" aria-expanded="false" aria-controls="map-layers">Layers</button>
+      <span class="d" id="map-status"></span>
+    </div>
+    <div id="map-layers" class="map-layers" hidden></div>
+    <div class="map-wrap">
+      <div id="map" role="region" aria-label="Threat map"></div>
+      <div id="map-inset" class="map-inset" role="button" tabindex="0" aria-label="St. Louis metro inset map. Tap to zoom the main map to Local.">
+        <div id="map-inset-map" aria-hidden="true"></div>
+        <span class="inset-label">St. Louis metro</span>
+      </div>
+      <button type="button" id="map-inset-toggle" class="inset-toggle" aria-controls="map-inset" aria-expanded="true" title="Hide local inset">–</button>
+    </div>
+    <div id="map-legend" class="map-legend"></div>
+  </div>
+
+  <div data-panel="prep" hidden>
+    <nav class="chips" aria-label="Prep sections">
+      <a href="#v2-inv">Inventory</a><a href="#prep-air">Air quality</a><a href="#prep-outage">Outage</a><a href="#prep-drills">Drills</a><a href="#prep-supplies">Supplies</a><a href="#prep-rivers">Rivers</a><a href="#prep-help">Help nearby</a><a href="#prep-ready">Readiness</a><a href="#prep-comms">Rally &amp; comms</a><a href="#prep-prices">Fuel &amp; food</a><a href="#prep-power">Power &amp; grid</a><a href="#prep-nuke">Nuclear &amp; fallout</a>
+    </nav>
+    <div id="inv-root"></div>
+    <div id="air-root"></div>
+    <div id="power-root"></div>
+    <div id="drills-root"></div>
+    <div id="supply-root"></div>
+    <div id="rivers-root"></div>
+    <div id="help-root"></div>
+    <div id="prep-root"></div>
+  </div>
+
+  <div data-panel="risk" hidden>
+    <div id="risk-root"></div>
+  </div>
+
+  <div data-panel="family" hidden>
+    <div id="family-root"></div>
+    <div id="vault-root"></div>
+    <div id="cards-root"></div>
+  </div>
+
+  <div data-panel="evac" hidden>
+    <div id="evac-root"></div>
+  </div>
+
+  <div data-panel="comms" hidden>
+    <div id="comms-root"></div>
+    <div id="radio-root"></div>
+  </div>
+
+  <div data-panel="alerts" hidden>
+    <div id="severe-root"></div>
+    <div id="push-root"></div>
+    <p class="hint">Pulled live from official feeds each time you open this tab. Offline, the last copy is shown with its time.</p>
+    <div id="alerts-root"></div>
+  </div>
+
+  <div data-panel="cams" hidden>
+    <p class="hint">Official public cameras. MoDOT cameras play live video here. IDOT cameras show the official Travel Midwest viewer inside the app and reload every 60 seconds while visible. Camera groups you pin in Sources &amp; settings (saved only on this device) open first and start automatically; everything stops when you leave this tab.</p>
+    <div id="cams-root"></div>
+  </div>
+
+  <div data-panel="sources" hidden>
+    <div id="health-root"></div>
+    <div id="settings-root"></div>
+    <h2>Key sources</h2>
+    <ul class="sources" id="sources"></ul>
+    <div id="health-news-root"></div>
+  </div>
+</main>
+<div id="em-root" class="em-root" hidden role="dialog" aria-modal="true" aria-labelledby="em-title"></div>
+<footer class="foot">Updates about 7 AM and 6 PM Central. Verify any emergency alert with NOAA radio, weather.gov or local TV before acting.</footer>
+<script src="v2-health.js?v=23"></script>
+<script src="v22-engine.js?v=23"></script>
+<script src="loc.js?v=23"></script>
+<script src="app.js?v=23"></script>
+<script src="campl.js?v=23"></script>
+<script src="live.js?v=23"></script>
+<script src="prep.js?v=23"></script>
+<script src="vendor/leaflet/leaflet.js"></script>
+<script src="vendor/pmtiles/pmtiles.js"></script>
+<script src="vendor/protomaps/protomaps-leaflet.js"></script>
+<script src="map-extras.js?v=23"></script>
+<script src="map.js?v=23"></script>
+<script src="notify-rules.js?v=23"></script>
+<script src="extras.js?v=23"></script>
+<script src="severe.js?v=23"></script>
+<script src="prep2.js?v=23"></script>
+<script src="vault.js?v=23"></script>
+<script src="v2-core.js?v=23"></script>
+<script src="v2-family.js?v=23"></script>
+<script src="v2-comms.js?v=23"></script>
+<script src="v22-core.js?v=23"></script>
+<script src="v22-map.js?v=23"></script>
+<script src="v22-ops.js?v=23"></script>
+</body>
+</html>
