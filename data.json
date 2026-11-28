@@ -1,0 +1,783 @@
+{
+  "schemaVersion": 1,
+  "title": "Family Threat Picture — St. Louis Metro East",
+  "location": "St. Clair County, IL (St. Louis Metro East)",
+  "updated": "2026-11-28T07:40:00-06:00",
+  "overall": {
+    "level": "Elevated",
+    "localLevel": "Guarded",
+    "summary": "Overall: Elevated, steady; local picture eased to Guarded. Storm outages on the Illinois side are nearly gone: Ameren Illinois showed 579 customers out across its whole service area at 6:55 AM (0.05%); the Missouri side is still slow, with 37,169 Ameren Missouri customers out (2.95%) and restoration expected to run through the weekend. No NWS alerts. Next weather: dry today (high near 54), rain late tonight into Sunday (100% Sunday) with north gusts to 33 mph, then a low near 29 Sunday night, so wet roads can refreeze Monday morning. Abroad: US–Iran/Hormuz stays High (IRGC claims two more tankers hit mines, unverified; Iran vows to keep the strait shut). Brent last settled at $95.44; OPEC+ meets Sunday. Quiet: NTAS no advisories, FEMA IPAWS no IL/MO alerts, no New Madrid quakes, rivers low, air Good, space weather quiet.",
+    "topThreat": {
+      "id": "iran",
+      "level": "High",
+      "name": "US–Iran war and Strait of Hormuz"
+    },
+    "watchItem": "Sunday's rain and gusts to 33 mph (loose limbs from the snowstorm can still fall), then the Sunday-night refreeze; Hormuz incidents and the OPEC+ meeting Sunday."
+  },
+  "whatChanged": [
+    {
+      "date": "Nov 28 AM",
+      "title": "Illinois-side outages nearly cleared",
+      "detail": "Ameren Illinois: 579 customers out across its service area at 6:55 AM (0.05%), vs. 1,734 in St. Clair County alone last evening. Ameren Missouri: 37,169 out (2.95%), down from 42,004 at 10:43 PM. Power drops to Guarded, Falling; local level drops to Guarded.",
+      "trend": "Falling"
+    },
+    {
+      "date": "Nov 28 AM",
+      "title": "Sunday rain now with stronger gusts",
+      "detail": "No NWS alerts. Rain likely after 2 AM Sunday (60%), rain Sunday (100%), north gusts to 33 mph (up from 28), low near 29 Sunday night. Weather and roads stay Guarded.",
+      "trend": "Steady"
+    },
+    {
+      "date": "Nov 28 AM",
+      "title": "Hormuz: two more tanker claims; Iran vows strait stays shut",
+      "detail": "IRGC says two more tankers hit mines (near Khasab and east of the strait), not independently verified; an adviser to Iran's Supreme Leader said the strait will not reopen while the US blockade stays. CENTCOM: 6 ships disabled and 158 redirected since July. Iran stays High.",
+      "trend": "Steady"
+    },
+    {
+      "date": "Nov 28 AM",
+      "title": "Taiwan votes amid PLA activity",
+      "detail": "Taiwan reported 33 PLA aircraft sorties (27 across the median line) and 8 PLAN ships in the 24 hours to 6 AM Nov 28 Taiwan time, as local elections were held; results split between the two main parties. Taiwan stays Elevated.",
+      "trend": "Steady"
+    }
+  ],
+  "topActions": [
+    {
+      "title": "Use dry Saturday to prep for Sunday's rain and wind",
+      "detail": "Clear storm debris from gutters, drains and window wells, and look for cracked or hanging limbs over the driveway, roof or power drop; Sunday gusts reach 33 mph (NWS). Report hanging lines to Ameren and treat every downed line as live."
+    },
+    {
+      "title": "Plan for a Monday-morning refreeze",
+      "detail": "Sunday night's low near 29 follows a day of rain, so untreated roads, bridges and lots can be icy early Monday; allow extra time and keep a winter kit in each vehicle."
+    },
+    {
+      "title": "Top off, don't stock up",
+      "detail": "AAA regular is down again (East St. Louis $3.69, week ago $3.84) despite Hormuz headlines; keep vehicles at half a tank or more and normal pantry rotation."
+    }
+  ],
+  "threats": [
+    {
+      "id": "iran",
+      "name": "US–Iran war and Strait of Hormuz",
+      "category": "Global",
+      "level": "High",
+      "trend": "Steady",
+      "summary": "IRGC navy said (Tasnim, Xinhua, Nov 28) that two more 'violating' tankers sailing an 'unauthorized' route with GPS off hit naval mines and caught fire, one off Oman's Khasab port and one east of the Strait of Hormuz, and warned the whole route is mined; not independently verified. Mohammad Mokhber, adviser to Iran's Supreme Leader, said the strait will not reopen and Iran will not let the US blockade stand (Reuters/AP via Telegraph India, Nov 28). CENTCOM says it disabled the M/V Pacific Archer Thursday and has disabled 6 ships and redirected 158 since July (Euronews, Nov 28). Level High, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+      "actions": [
+        "Keep 2+ weeks of water, food, prescriptions and fuel on hand; rotate, don't panic-buy.",
+        "A confirmed clash between US forces and Iranian vessels, or a blockade-running attempt that turns violent, would raise this to Severe; until then no change to daily routine.",
+        "Keep a battery/crank radio and charged power banks; know your NOAA Weather Radio frequency."
+      ],
+      "lat": 26.57,
+      "lng": 56.25,
+      "type": "conflict",
+      "label": "developing",
+      "sourceName": "Euronews",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "nato",
+      "name": "Russia–NATO tension and nuclear rhetoric",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Latvia's armed forces said an unidentified drone briefly entered its airspace near Ludza and Balvi overnight into Nov 28; Latvia declared an air-threat alert, NATO Baltic air-policing jets were scrambled and an interceptor drone launched, and the alert was lifted within about 25 minutes; Estonia also issued a temporary warning (Euronews, LRT, mil.lv). Origin not officially identified. Level Elevated, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
+      "actions": [
+        "Know your shelter-in-place spot: basement center, away from windows.",
+        "Keep a battery or hand-crank NOAA radio and spare batteries.",
+        "Verify any nuclear alert through two official sources before acting (see fake-alert item)."
+      ],
+      "lat": 50.29,
+      "lng": 22.12,
+      "type": "nuclear",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Euronews (Nov 27)",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "ukr",
+      "name": "Russia–Ukraine war",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Russia launched 162 drones overnight into Nov 28; Ukraine's Air Force said 141 were downed or suppressed, with hits at 13 locations; a strike on Bila Tserkva injured three and damaged an energy site, prompting emergency power cuts in parts of Kyiv Oblast (RBC-Ukraine, NV, Nov 28). The death toll from a Nov 27 strike in Nizhyn rose to 7. Russia said it downed 1,246 Ukrainian drones overnight, over 400 aimed at the Moscow region (RFE/RL, Nov 28). Level Elevated, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html",
+      "actions": [
+        "No direct family action; watch the date of the next round of talks."
+      ],
+      "lat": 48.0,
+      "lng": 37.8,
+      "type": "conflict",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "RFE/RL",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "taiwan",
+      "name": "China–Taiwan pressure",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Taiwan's defense ministry detected 33 PLA aircraft sorties (27 crossing the median line), 8 PLAN ships and 4 official ships around Taiwan in the 24 hours to 6 AM Nov 28 (Taiwan time). Taiwan's Nov 28 local elections were held without reported incident; results split between the two main parties, with the KMT keeping Taipei (Focus Taiwan, AP). Level Elevated, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.mnd.gov.tw/en/news/plaact/88366",
+      "actions": [
+        "A Taiwan blockade would hit electronics and medicines first: keep 60–90 days of critical prescriptions where insurance allows.",
+        "Replace aging phones, radios, or chargers you rely on before shortages, not after."
+      ],
+      "lat": 24.0,
+      "lng": 119.5,
+      "type": "conflict",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Taiwan MND",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "nk",
+      "name": "North Korea",
+      "category": "Global",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "No new North Korean launch confirmed by South Korea's JCS or Yonhap found when rechecked Nov 28 morning. Last confirmed by Yonhap: Nov 4, several short-range missiles toward the East Sea from the Sondok area. Level Guarded, Steady.",
+      "date": "Nov 28 AM (last confirmed launch Nov 4)",
+      "source": "https://en.yna.co.kr/view/AEN20261105000651315",
+      "actions": [
+        "Monitor only; no family action needed now."
+      ],
+      "lat": 39.03,
+      "lng": 125.75,
+      "type": "nuclear",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Yonhap",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "fake",
+      "name": "Fake emergency alerts",
+      "category": "Global",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "No new incidents found through Nov 9. On Nov 1 hackers took over Ukraine's Air Alert app and Russia's EMERCOM app and sent fake nuclear, radiation and chemical warnings; both were shut down or restored, and official siren, SMS, TV and radio systems were unaffected. (Carried over from earlier briefs; not rechecked this run.)",
+      "date": "Nov 1 (carried over)",
+      "source": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo",
+      "actions": [
+        "Agree as a family: confirm any major alert on NOAA radio, weather.gov, or local TV before acting.",
+        "Rely on Wireless Emergency Alerts and NWS for official warnings; treat third-party app alerts as unverified."
+      ],
+      "lat": 50.45,
+      "lng": 30.52,
+      "type": "cyber",
+      "label": "assessment",
+      "checkedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "terror",
+      "name": "Terrorism (DHS NTAS)",
+      "category": "National",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "DHS NTAS: 'There are no current advisories' (checked about 7 AM CT Nov 28). FEMA IPAWS: no active emergency alerts for Illinois or Missouri (feed updated 7:55 PM CT Nov 27). No specific, credible threat to the region reported. Level Guarded, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.dhs.gov/ntas/",
+      "actions": [
+        "Normal awareness at crowded events; agree on a family rally point if separated.",
+        "Report suspicious packages near plants, rail yards or pipelines to police (See Something, Say Something)."
+      ],
+      "lat": 39.83,
+      "lng": -98.58,
+      "type": "terrorism",
+      "label": "official",
+      "sourceName": "DHS NTAS; FEMA IPAWS; The Flight Brief",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "cyber",
+      "name": "Cyber threats to infrastructure",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "No new CISA KEV additions since Nov 27 (catalog 2026.11.27, 1,808 entries, checked 7 AM CT Nov 28). The Nov 27 additions (two OSGeo GeoServer flaws and one Drupal core flaw) carry a federal patch deadline of Nov 30; a Juniper Session Smart Router flaw added Nov 25 is due Nov 28. Mostly a concern for organizations; for a household, keep routers, phones and computers on automatic updates. Level Elevated, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+      "actions": [
+        "Update home routers, phones and any Synology NAS now; don't expose a NAS to the internet.",
+        "Keep some cash and a few days of essentials in case card, bank or travel systems go down again.",
+        "Use a password manager and app-based two-factor on email and banking."
+      ],
+      "lat": 38.89,
+      "lng": -77.04,
+      "type": "cyber",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "CISA KEV catalog",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "measles",
+      "name": "Measles (US)",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Rising",
+      "summary": "CDC: 6,039 confirmed US measles cases in 2026 as of Nov 24 across 47 jurisdictions, up about 200 from the Nov 19 count, and CDC now lists nine measles-related deaths (state reports total at least 14). 11% of cases were hospitalized; the US lost measles elimination status this month. Pennsylvania is hardest hit (1,679 cases). Level Elevated, Rising.",
+      "date": "Nov 24 (CDC, checked Nov 27 AM)",
+      "source": "https://www.channelnewsasia.com/world/us-measles-related-deaths-cdc-2026-6582501",
+      "actions": [
+        "Confirm everyone in the household has two MMR doses on record (97% effective).",
+        "Check the IDPH page for Metro East exposure sites."
+      ],
+      "lat": 37.3,
+      "lng": -95.6,
+      "type": "disease",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "CNA/Reuters (Nov 26)"
+    },
+    {
+      "id": "flu",
+      "name": "Seasonal flu and H5 bird flu",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Rising",
+      "summary": "CDC FluView week 45 (ending Nov 14, posted Nov 20): seasonal flu keeps rising nationally and many indicators are higher than usual for mid-November, mostly A(H1N1); severity so far rated low; 7 pediatric deaths this season. The week 46 report is delayed to Nov 30 for Thanksgiving. Holiday gatherings usually speed spread. Level Elevated, Rising.",
+      "date": "Nov 14 (CDC week 45; week 46 due Nov 30)",
+      "source": "https://www.cdc.gov/fluview/surveillance/2026-week-45.html",
+      "actions": [
+        "Get flu shots for everyone now (CDC recommends now).",
+        "Stock a sick-room kit: thermometer, fever reducer, electrolytes, masks.",
+        "Antivirals work best started early; call the doctor on day one of symptoms."
+      ],
+      "lat": 41.6,
+      "lng": -96.2,
+      "type": "disease",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "CDC FluView week 45"
+    },
+    {
+      "id": "ebola",
+      "name": "Ebola (Bundibugyo), DR Congo",
+      "category": "Global",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "WHO Disease Outbreak News (Nov 20; data to Nov 17): 11,613 confirmed Bundibugyo Ebola cases and 5,678 deaths in DR Congo; UK health officials' weekly monitoring put the totals at 11,762 cases and 5,775 deaths by Nov 20. Still a WHO public health emergency of international concern; no US cases. Level Low, Steady.",
+      "date": "Nov 20 (checked Nov 27 AM)",
+      "source": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON630",
+      "actions": [
+        "No family action unless traveling to Central Africa."
+      ],
+      "lat": 0.5,
+      "lng": 29.5,
+      "type": "disease",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "WHO DON (Nov 2026)"
+    },
+    {
+      "id": "melioid",
+      "name": "Melioidosis (soil bacterium B. pseudomallei) in the U.S. Gulf Coast",
+      "category": "National",
+      "level": "Low",
+      "trend": "Rising",
+      "summary": "UC Davis Health (Nov 6) reports the tropical soil and water bacterium Burkholderia pseudomallei may be slowly establishing in new regions including the U.S.; CDC says it is found on Mississippi's Gulf Coast, Puerto Rico and the U.S. Virgin Islands, and most U.S. cases are in travelers. Rare, treatable with antibiotics, easily mistaken for other illnesses; caught from contaminated soil, dust or water, very rarely person to person. Rechecked Nov 9: no CDC, IDPH or MO DHSS report of the bacterium or a locally acquired case in Illinois or Missouri found; no new UC Davis item. CDC weekly notifiable-disease tables (compiled by ENCLAI) show 4 U.S. cases in 2026 through Oct 25.",
+      "date": "Nov 6 (checked Nov 22 PM)",
+      "source": "https://health.ucdavis.edu/news/headlines/potentially-deadly-soil-bacterium-gaining-foothold-in-new-regions-including-us-/2026/11",
+      "actions": [
+        "No action needed in the St. Louis area now; the bacterium has not been reported in Illinois or Missouri.",
+        "When gardening, digging or doing storm cleanup (especially on Gulf Coast trips), wear waterproof boots and gloves, and a well-fitting N95 in dusty soil or after heavy rain or flooding.",
+        "Keep cuts and scrapes clean and covered; avoid soil and standing floodwater with open wounds, diabetes, kidney or liver disease, or heavy alcohol use (CDC risk factors).",
+        "Don't drink untreated water; boil or treat it when traveling or camping.",
+        "After a trip to the Gulf Coast, Puerto Rico, Southeast Asia or northern Australia, tell a doctor about the travel if you get fever, cough, chest or stomach pain, a sore that won't heal, confusion or seizures."
+      ],
+      "lat": 30.4,
+      "lng": -89.07,
+      "type": "disease",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "econ",
+      "name": "Economy, fuel, supply chain",
+      "category": "National",
+      "level": "Elevated",
+      "trend": "Steady",
+      "summary": "Brent last settled at $95.44 a barrel Friday (markets closed for the weekend), its first weekly gain in November on Hormuz supply risk; OPEC+ meets Sunday Nov 29 and is expected to keep output targets unchanged (Forbes Middle East). AAA regular Nov 28: East St. Louis $3.69 (week ago $3.84), Illinois $3.70, St. Louis MO $3.16, Missouri $3.19. Level Elevated, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://analytics.forbesmiddleeast.com/industry/energy/brent-crude-gains-3-in-first-weekly-rise-in-november-ahead-of-opec-meeting",
+      "actions": [
+        "Don't make panic moves in retirement accounts; avoid new variable-rate debt.",
+        "Keep a cash buffer and a few weeks of shelf-stable staples you already eat; don't panic-buy.",
+        "Top off vehicles and stored fuel (with stabilizer) while prices are falling."
+      ],
+      "lat": 40.4,
+      "lng": -101.5,
+      "type": "economy",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Forbes Middle East; AAA",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "space",
+      "name": "Space weather",
+      "category": "National",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "NOAA SWPC 3-day forecast (issued 6:30 AM CT Nov 28): max observed Kp 4 in the past 24 hours (below storm levels); no G1 or greater geomagnetic storms expected Nov 28-30; no radiation storms observed. No household impact expected. Level Low, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://services.swpc.noaa.gov/text/3-day-forecast.txt",
+      "actions": [
+        "No action at G1; G4–G5 would be the point to protect electronics and expect GPS glitches."
+      ],
+      "lat": 40.01,
+      "lng": -105.27,
+      "type": "space",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "NOAA SWPC (Nov 24)",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "wx",
+      "name": "Weather (rain and gusts Sunday, then refreeze)",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "No NWS watches, warnings or advisories for St. Clair County (checked about 7 AM CT Nov 28). County forecast (NWS, updated 4:41 AM): today partly sunny, high near 54; tonight rain showers likely after 2 AM (60%), low 41; Sunday rain (100%), high near 49 falling to 42, north gusts to 33 mph; Sunday night low around 29 with gusts to 31 mph; Monday sunny, high 46. Level Guarded, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://forecast.weather.gov/MapClick.php?lat=38.52&lon=-89.98",
+      "actions": [
+        "Expect a freeze tonight (low near 29): clear remaining slush from walks and drains this afternoon.",
+        "Sunday rain on saturated, snow-melt ground: keep storm drains and gutters clear.",
+        "Keep the NOAA Weather Radio on for any Sunday thunderstorm alerts."
+      ],
+      "lat": 38.47,
+      "lng": -89.93,
+      "type": "weather",
+      "label": "official",
+      "sourceName": "NWS St. Louis forecast and discussion (Nov 27, 5:48 AM)",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "confidence": "high",
+      "impact": "Cold but quiet today; a hard freeze tonight, then a soaking rain Sunday.",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "quake",
+      "name": "New Madrid seismic zone",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "USGS: no M1.5+ earthquakes within 300 km of the New Madrid zone since 6 PM CT Nov 27 (checked about 7 AM CT Nov 28). Level Low, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://earthquake.usgs.gov/earthquakes/map/",
+      "actions": [
+        "Strap the water heater and anchor tall shelves.",
+        "Keep shoes, a flashlight and gloves by each bed.",
+        "Know how to shut off gas and water at the house."
+      ],
+      "lat": 36.59,
+      "lng": -89.59,
+      "type": "earthquake",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "river",
+      "name": "Mississippi River flooding",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "NOAA NWPS: Mississippi at St. Louis 4.2 ft (6:30 AM CT Nov 28), far below the 28 ft action and 30 ft flood stages. Kaskaskia at New Athens 68.6 ft (6 AM, flood stage 79 ft). Silver Creek near Mascoutah 11.7 ft (5:45 AM), falling (no NWS flood stage). Sunday's rain may bump small creeks. Level Low, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://water.noaa.gov/gauges/eadm7",
+      "actions": [
+        "No action; recheck if the forecast climbs toward the 28 ft action stage."
+      ],
+      "lat": 38.63,
+      "lng": -90.18,
+      "type": "flood",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "grid",
+      "name": "Power outages (storm)",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Falling",
+      "summary": "Ameren outage feed (6:55 AM CT Nov 28): Ameren Illinois 579 customers out across its entire service area (0.05%, 139 outages), so Illinois-side storm outages are nearly cleared (St. Clair County had 1,734 out last evening; the county breakdown was unavailable this morning). Missouri side still slow: Ameren Missouri 37,169 out (2.95%, 4,330 outages); Ameren said Friday evening restoration will continue this weekend over multiple days. MISO status Normal. Level Guarded, Falling.",
+      "date": "Nov 28 AM",
+      "source": "https://outagemap.ameren.com/",
+      "actions": [
+        "Report any outage or hanging line at outagemap.ameren.com or 1-800-755-5000; treat every downed line as live.",
+        "Before Sunday's gusts, look for cracked or hanging limbs over the roof, driveway or service drop.",
+        "Generators and grills outdoors only, 20+ feet from doors and windows; test smoke and CO alarms.",
+        "Keep phones and power banks charged ahead of Sunday's wind."
+      ],
+      "lat": 38.67,
+      "lng": -89.98,
+      "type": "power",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Ameren outage map (Nov 28, 6:55 AM)",
+      "confidence": "high",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "air",
+      "name": "Air quality",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "AirNow St. Louis area: AQI 40 (Good, PM2.5) at 6 AM Nov 28; no Action Day. Level Low, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.airnow.gov/?city=St.%20Louis&state=MO",
+      "actions": [
+        "Air is Good: no limits needed.",
+        "Keep spare HVAC filters (MERV 13) and N95s for smoke days.",
+        "Check AirNow before long outdoor activity."
+      ],
+      "lat": 38.63,
+      "lng": -90.25,
+      "type": "air",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "crime",
+      "name": "Local crime and public safety",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "No new major public-safety incident or ongoing public threat found in nearby metro-east communities this morning (checked Nov 28). The Belleville News-Democrat's Nov 28 court roundup notes a man in federal custody for a Nov 14 bomb-threat bank robbery in a nearby city; the FBI is checking links to other recent metro-east bomb threats. Small Business Saturday and a nearby evening holiday parade draw crowds today. Level Guarded, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.bnd.com/news/local/crime/article318283937.html",
+      "actions": [
+        "Lock vehicles and garage overnight; keep exterior lights on.",
+        "Agree on a household plan for staying aware and calling home if approached by strangers."
+      ],
+      "lat": 38.65,
+      "lng": -90.33,
+      "type": "crime",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "Belleville News-Democrat",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "road",
+      "name": "Road and transport safety",
+      "category": "Local",
+      "level": "Guarded",
+      "trend": "Steady",
+      "summary": "No NWS winter alerts. Roads dry today. Sunday's rain followed by a low near 29 Sunday night can refreeze wet pavement for Monday morning, especially bridges, overpasses and untreated side streets. Sunday gusts to 33 mph may bring down storm-weakened limbs. Level Guarded, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD",
+      "actions": [
+        "Check Getting Around Illinois or MoDOT's traveler map before longer holiday trips.",
+        "Treat dark traffic signals as four-way stops and watch for limbs on side roads.",
+        "Keep a winter car kit in each vehicle and share routes and check-in times."
+      ],
+      "lat": 38.55,
+      "lng": -90.17,
+      "type": "transport",
+      "label": "official",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "NWS St. Louis (Nov 27, 5:48 AM)",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "infra",
+      "name": "Regional military and critical infrastructure (public news)",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Steady",
+      "summary": "DHS NTAS has no current advisories (checked about 7 AM CT Nov 28). Public news about regional military and critical-infrastructure sites rechecked this morning remains routine (contracts, holiday events, facility upgrades); no security incident, closure or exercise warning found. Level Low, Steady.",
+      "date": "Nov 28 AM",
+      "source": "https://www.dhs.gov/ntas/",
+      "actions": [
+        "Monitor only."
+      ],
+      "lat": 38.52,
+      "lng": -89.98,
+      "type": "military",
+      "label": "assessment",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "updatedAt": "2026-11-28T07:40:00-06:00"
+    },
+    {
+      "id": "gateway",
+      "name": "Granite City hospital on EMS bypass (Gateway Regional)",
+      "category": "Local",
+      "level": "Low",
+      "trend": "Rising",
+      "date": "Nov 18 (checked Nov 23 AM)",
+      "summary": "Gateway Regional Medical Center in Granite City remains on ambulance bypass over staffing and payroll problems; Illinois rejected its $9 million emergency-funding request (St. Louis Business Journal, Nov 18), and state officials say bypass continues until payroll and physician payments are resolved (First Alert 4, Nov 17). CMS rescinded a planned Medicare termination. No closure order reported. Expect longer ambulance trips to other area hospitals. Level Low, trend Rising.",
+      "source": "https://www.bizjournals.com/stlouis/news/2026/11/18/gateway-regional-illinois-emergency-funding-bid.html",
+      "actions": [
+        "Know your two nearest open ERs and urgent cares (Prep > Help nearby lists them).",
+        "Keep a printed med list and insurance card in each go-bag in case you end up at an unfamiliar hospital."
+      ],
+      "lat": 38.7,
+      "lng": -90.15,
+      "type": "other",
+      "label": "verified",
+      "checkedAt": "2026-11-28T07:40:00-06:00",
+      "sourceName": "St. Louis Business Journal (Nov 18)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Ameren outage map (Ameren Illinois 579 out, Ameren Missouri 37,169 out, 6:55 AM Nov 28)",
+      "site": "outagemap.ameren.com",
+      "date": "Nov 28",
+      "url": "https://outagemap.ameren.com/"
+    },
+    {
+      "title": "Ameren Missouri Storm Restoration Update (Nov 27, 5:45 PM)",
+      "site": "ameren.mediaroom.com",
+      "date": "Nov 27",
+      "url": "https://ameren.mediaroom.com/"
+    },
+    {
+      "title": "NWS forecast, St. Clair County point",
+      "site": "weather.gov",
+      "date": "Nov 28",
+      "url": "https://forecast.weather.gov/MapClick.php?lat=38.52&lon=-89.98"
+    },
+    {
+      "title": "US military fires at a ship that violated blockade of Iranian ports",
+      "site": "euronews.com",
+      "date": "Nov 28",
+      "url": "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports"
+    },
+    {
+      "title": "Two more tankers explode in Strait of Hormuz (IRGC claim)",
+      "site": "tasnimnews.ir",
+      "date": "Nov 28",
+      "url": "https://www.tasnimnews.ir/en/news/2026/11/28/3759702/two-more-tankers-explode-in-strait-of-hormuz"
+    },
+    {
+      "title": "US disables another ship; Tehran vows to keep Hormuz shut",
+      "site": "telegraphindia.com",
+      "date": "Nov 28",
+      "url": "https://www.telegraphindia.com/world/us-disables-another-ship-attempting-to-breach-iran-blockade-tehran-vows-to-keep-strait-of-hormuz-shut/cid/2191724"
+    },
+    {
+      "title": "Brent crude gains 3% in first weekly rise in November ahead of OPEC+",
+      "site": "forbesmiddleeast.com",
+      "date": "Nov 28",
+      "url": "https://analytics.forbesmiddleeast.com/industry/energy/brent-crude-gains-3-in-first-weekly-rise-in-november-ahead-of-opec-meeting"
+    },
+    {
+      "title": "Russia, Ukraine trade aerial strikes",
+      "site": "rferl.org",
+      "date": "Nov 28",
+      "url": "https://www.rferl.org/a/ukraine-black-sea-ceasefire-russia-shipping-exports/33907217.html"
+    },
+    {
+      "title": "Ukraine repels drone attack: 162 launched, 141 downed",
+      "site": "newsukraine.rbc.ua",
+      "date": "Nov 28",
+      "url": "https://newsukraine.rbc.ua/news/ukraine-repels-massive-drone-attack-as-russia-1795850102.html"
+    },
+    {
+      "title": "PLA activities around Taiwan (Nov 28)",
+      "site": "mnd.gov.tw",
+      "date": "Nov 28",
+      "url": "https://www.mnd.gov.tw/en/news/plaact/88366"
+    },
+    {
+      "title": "Taiwan local elections live results",
+      "site": "focustaiwan.tw",
+      "date": "Nov 28",
+      "url": "https://focustaiwan.tw/politics/202611285002"
+    },
+    {
+      "title": "Latvian armed forces: airspace threat in Ludza and Balvi",
+      "site": "mil.lv",
+      "date": "Nov 28",
+      "url": "https://www.mil.lv/lv/zinas/nacionalie-brunotie-speki-informe-par-gaisa-telpas-apdraudejumu-ludzas-un-balvu-novados"
+    },
+    {
+      "title": "NOAA SWPC 3-day forecast",
+      "site": "swpc.noaa.gov",
+      "date": "Nov 28",
+      "url": "https://services.swpc.noaa.gov/text/3-day-forecast.txt"
+    },
+    {
+      "title": "Metro East crime roundup",
+      "site": "bnd.com",
+      "date": "Nov 28",
+      "url": "https://www.bnd.com/news/local/crime/article318283937.html"
+    },
+    {
+      "title": "DHS NTAS",
+      "site": "dhs.gov",
+      "date": "Nov 28",
+      "url": "https://www.dhs.gov/ntas/"
+    },
+    {
+      "title": "CISA Known Exploited Vulnerabilities catalog (2026.11.27)",
+      "site": "cisa.gov",
+      "date": "Nov 28",
+      "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "title": "Ameren Missouri Storm Restoration Update (9 AM Nov 27)",
+      "site": "ameren.mediaroom.com",
+      "date": "Nov 27",
+      "url": "https://ameren.mediaroom.com/2026-11-27-Ameren-Missouri-Storm-Restoration-Update"
+    },
+    {
+      "title": "Ameren makes progress on restoring power; outages remain",
+      "site": "fox2now.com",
+      "date": "Nov 27",
+      "url": "https://fox2now.com/news/missouri/ameren-makes-progress-on-restoring-power-in-st-louis-area-outages-remain/"
+    },
+    {
+      "title": "IRGC navy says two oil tankers hit by explosions",
+      "site": "iranintl.com",
+      "date": "Nov 27",
+      "url": "https://www.iranintl.com/en/202611274568"
+    },
+    {
+      "title": "Iran War Updates (CENTCOM disables ship; Kuwait attack)",
+      "site": "cbsnews.com",
+      "date": "Nov 27",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/"
+    },
+    {
+      "title": "Brent oil posts weekly gain on Middle East supply fears",
+      "site": "cnbc.com",
+      "date": "Nov 27",
+      "url": "https://www.cnbc.com/2026/11/27/brent-oil-wti-hormuz-middle-east.html"
+    },
+    {
+      "title": "Zelenskyy warns of major Russian attack",
+      "site": "aljazeera.com",
+      "date": "Nov 27",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+    },
+    {
+      "title": "Latvia, Estonia issue drone warnings overnight",
+      "site": "lrt.lt",
+      "date": "Nov 27",
+      "url": "https://www.lrt.lt/en/news-in-english/19/3127097/latvia-estonia-issue-drone-warnings-overnight-amid-reported-attacks-near-st-petersburg"
+    },
+    {
+      "title": "Daily Belleville, Nov 27 edition",
+      "site": "dailybelleville.com",
+      "date": "Nov 27",
+      "url": "https://dailybelleville.com/local-news/editions/11-27-2026"
+    },
+    {
+      "title": "Thanksgiving in the dark: thousands across St. Louis area without power (FOX 2, 5:50 AM)",
+      "site": "fox2now.com",
+      "date": "Nov 27",
+      "url": "https://fox2now.com/news/thanksgiving-in-the-dark-thousands-across-st-louis-area-left-without-power/"
+    },
+    {
+      "title": "Ameren Missouri storm restoration update",
+      "site": "ameren.mediaroom.com",
+      "date": "Nov 26",
+      "url": "https://ameren.mediaroom.com/2026-11-26-Ameren-Missouri-Storm-Restoration-Update"
+    },
+    {
+      "title": "NWS St. Louis area forecast discussion",
+      "site": "weather.gov",
+      "date": "Nov 27",
+      "url": "https://forecast.weather.gov/product.php?site=LSX&issuedby=LSX&product=AFD"
+    },
+    {
+      "title": "NWS active alerts, St. Clair County",
+      "site": "weather.gov",
+      "date": "Nov 27",
+      "url": "https://alerts.weather.gov/search?zone=ILC163"
+    },
+    {
+      "title": "Iran says oil tanker explodes after hitting naval mine in Hormuz (Anadolu)",
+      "site": "aa.com.tr",
+      "date": "Nov 27",
+      "url": "https://www.aa.com.tr/en/middle-east/iran-says-oil-tanker-explodes-after-hitting-naval-mine-in-strait-of-hormuz/4140346"
+    },
+    {
+      "title": "IRGC says tanker hits naval mine, another turns back (Iran International)",
+      "site": "iranintl.com",
+      "date": "Nov 27",
+      "url": "https://www.iranintl.com/en/202611274906"
+    },
+    {
+      "title": "Iran war live (Al Jazeera)",
+      "site": "aljazeera.com",
+      "date": "Nov 27",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious"
+    },
+    {
+      "title": "Oil on track to snap three-week losing streak (Reuters via Euronext)",
+      "site": "euronext.com",
+      "date": "Nov 27",
+      "url": "https://live.euronext.com/en/financial-news/oil-track-snap-three-week-losing-streak-over-supply-fears"
+    },
+    {
+      "title": "NATO jets scrambled after drone enters Latvian airspace (Euronews)",
+      "site": "euronews.com",
+      "date": "Nov 27",
+      "url": "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace"
+    },
+    {
+      "title": "Russian attacks kill 6, injure 25 across Ukraine (Kyiv Independent)",
+      "site": "kyivindependent.com",
+      "date": "Nov 27",
+      "url": "https://kyivindependent.com/russian-attacks-kill-6-injure-25-across-ukraine-over-past-day-power-outages-across-6-oblasts/"
+    },
+    {
+      "title": "PLA 'joint combat readiness patrol' press release (Taiwan MND)",
+      "site": "mnd.gov.tw",
+      "date": "Nov 27",
+      "url": "https://www.mnd.gov.tw/EN/Publication/88360"
+    },
+    {
+      "title": "PLA activities around Taiwan (Taiwan MND)",
+      "site": "mnd.gov.tw",
+      "date": "Nov 27",
+      "url": "https://www.mnd.gov.tw/En/News/PLAAct/88359"
+    },
+    {
+      "title": "N. Korea fires multiple missiles toward East Sea (Yonhap)",
+      "site": "yna.co.kr",
+      "date": "Nov 4",
+      "url": "https://en.yna.co.kr/view/AEN20261104005551315"
+    },
+    {
+      "title": "CISA adds 10 Known Exploited Vulnerabilities",
+      "site": "cisa.gov",
+      "date": "Nov 25",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog"
+    },
+    {
+      "title": "US CDC reports nine measles-related deaths in 2026 (CNA/Reuters)",
+      "site": "channelnewsasia.com",
+      "date": "Nov 26",
+      "url": "https://www.channelnewsasia.com/world/us-measles-related-deaths-cdc-2026-6582501"
+    },
+    {
+      "title": "CDC FluView week 45",
+      "site": "cdc.gov",
+      "date": "Nov 20",
+      "url": "https://www.cdc.gov/fluview/surveillance/2026-week-45.html"
+    }
+  ]
+}
